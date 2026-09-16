@@ -47,8 +47,8 @@ const Storage = (() => {
   /**
    * Borra el historial de TODOS los quizzes (todas las claves con el prefijo
    * de este módulo). Pensado para el botón "Borrar historial" del menú
-   * principal; la protección por contraseña vive en app.js y es solo
-   * fricción para evitar un borrado accidental, no una medida de seguridad.
+   * principal, que antes de llamar a esta función pide confirmación al
+   * usuario mediante un aviso en app.js.
    */
   function clearAllHistory() {
     try {

@@ -520,32 +520,6 @@ button {
   margin-bottom: 1rem;
 }
 
-.modal-input {
-  width: 100%;
-  min-height: 48px;
-  border: 1.5px solid var(--color-borde);
-  border-radius: var(--radio);
-  padding: 0.7rem 0.9rem;
-  font-size: 1rem;
-  color: var(--color-texto);
-  background: var(--color-fondo);
-  margin-bottom: 0.6rem;
-}
-
-.modal-input:focus {
-  outline: none;
-  border-color: var(--color-primario);
-}
-
-.modal-error {
-  color: var(--color-error);
-  background: var(--color-error-fondo);
-  border-radius: 8px;
-  padding: 0.5rem 0.7rem;
-  font-size: 0.85rem;
-  margin-bottom: 0.8rem;
-}
-
 .modal-acciones {
   display: flex;
   gap: 0.7rem;
