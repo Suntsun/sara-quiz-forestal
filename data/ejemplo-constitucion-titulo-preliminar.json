@@ -1,0 +1,112 @@
+[
+  {
+    "id": "cep-1",
+    "pregunta": "Según el artículo 1.3 de la Constitución Española, ¿cuál es la forma política del Estado español?",
+    "opciones": [
+      "La República parlamentaria",
+      "La Monarquía parlamentaria",
+      "El Estado federal"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 1.3 CE: \"La forma política del Estado español es la Monarquía parlamentaria\"."
+  },
+  {
+    "id": "cep-2",
+    "pregunta": "De acuerdo con el artículo 1.2 CE, ¿dónde reside la soberanía nacional?",
+    "opciones": [
+      "En el Rey, como Jefe del Estado",
+      "En las Cortes Generales",
+      "En el pueblo español, del que emanan los poderes del Estado"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 1.2 CE: \"La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado\"."
+  },
+  {
+    "id": "cep-3",
+    "pregunta": "¿Cuáles son los valores superiores del ordenamiento jurídico español según el artículo 1.1 CE?",
+    "opciones": [
+      "Libertad, justicia, igualdad y pluralismo político",
+      "Unidad, solidaridad, igualdad y justicia",
+      "Libertad, propiedad, seguridad y justicia"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 1.1 CE propugna como valores superiores la libertad, la justicia, la igualdad y el pluralismo político."
+  },
+  {
+    "id": "cep-4",
+    "pregunta": "El artículo 2 de la Constitución reconoce y garantiza...",
+    "opciones": [
+      "La independencia de las nacionalidades y regiones que integran España",
+      "El derecho a la autonomía de las nacionalidades y regiones que integran la Nación española, y la solidaridad entre ellas",
+      "La soberanía compartida entre el Estado y las Comunidades Autónomas"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 2 CE se fundamenta en la unidad de la Nación española y reconoce el derecho a la autonomía de nacionalidades y regiones, así como la solidaridad entre ellas."
+  },
+  {
+    "id": "cep-5",
+    "pregunta": "Según el artículo 3.1 CE, ¿cuál es la lengua española oficial del Estado?",
+    "opciones": [
+      "El catalán",
+      "El castellano",
+      "Todas las lenguas cooficiales por igual"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 3.1 CE: \"El castellano es la lengua española oficial del Estado\"."
+  },
+  {
+    "id": "cep-6",
+    "pregunta": "En la bandera de España descrita en el artículo 4.1 CE, ¿qué franja tiene el doble de anchura respecto a las otras dos?",
+    "opciones": [
+      "La franja roja superior",
+      "La franja amarilla central",
+      "Las tres franjas tienen la misma anchura"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 4.1 CE: tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas."
+  },
+  {
+    "id": "cep-7",
+    "pregunta": "Según el artículo 5 de la Constitución, ¿cuál es la capital del Estado?",
+    "opciones": [
+      "Toledo",
+      "Barcelona",
+      "Madrid"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 5 CE: \"La capital del Estado es la villa de Madrid\"."
+  },
+  {
+    "id": "cep-8",
+    "pregunta": "¿Qué establece el artículo 6 CE sobre los partidos políticos?",
+    "opciones": [
+      "Que expresan el pluralismo político y son instrumento fundamental para la participación política",
+      "Que son órganos del Estado financiados exclusivamente con fondos públicos",
+      "Que su estructura interna puede ser no democrática si así lo establecen sus estatutos"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 6 CE: los partidos políticos expresan el pluralismo político, concurren a la formación de la voluntad popular y son instrumento fundamental para la participación política; su estructura y funcionamiento deben ser democráticos."
+  },
+  {
+    "id": "cep-9",
+    "pregunta": "Según el artículo 7 CE, ¿qué se exige a la estructura interna y funcionamiento de los sindicatos y las asociaciones empresariales?",
+    "opciones": [
+      "Que sean democráticos",
+      "Que sean aprobados previamente por el Gobierno",
+      "Que carezcan de personalidad jurídica propia"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 7 CE: su creación y actividad son libres dentro del respeto a la Constitución y la ley, y su estructura interna y funcionamiento deberán ser democráticos."
+  },
+  {
+    "id": "cep-10",
+    "pregunta": "¿Qué ejércitos constituyen las Fuerzas Armadas según el artículo 8.1 CE?",
+    "opciones": [
+      "Ejército de Tierra, Marina y Guardia Civil",
+      "Policía Nacional, Guardia Civil y Ejército de Tierra",
+      "Ejército de Tierra, la Armada y el Ejército del Aire"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 8.1 CE: las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire, garantizan la soberanía e independencia de España y defienden su integridad territorial y el ordenamiento constitucional."
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "Sara Quiz - Oposición Agente Forestal",
+  "short_name": "Sara Quiz",
+  "description": "Exámenes tipo test de estudio para la oposición de Agente Forestal.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f5f1",
+  "theme_color": "#2f5233",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

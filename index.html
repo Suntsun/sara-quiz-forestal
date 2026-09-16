@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover">
+  <title>Sara Quiz · Oposición Agente Forestal</title>
+  <meta name="description" content="Exámenes tipo test para la oposición de Agente Forestal: Constitución Española, Código Penal y más.">
+
+  <!-- PWA ligera (sin service worker, sin offline) -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Sara Quiz">
+  <meta name="theme-color" content="#2f5233">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <link rel="icon" href="icons/icon-180.png">
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="app-header">
+    <p class="app-header-kicker">Oposición Agente Forestal</p>
+    <h1 class="app-header-title">Sara Quiz</h1>
+  </header>
+
+  <main id="app">
+
+    <!-- VISTA 1: Menú principal -->
+    <section id="view-menu" class="view">
+      <p id="menu-estado" class="menu-estado" aria-live="polite">Cargando exámenes…</p>
+      <div id="menu-categorias"></div>
+    </section>
+
+    <!-- VISTA 2: Ficha / intro de un quiz antes de empezar -->
+    <section id="view-quiz-intro" class="view" hidden>
+      <button id="btn-volver-menu-intro" class="btn-enlace">&larr; Volver al menú</button>
+      <h2 id="intro-titulo" class="intro-titulo"></h2>
+      <p id="intro-meta" class="intro-meta"></p>
+      <button id="btn-empezar" class="btn-primario" disabled>Empezar examen</button>
+      <div id="intro-historial" class="bloque-historial"></div>
+    </section>
+
+    <!-- VISTA 3: Examen en curso, una pregunta a la vez -->
+    <section id="view-quiz-play" class="view" hidden>
+      <div class="progress-bar" role="progressbar" aria-label="Progreso del examen">
+        <div id="progress-fill" class="progress-fill"></div>
+      </div>
+      <p id="progress-text" class="progress-text"></p>
+      <h2 id="play-pregunta" class="play-pregunta"></h2>
+      <div id="play-opciones" class="play-opciones"></div>
+    </section>
+
+    <!-- VISTA 4: Resultados + revisión -->
+    <section id="view-results" class="view" hidden>
+      <h2 class="resultados-titulo">Resultado</h2>
+      <div id="resultado-nota" class="resultado-nota"></div>
+
+      <div class="acciones-resultado">
+        <button id="btn-rehacer" class="btn-primario">Rehacer quiz</button>
+        <button id="btn-volver-menu-resultados" class="btn-secundario">Volver al menú</button>
+      </div>
+
+      <div id="resultado-historial" class="bloque-historial"></div>
+
+      <h3 class="revision-titulo">Revisión de preguntas</h3>
+      <div id="revision-lista" class="revision-lista"></div>
+    </section>
+
+  </main>
+
+  <footer class="app-footer">
+    <p>Material de estudio personal · sin conexión a servidores externos</p>
+  </footer>
+
+  <script src="js/storage.js"></script>
+  <script src="js/quiz-engine.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

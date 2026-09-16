@@ -1,0 +1,499 @@
+/* ==========================================================================
+   Sara Quiz - Oposición Agente Forestal
+   Estilos base: mobile-first, sobrio, sin frameworks.
+   ========================================================================== */
+
+:root {
+  --color-fondo: #f6f5f1;
+  --color-superficie: #ffffff;
+  --color-texto: #23291f;
+  --color-texto-suave: #5b6357;
+  --color-borde: #dcded4;
+
+  --color-primario: #2f5233;      /* verde forestal oscuro */
+  --color-primario-hover: #253f28;
+  --color-primario-suave: #e7efe6;
+
+  --color-acento: #7a5c2e;        /* marrón tierra, para detalles */
+
+  --color-acierto: #2e7d32;
+  --color-acierto-fondo: #e5f3e6;
+  --color-error: #a4342a;
+  --color-error-fondo: #fbeae8;
+
+  --radio: 12px;
+  --sombra: 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06);
+
+  --fuente: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--fuente);
+  background: var(--color-fondo);
+  color: var(--color-texto);
+  line-height: 1.45;
+  -webkit-text-size-adjust: 100%;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+h1, h2, h3 {
+  margin: 0 0 0.4em 0;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+p {
+  margin: 0 0 0.8em 0;
+}
+
+button {
+  font-family: inherit;
+}
+
+/* --- Cabecera / pie ------------------------------------------------- */
+
+.app-header {
+  background: var(--color-primario);
+  color: #fff;
+  padding: 1.4rem 1.2rem 1.1rem;
+  text-align: center;
+}
+
+.app-header-kicker {
+  margin: 0 0 0.2rem 0;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.app-header-title {
+  margin: 0;
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.app-footer {
+  text-align: center;
+  padding: 1.5rem 1rem 2rem;
+  color: var(--color-texto-suave);
+  font-size: 0.78rem;
+}
+
+/* --- Contenedor principal -------------------------------------------- */
+
+#app {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 1.2rem 1rem 2rem;
+}
+
+.view {
+  animation: aparecer 0.15s ease-out;
+}
+
+@keyframes aparecer {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* --- Menú principal ---------------------------------------------------- */
+
+.menu-estado {
+  color: var(--color-texto-suave);
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.categoria-bloque {
+  margin-bottom: 1.8rem;
+}
+
+.categoria-titulo {
+  font-size: 1.05rem;
+  color: var(--color-primario);
+  border-bottom: 2px solid var(--color-primario-suave);
+  padding-bottom: 0.4rem;
+  margin-bottom: 0.8rem;
+}
+
+.categoria-tarjetas {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
+.tarjeta-quiz {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.25rem;
+  width: 100%;
+  text-align: left;
+  background: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio);
+  box-shadow: var(--sombra);
+  padding: 0.9rem 1.1rem;
+  cursor: pointer;
+  transition: transform 0.08s ease, border-color 0.08s ease;
+}
+
+.tarjeta-quiz:active {
+  transform: scale(0.98);
+}
+
+.tarjeta-quiz:hover {
+  border-color: var(--color-primario);
+}
+
+.tarjeta-quiz-titulo {
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--color-texto);
+}
+
+.tarjeta-quiz-resumen {
+  font-size: 0.83rem;
+  color: var(--color-texto-suave);
+}
+
+/* --- Botones genéricos --------------------------------------------------- */
+
+.btn-primario,
+.btn-secundario {
+  display: block;
+  width: 100%;
+  min-height: 52px;
+  border-radius: var(--radio);
+  font-size: 1.02rem;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  padding: 0.8rem 1rem;
+  margin-bottom: 0.7rem;
+  transition: background 0.1s ease, transform 0.08s ease;
+}
+
+.btn-primario {
+  background: var(--color-primario);
+  color: #fff;
+}
+
+.btn-primario:active {
+  transform: scale(0.98);
+}
+
+.btn-primario:hover:not(:disabled) {
+  background: var(--color-primario-hover);
+}
+
+.btn-primario:disabled {
+  background: var(--color-borde);
+  color: var(--color-texto-suave);
+  cursor: not-allowed;
+}
+
+.btn-secundario {
+  background: var(--color-superficie);
+  color: var(--color-primario);
+  border: 1.5px solid var(--color-primario);
+}
+
+.btn-secundario:active {
+  transform: scale(0.98);
+}
+
+.btn-enlace {
+  display: inline-block;
+  background: none;
+  border: none;
+  color: var(--color-primario);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0.4rem 0;
+  margin-bottom: 0.8rem;
+}
+
+/* --- Intro de quiz -------------------------------------------------------- */
+
+.intro-titulo {
+  font-size: 1.25rem;
+  color: var(--color-texto);
+}
+
+.intro-meta {
+  color: var(--color-texto-suave);
+  font-size: 0.92rem;
+  margin-bottom: 1.2rem;
+}
+
+/* --- Historial de intentos ------------------------------------------------ */
+
+.bloque-historial {
+  margin-top: 1.4rem;
+}
+
+.historial-titulo {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--color-texto-suave);
+  margin-bottom: 0.5rem;
+}
+
+.historial-vacio {
+  color: var(--color-texto-suave);
+  font-size: 0.88rem;
+  font-style: italic;
+}
+
+.historial-lista {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.historial-item {
+  display: flex;
+  justify-content: space-between;
+  background: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: 8px;
+  padding: 0.5rem 0.8rem;
+  font-size: 0.86rem;
+}
+
+.historial-fecha {
+  color: var(--color-texto-suave);
+}
+
+.historial-nota {
+  font-weight: 700;
+  color: var(--color-primario);
+}
+
+/* --- Examen en curso -------------------------------------------------------- */
+
+.progress-bar {
+  width: 100%;
+  height: 8px;
+  background: var(--color-borde);
+  border-radius: 999px;
+  overflow: hidden;
+  margin-bottom: 0.5rem;
+}
+
+.progress-fill {
+  height: 100%;
+  background: var(--color-primario);
+  width: 0%;
+  transition: width 0.2s ease;
+}
+
+.progress-text {
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--color-texto-suave);
+  margin-bottom: 1.4rem;
+}
+
+.play-pregunta {
+  font-size: 1.15rem;
+  line-height: 1.4;
+  margin-bottom: 1.4rem;
+}
+
+.play-opciones {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
+.opcion-btn {
+  width: 100%;
+  text-align: left;
+  min-height: 56px;
+  background: var(--color-superficie);
+  border: 1.5px solid var(--color-borde);
+  border-radius: var(--radio);
+  padding: 0.85rem 1rem;
+  font-size: 1rem;
+  color: var(--color-texto);
+  cursor: pointer;
+  transition: border-color 0.1s ease, background 0.1s ease;
+}
+
+.opcion-btn:active:not(:disabled) {
+  transform: scale(0.99);
+}
+
+.opcion-btn:disabled {
+  cursor: default;
+  opacity: 0.65;
+}
+
+.opcion-elegida {
+  border-color: var(--color-primario);
+  background: var(--color-primario-suave);
+  opacity: 1 !important;
+}
+
+/* --- Resultados ------------------------------------------------------------- */
+
+.resultados-titulo {
+  text-align: center;
+}
+
+.resultado-nota {
+  text-align: center;
+  margin-bottom: 1.2rem;
+}
+
+.nota-numero {
+  display: block;
+  font-size: 2.4rem;
+  font-weight: 800;
+  color: var(--color-primario);
+}
+
+.nota-porcentaje {
+  display: block;
+  font-size: 1rem;
+  color: var(--color-texto-suave);
+}
+
+.acciones-resultado {
+  margin-bottom: 0.6rem;
+}
+
+.revision-titulo {
+  margin-top: 2rem;
+  font-size: 1.05rem;
+  border-bottom: 2px solid var(--color-primario-suave);
+  padding-bottom: 0.4rem;
+}
+
+.revision-lista {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.revision-pregunta {
+  background: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio);
+  padding: 0.9rem 1rem;
+}
+
+.revision-enunciado {
+  font-weight: 600;
+  margin-bottom: 0.6rem;
+}
+
+.revision-opciones {
+  list-style: none;
+  margin: 0 0 0.5rem 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.revision-opcion {
+  border: 1px solid var(--color-borde);
+  border-radius: 8px;
+  padding: 0.5rem 0.7rem;
+  font-size: 0.92rem;
+}
+
+.revision-correcta {
+  border-color: var(--color-acierto);
+  background: var(--color-acierto-fondo);
+  color: var(--color-acierto);
+  font-weight: 600;
+}
+
+.revision-incorrecta-elegida {
+  border-color: var(--color-error);
+  background: var(--color-error-fondo);
+  color: var(--color-error);
+  font-weight: 600;
+}
+
+.revision-acertada {
+  outline: 2px solid var(--color-acierto);
+}
+
+.revision-explicacion {
+  margin: 0.5rem 0 0 0;
+  font-size: 0.86rem;
+  color: var(--color-texto-suave);
+  border-top: 1px dashed var(--color-borde);
+  padding-top: 0.5rem;
+}
+
+/* --- Adaptación a pantallas algo más grandes -------------------------------- */
+
+@media (min-width: 480px) {
+  .app-header-title {
+    font-size: 1.7rem;
+  }
+
+  .acciones-resultado {
+    display: flex;
+    gap: 0.7rem;
+  }
+
+  .acciones-resultado .btn-primario,
+  .acciones-resultado .btn-secundario {
+    margin-bottom: 0;
+  }
+}
+
+/* --- Modo oscuro del sistema: mantenemos el diseño sobrio pero legible ------ */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --color-fondo: #14170f;
+    --color-superficie: #1d2118;
+    --color-texto: #eceee6;
+    --color-texto-suave: #a3ab98;
+    --color-borde: #333a2c;
+
+    --color-primario: #6fa876;
+    --color-primario-hover: #86bb8c;
+    --color-primario-suave: #24301f;
+
+    --color-acierto: #7fd08a;
+    --color-acierto-fondo: #17301c;
+    --color-error: #e5897e;
+    --color-error-fondo: #351d1a;
+  }
+
+  .app-header {
+    background: #1c2a1c;
+  }
+
+  .btn-primario {
+    color: #0d1408;
+  }
+}

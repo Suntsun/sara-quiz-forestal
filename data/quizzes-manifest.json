@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cp-delitos-ambientales-incendios",
+    "titulo": "Código Penal — Delitos ambientales, flora/fauna e incendios forestales (arts. 319-358 bis)",
+    "categoria": "codigo-penal",
+    "archivo": "data/cp-delitos-ambientales-incendios.json"
+  },
+  {
+    "id": "ejemplo-constitucion-titulo-preliminar",
+    "titulo": "[EJEMPLO] Constitución - Título Preliminar",
+    "categoria": "constitucion",
+    "archivo": "data/ejemplo-constitucion-titulo-preliminar.json"
+  }
+]

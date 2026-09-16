@@ -1,0 +1,142 @@
+[
+  {
+    "id": "cp-001",
+    "pregunta": "Según el artículo 319.1 CP, ¿cuál es la pena de prisión prevista para promotores, constructores o técnicos directores que lleven a cabo obras de urbanización o edificación no autorizables en suelos destinados a viales, zonas verdes o bienes de dominio público?",
+    "opciones": ["De uno año y seis meses a cuatro años", "De seis meses a dos años", "De dos a cinco años"],
+    "correcta": 0,
+    "explicacion": "Art. 319.1 CP: prisión de 1 año y 6 meses a 4 años, multa de doce a veinticuatro meses e inhabilitación especial de uno a cuatro años."
+  },
+  {
+    "id": "cp-002",
+    "pregunta": "El artículo 321 CP castiga a quien derribe o altere gravemente un edificio protegido por su interés histórico, artístico, cultural o monumental. ¿Qué duración tiene la inhabilitación especial para profesión u oficio impuesta en todo caso?",
+    "opciones": ["De uno a cinco años", "De seis meses a dos años", "De dos a cuatro años"],
+    "correcta": 0,
+    "explicacion": "Art. 321 CP: prisión de 6 meses a 3 años, multa de doce a veinticuatro meses y, en todo caso, inhabilitación especial de uno a cinco años."
+  },
+  {
+    "id": "cp-003",
+    "pregunta": "Según el artículo 324 CP, ¿a partir de qué cuantía de daños causados por imprudencia grave en un bien de valor histórico, artístico o cultural se aplica este precepto?",
+    "opciones": ["Superior a 400 euros", "Superior a 1.000 euros", "Superior a 4.000 euros"],
+    "correcta": 0,
+    "explicacion": "Art. 324 CP: daños en cuantía superior a 400 euros, castigados con multa de tres a dieciocho meses."
+  },
+  {
+    "id": "cp-004",
+    "pregunta": "El tipo básico del delito contra el medio ambiente (art. 325.1 CP) castiga con pena de prisión de:",
+    "opciones": ["Seis meses a dos años", "Uno a tres años", "Dos a cinco años"],
+    "correcta": 0,
+    "explicacion": "Art. 325.1 CP: prisión de 6 meses a 2 años, multa de 10 a 14 meses e inhabilitación especial de uno a dos años."
+  },
+  {
+    "id": "cp-005",
+    "pregunta": "Cuando las conductas del artículo 325 CP puedan perjudicar gravemente el equilibrio de los sistemas naturales, la pena de prisión se eleva a:",
+    "opciones": ["Dos a cinco años", "Uno a tres años", "Tres a seis años"],
+    "correcta": 0,
+    "explicacion": "Art. 325.2 CP: prisión de dos a cinco años, multa de 8 a 24 meses e inhabilitación especial de uno a tres años."
+  },
+  {
+    "id": "cp-006",
+    "pregunta": "Según el artículo 330 CP, dañar gravemente en un espacio natural protegido alguno de los elementos que sirvieron para calificarlo se castiga con:",
+    "opciones": ["Prisión de uno a cuatro años y multa de doce a veinticuatro meses", "Prisión de seis meses a dos años y multa de ocho a veinticuatro meses", "Prisión de dos a cinco años y multa de ocho a veinticuatro meses"],
+    "correcta": 0,
+    "explicacion": "Art. 330 CP, sin apartados adicionales de agravación."
+  },
+  {
+    "id": "cp-007",
+    "pregunta": "¿Qué establece el artículo 331 CP respecto a los hechos del Capítulo III (delitos contra los recursos naturales y el medio ambiente) cometidos por imprudencia grave?",
+    "opciones": ["Se sancionan con la pena inferior en grado", "Quedan exentos de pena", "Se sancionan con la misma pena que si fuera doloso"],
+    "correcta": 0,
+    "explicacion": "Art. 331 CP: pena inferior en grado, en sus respectivos supuestos."
+  },
+  {
+    "id": "cp-008",
+    "pregunta": "El artículo 332.1 CP excluye de responsabilidad penal la conducta sobre especies protegidas de flora silvestre cuando:",
+    "opciones": ["La conducta afecte a una cantidad insignificante de ejemplares y no tenga consecuencias relevantes para el estado de conservación de la especie", "El autor desconozca que la especie está protegida", "Los ejemplares procedan de un vivero autorizado"],
+    "correcta": 0,
+    "explicacion": "Art. 332.1 CP, salvedad expresa incluida en el propio precepto."
+  },
+  {
+    "id": "cp-009",
+    "pregunta": "Según el artículo 332.2 CP, ¿cuándo se impone la pena en su mitad superior por delitos contra la flora protegida?",
+    "opciones": ["Cuando se trate de especies o subespecies catalogadas en peligro de extinción", "Cuando el hecho se cometa dentro de un espacio natural protegido", "Cuando el autor sea reincidente"],
+    "correcta": 0,
+    "explicacion": "Art. 332.2 CP."
+  },
+  {
+    "id": "cp-010",
+    "pregunta": "¿Qué pena prevé el artículo 333 CP para quien introduzca o libere especies de flora o fauna no autóctona perjudicando el equilibrio biológico?",
+    "opciones": ["Prisión de cuatro meses a dos años o multa de ocho a veinticuatro meses", "Prisión de uno a tres años o multa de doce a veinticuatro meses", "Multa de seis a dieciocho meses únicamente"],
+    "correcta": 0,
+    "explicacion": "Art. 333 CP, con inhabilitación especial adicional de uno a tres años."
+  },
+  {
+    "id": "cp-011",
+    "pregunta": "Según el artículo 334.4 CP, ¿qué pena adicional se impone cuando los hechos de caza, pesca o destrucción de fauna protegida (letras a y c del apartado 1) se cometen utilizando armas?",
+    "opciones": ["Privación del derecho a la tenencia y porte de armas de 2 a 4 años", "Inhabilitación especial de 4 a 6 años para el ejercicio de la caza", "Multa adicional de 6 a 12 meses"],
+    "correcta": 0,
+    "explicacion": "Art. 334.4 CP, añadido por la L.O. 3/2023 de maltrato animal."
+  },
+  {
+    "id": "cp-012",
+    "pregunta": "El artículo 336 CP castiga a quien, sin estar legalmente autorizado, emplee veneno o medios explosivos para la caza o pesca con:",
+    "opciones": ["Prisión de cuatro meses a dos años o multa de ocho a veinticuatro meses", "Prisión de seis meses a tres años únicamente", "Solo con multa de doce a veinticuatro meses"],
+    "correcta": 0,
+    "explicacion": "Art. 336 CP, además de inhabilitación especial de 1 a 3 años y privación del derecho a tenencia y porte de armas."
+  },
+  {
+    "id": "cp-013",
+    "pregunta": "Según el artículo 338 CP, ¿qué ocurre cuando las conductas definidas en el Título XVI (delitos contra el medio ambiente, flora y fauna) afectan a algún espacio natural protegido?",
+    "opciones": ["Se imponen las penas superiores en grado a las respectivamente previstas", "Se imponen las penas en su mitad superior", "No varía la pena, pero se agrava la responsabilidad civil"],
+    "correcta": 0,
+    "explicacion": "Art. 338 CP, disposición común del Capítulo V del Título XVI."
+  },
+  {
+    "id": "cp-014",
+    "pregunta": "¿Qué efecto tiene, según el artículo 340 CP, que el culpable de un delito del Título XVI repare voluntariamente el daño causado?",
+    "opciones": ["Se le impone la pena inferior en grado a las respectivamente previstas", "Queda exento de responsabilidad penal", "Se le impone la pena en su mitad inferior únicamente para la multa"],
+    "correcta": 0,
+    "explicacion": "Art. 340 CP."
+  },
+  {
+    "id": "cp-015",
+    "pregunta": "El artículo 351 CP castiga con prisión de 10 a 20 años provocar un incendio que comporte peligro para la vida o integridad física de las personas. ¿Qué ocurre cuando no concurre dicho peligro?",
+    "opciones": ["Los hechos se castigan como daños previstos en el artículo 266 CP", "Los hechos quedan impunes", "Se aplica igualmente la pena de 10 a 20 años reducida en un tercio"],
+    "correcta": 0,
+    "explicacion": "Art. 351, párrafo 2º, CP."
+  },
+  {
+    "id": "cp-016",
+    "pregunta": "Según el artículo 352 CP, incendiar montes o masas forestales se castiga con:",
+    "opciones": ["Prisión de uno a cinco años y multa de doce a dieciocho meses", "Prisión de seis meses a dos años y multa de seis a veinticuatro meses", "Prisión de tres a seis años y multa de dieciocho a veinticuatro meses"],
+    "correcta": 0,
+    "explicacion": "Art. 352, párrafo 1º, CP."
+  },
+  {
+    "id": "cp-017",
+    "pregunta": "¿Cuál de las siguientes es una de las circunstancias que agravan un incendio forestal a la pena de 3 a 6 años según el artículo 353.1 CP?",
+    "opciones": ["Que afecte a una superficie de considerable importancia", "Que el autor sea funcionario público", "Que se haya producido durante la noche"],
+    "correcta": 0,
+    "explicacion": "Art. 353.1, circunstancia 1ª, CP. Las otras dos opciones no figuran entre las seis circunstancias listadas en el precepto."
+  },
+  {
+    "id": "cp-018",
+    "pregunta": "Según el artículo 354.2 CP, ¿cuándo queda exenta de pena la conducta de prender fuego a montes o masas forestales sin que llegue a propagarse el incendio?",
+    "opciones": ["Cuando el incendio no se propague por la acción voluntaria y positiva de su autor", "Cuando el autor repare económicamente el daño causado", "Cuando no haya testigos del hecho"],
+    "correcta": 0,
+    "explicacion": "Art. 354.2 CP."
+  },
+  {
+    "id": "cp-019",
+    "pregunta": "El artículo 355 CP permite a los Jueces o Tribunales acordar que la calificación del suelo de las zonas afectadas por un incendio forestal no se modifique en un plazo de hasta:",
+    "opciones": ["Treinta años", "Diez años", "Veinte años"],
+    "correcta": 0,
+    "explicacion": "Art. 355 CP."
+  },
+  {
+    "id": "cp-020",
+    "pregunta": "¿Qué pena prevé el artículo 357 CP para el incendiario de bienes propios que actúe con propósito de defraudar o perjudicar a terceros, o cuando exista peligro de propagación a bienes ajenos?",
+    "opciones": ["Prisión de uno a cuatro años", "Prisión de seis meses a dos años", "Multa de doce a veinticuatro meses únicamente"],
+    "correcta": 0,
+    "explicacion": "Art. 357 CP."
+  }
+]
