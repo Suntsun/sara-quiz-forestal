@@ -8,10 +8,10 @@
   },
   {
     "id": "cp-002",
-    "pregunta": "El artículo 321 CP castiga a quien derribe o altere gravemente un edificio protegido por su interés histórico, artístico, cultural o monumental. ¿Qué duración tiene la inhabilitación especial para profesión u oficio impuesta en todo caso?",
-    "opciones": ["De uno a cinco años", "De seis meses a dos años", "De dos a cuatro años"],
+    "pregunta": "El artículo 321 CP castiga a quien derribe o altere gravemente un edificio protegido por su interés histórico, artístico, cultural o monumental. ¿Cuál es la pena de PRISIÓN prevista (al margen de la multa y la inhabilitación, que llevan otra duración)?",
+    "opciones": ["De seis meses a tres años", "De uno a cinco años", "De dos a cuatro años"],
     "correcta": 0,
-    "explicacion": "Art. 321 CP: prisión de 6 meses a 3 años, multa de doce a veinticuatro meses y, en todo caso, inhabilitación especial de uno a cinco años."
+    "explicacion": "Art. 321 CP: prisión de seis meses a tres años, multa de doce a veinticuatro meses y, en todo caso, inhabilitación especial de uno a cinco años (esta última es la distractora 2; no confundir las dos cifras del mismo artículo)."
   },
   {
     "id": "cp-003",
