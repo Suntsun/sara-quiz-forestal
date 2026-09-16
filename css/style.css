@@ -450,6 +450,138 @@ button {
   padding-top: 0.5rem;
 }
 
+/* --- Ajustes del menú (borrado de historial) ------------------------------ */
+
+.menu-ajustes {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px dashed var(--color-borde);
+  text-align: center;
+}
+
+.btn-peligro-enlace {
+  display: inline-block;
+  background: none;
+  border: none;
+  color: var(--color-texto-suave);
+  font-size: 0.82rem;
+  cursor: pointer;
+  padding: 0.4rem 0.6rem;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.btn-peligro-enlace:hover,
+.btn-peligro-enlace:active {
+  color: var(--color-error);
+}
+
+/* --- Modal de confirmación -------------------------------------------------- */
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 1rem;
+  z-index: 100;
+}
+
+.modal-overlay[hidden] {
+  display: none;
+}
+
+@media (min-width: 480px) {
+  .modal-overlay {
+    align-items: center;
+  }
+}
+
+.modal-caja {
+  width: 100%;
+  max-width: 420px;
+  background: var(--color-superficie);
+  border-radius: var(--radio);
+  box-shadow: var(--sombra);
+  padding: 1.3rem 1.2rem;
+}
+
+.modal-titulo {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.05rem;
+  color: var(--color-texto);
+}
+
+.modal-texto {
+  font-size: 0.88rem;
+  color: var(--color-texto-suave);
+  margin-bottom: 1rem;
+}
+
+.modal-input {
+  width: 100%;
+  min-height: 48px;
+  border: 1.5px solid var(--color-borde);
+  border-radius: var(--radio);
+  padding: 0.7rem 0.9rem;
+  font-size: 1rem;
+  color: var(--color-texto);
+  background: var(--color-fondo);
+  margin-bottom: 0.6rem;
+}
+
+.modal-input:focus {
+  outline: none;
+  border-color: var(--color-primario);
+}
+
+.modal-error {
+  color: var(--color-error);
+  background: var(--color-error-fondo);
+  border-radius: 8px;
+  padding: 0.5rem 0.7rem;
+  font-size: 0.85rem;
+  margin-bottom: 0.8rem;
+}
+
+.modal-acciones {
+  display: flex;
+  gap: 0.7rem;
+}
+
+.modal-acciones .btn-secundario,
+.modal-acciones .btn-primario {
+  margin-bottom: 0;
+}
+
+.btn-peligro {
+  background: var(--color-error);
+}
+
+.btn-peligro:hover {
+  background: var(--color-error);
+  opacity: 0.9;
+}
+
+/* --- Toast de confirmación --------------------------------------------------- */
+
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: 1.4rem;
+  transform: translateX(-50%);
+  background: var(--color-texto);
+  color: var(--color-fondo);
+  padding: 0.7rem 1.1rem;
+  border-radius: 999px;
+  font-size: 0.88rem;
+  box-shadow: var(--sombra);
+  z-index: 200;
+  animation: aparecer 0.15s ease-out;
+}
+
 /* --- Adaptación a pantallas algo más grandes -------------------------------- */
 
 @media (min-width: 480px) {

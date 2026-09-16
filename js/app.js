@@ -53,6 +53,19 @@
   const btnRehacer = document.getElementById('btn-rehacer');
   const btnVolverMenuResultados = document.getElementById('btn-volver-menu-resultados');
 
+  const btnBorrarHistorial = document.getElementById('btn-borrar-historial');
+  const modalBorrar = document.getElementById('modal-borrar');
+  const modalBorrarPassword = document.getElementById('modal-borrar-password');
+  const modalBorrarError = document.getElementById('modal-borrar-error');
+  const btnModalCancelar = document.getElementById('btn-modal-cancelar');
+  const btnModalConfirmar = document.getElementById('btn-modal-confirmar');
+  const toast = document.getElementById('toast');
+
+  // Contraseña de fricción para el borrado de historial. NO es una medida de
+  // seguridad real (está hardcodeada y visible en el código fuente): solo
+  // evita un borrado accidental al pulsar el botón por error.
+  const PASSWORD_BORRAR_HISTORIAL = 'sudo1234';
+
   // --- Utilidades ------------------------------------------------------
 
   function escapeHtml(str) {
@@ -291,6 +304,54 @@
       })
       .join('');
   }
+
+  // --- Borrado de todo el historial (protegido por contraseña simple) ----
+
+  let toastTimeoutId = null;
+
+  function mostrarToast(mensaje) {
+    toast.textContent = mensaje;
+    toast.hidden = false;
+    if (toastTimeoutId) clearTimeout(toastTimeoutId);
+    toastTimeoutId = setTimeout(() => {
+      toast.hidden = true;
+    }, 2200);
+  }
+
+  function abrirModalBorrar() {
+    modalBorrarPassword.value = '';
+    modalBorrarError.hidden = true;
+    modalBorrar.hidden = false;
+    modalBorrarPassword.focus();
+  }
+
+  function cerrarModalBorrar() {
+    modalBorrar.hidden = true;
+  }
+
+  function confirmarBorradoHistorial() {
+    const introducida = modalBorrarPassword.value;
+    if (introducida !== PASSWORD_BORRAR_HISTORIAL) {
+      modalBorrarError.hidden = false;
+      modalBorrarPassword.value = '';
+      modalBorrarPassword.focus();
+      return;
+    }
+    Storage.clearAllHistory();
+    cerrarModalBorrar();
+    renderMenu();
+    mostrarToast('Historial borrado');
+  }
+
+  btnBorrarHistorial.addEventListener('click', abrirModalBorrar);
+  btnModalCancelar.addEventListener('click', cerrarModalBorrar);
+  btnModalConfirmar.addEventListener('click', confirmarBorradoHistorial);
+  modalBorrarPassword.addEventListener('keydown', (ev) => {
+    if (ev.key === 'Enter') confirmarBorradoHistorial();
+  });
+  modalBorrar.addEventListener('click', (ev) => {
+    if (ev.target === modalBorrar) cerrarModalBorrar();
+  });
 
   // --- Navegación / eventos globales --------------------------------------
 

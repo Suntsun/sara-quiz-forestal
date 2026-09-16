@@ -31,6 +31,10 @@
     <section id="view-menu" class="view">
       <p id="menu-estado" class="menu-estado" aria-live="polite">Cargando exámenes…</p>
       <div id="menu-categorias"></div>
+
+      <section class="menu-ajustes">
+        <button id="btn-borrar-historial" class="btn-peligro-enlace">Borrar todo el historial</button>
+      </section>
     </section>
 
     <!-- VISTA 2: Ficha / intro de un quiz antes de empezar -->
@@ -73,6 +77,33 @@
   <footer class="app-footer">
     <p>Material de estudio personal · sin conexión a servidores externos</p>
   </footer>
+
+  <!-- Modal de confirmación para borrar todo el historial -->
+  <div id="modal-borrar" class="modal-overlay" hidden>
+    <div class="modal-caja" role="dialog" aria-modal="true" aria-labelledby="modal-borrar-titulo">
+      <h3 id="modal-borrar-titulo" class="modal-titulo">Borrar todo el historial</h3>
+      <p class="modal-texto">
+        Esto borrará los intentos guardados de todos los exámenes en este dispositivo.
+        Introduce la contraseña para confirmar.
+      </p>
+      <input
+        id="modal-borrar-password"
+        class="modal-input"
+        type="password"
+        placeholder="Contraseña"
+        autocomplete="off"
+        inputmode="text"
+      >
+      <p id="modal-borrar-error" class="modal-error" hidden>Contraseña incorrecta. No se ha borrado nada.</p>
+      <div class="modal-acciones">
+        <button id="btn-modal-cancelar" class="btn-secundario">Cancelar</button>
+        <button id="btn-modal-confirmar" class="btn-primario btn-peligro">Borrar todo</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast de confirmación breve -->
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
 
   <script src="js/storage.js"></script>
   <script src="js/quiz-engine.js"></script>

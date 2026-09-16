@@ -44,5 +44,24 @@ const Storage = (() => {
     }
   }
 
-  return { getHistory, addAttempt };
+  /**
+   * Borra el historial de TODOS los quizzes (todas las claves con el prefijo
+   * de este módulo). Pensado para el botón "Borrar historial" del menú
+   * principal; la protección por contraseña vive en app.js y es solo
+   * fricción para evitar un borrado accidental, no una medida de seguridad.
+   */
+  function clearAllHistory() {
+    try {
+      const claves = [];
+      for (let i = 0; i < localStorage.length; i++) {
+        const clave = localStorage.key(i);
+        if (clave && clave.indexOf(PREFIX) === 0) claves.push(clave);
+      }
+      claves.forEach((clave) => localStorage.removeItem(clave));
+    } catch (err) {
+      console.error('No se pudo borrar el historial completo', err);
+    }
+  }
+
+  return { getHistory, addAttempt, clearAllHistory };
 })();
