@@ -82,5 +82,65 @@
     "titulo": "Código Penal — Delitos de incendio: forestales, no forestales y bienes propios (arts. 351-358 bis)",
     "categoria": "codigo-penal",
     "archivo": "data/cp-incendios.json"
+  },
+  {
+    "id": "ce-t2-corona",
+    "titulo": "Constitución — De la Corona (arts. 56-65)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t2-corona.json"
+  },
+  {
+    "id": "ce-t3-cortes-camaras",
+    "titulo": "Constitución — Cortes Generales: las Cámaras (arts. 66-80)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t3-cortes-camaras.json"
+  },
+  {
+    "id": "ce-t3-leyes-tratados",
+    "titulo": "Constitución — Elaboración de las leyes y tratados internacionales (arts. 81-96)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t3-leyes-tratados.json"
+  },
+  {
+    "id": "ce-t4-gobierno-administracion",
+    "titulo": "Constitución — Del Gobierno y de la Administración (arts. 97-107)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t4-gobierno-administracion.json"
+  },
+  {
+    "id": "ce-t5-gobierno-cortes",
+    "titulo": "Constitución — Relaciones Gobierno-Cortes: investidura, censura y estados excepcionales (arts. 108-116)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t5-gobierno-cortes.json"
+  },
+  {
+    "id": "ce-t6-poder-judicial",
+    "titulo": "Constitución — Del Poder Judicial (arts. 117-127)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t6-poder-judicial.json"
+  },
+  {
+    "id": "ce-t7-economia-hacienda",
+    "titulo": "Constitución — Economía y Hacienda (arts. 128-136)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t7-economia-hacienda.json"
+  },
+  {
+    "id": "ce-t8-territorio-1",
+    "titulo": "Constitución — Organización territorial I: local, autonomías y reparto de competencias (arts. 137-149)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t8-territorio-1.json"
+  },
+  {
+    "id": "ce-t8-territorio-2",
+    "titulo": "Constitución — Organización territorial II: estatutos, control y financiación (arts. 150-158)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t8-territorio-2.json"
+  },
+  {
+    "id": "ce-t9-t10-tc-reforma",
+    "titulo": "Constitución — Tribunal Constitucional y reforma constitucional (arts. 159-169)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t9-t10-tc-reforma.json"
   }
 ]

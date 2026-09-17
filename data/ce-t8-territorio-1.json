@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ce14-01",
+    "pregunta": "Según el artículo 137 CE, el Estado se organiza territorialmente en...",
+    "opciones": [
+      "Municipios, provincias y las Comunidades Autónomas que se constituyan, gozando todas estas entidades de autonomía para la gestión de sus respectivos intereses",
+      "Comunidades Autónomas y provincias, únicamente",
+      "Municipios y Comunidades Autónomas, únicamente"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 137 CE, literal."
+  },
+  {
+    "id": "ce14-02",
+    "pregunta": "Según el artículo 138.1 CE, el Estado garantiza la realización efectiva del principio de solidaridad velando por un equilibrio económico adecuado y justo entre las diversas partes del territorio español, y atendiendo en particular a...",
+    "opciones": [
+      "Las circunstancias del hecho insular",
+      "Las zonas de montaña",
+      "Las regiones fronterizas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 138.1 CE, literal. El tratamiento especial a las zonas de montaña se recoge en el art. 130.2 CE."
+  },
+  {
+    "id": "ce14-03",
+    "pregunta": "Según el artículo 138.2 CE, las diferencias entre los Estatutos de las distintas Comunidades Autónomas...",
+    "opciones": [
+      "No podrán implicar, en ningún caso, privilegios económicos o sociales",
+      "Podrán implicar diferencias económicas si están justificadas",
+      "Sólo se admiten en materia fiscal"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 138.2 CE, literal."
+  },
+  {
+    "id": "ce14-04",
+    "pregunta": "Según el artículo 139.2 CE, ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen...",
+    "opciones": [
+      "La libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español",
+      "La libre prestación de servicios entre Estados miembros",
+      "El derecho de reunión en lugares de tránsito público"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 139.2 CE, literal. El apartado 1 proclama que todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado."
+  },
+  {
+    "id": "ce14-05",
+    "pregunta": "Según el artículo 140 CE, ¿cómo se eligen los Concejales y los Alcaldes?",
+    "opciones": [
+      "Los Concejales por los vecinos mediante sufragio universal, igual, libre, directo y secreto; los Alcaldes por los Concejales o por los vecinos",
+      "Ambos por los vecinos, siempre de forma directa",
+      "Ambos por los Concejales"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 140 CE. La ley regulará las condiciones en que proceda el régimen del concejo abierto."
+  },
+  {
+    "id": "ce14-06",
+    "pregunta": "Según el artículo 141.1 CE, cualquier alteración de los límites provinciales habrá de ser aprobada por...",
+    "opciones": [
+      "Las Cortes Generales mediante ley orgánica",
+      "El Consejo de Ministros mediante real decreto",
+      "La Comunidad Autónoma afectada mediante ley"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 141.1 CE, literal."
+  },
+  {
+    "id": "ce14-07",
+    "pregunta": "Sobre la provincia (art. 141 CE), señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado",
+      "Su gobierno y administración autónoma están encomendados a Diputaciones u otras Corporaciones de carácter representativo",
+      "No se podrán crear agrupaciones de municipios diferentes de la provincia"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 141.3 CE: \"Se podrán crear agrupaciones de municipios diferentes de la provincia\". En los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos (art. 141.4)."
+  },
+  {
+    "id": "ce14-08",
+    "pregunta": "Según el artículo 142 CE, las Haciendas Locales se nutrirán fundamentalmente de...",
+    "opciones": [
+      "Tributos propios y de participación en los del Estado y de las Comunidades Autónomas",
+      "Transferencias del Fondo de Compensación Interterritorial",
+      "Operaciones de crédito y enajenación de patrimonio"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 142 CE, literal."
+  },
+  {
+    "id": "ce14-09",
+    "pregunta": "Según el artículo 143.2 CE, ¿a quién corresponde la iniciativa del proceso autonómico?",
+    "opciones": [
+      "A todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las dos terceras partes de los municipios cuya población represente al menos la mayoría del censo electoral de cada provincia o isla",
+      "Exclusivamente a las Cortes Generales",
+      "Al Gobierno, a propuesta del Delegado del Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 143.2 CE. Los requisitos deben cumplirse en el plazo de seis meses desde el primer acuerdo adoptado por alguna de las Corporaciones locales interesadas."
+  },
+  {
+    "id": "ce14-10",
+    "pregunta": "Según el artículo 143.3 CE, la iniciativa autonómica que no prospere solamente podrá reiterarse pasados...",
+    "opciones": [
+      "Cinco años",
+      "Dos años",
+      "Diez años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 143.3 CE, literal."
+  },
+  {
+    "id": "ce14-11",
+    "pregunta": "Según el artículo 144 CE, las Cortes Generales podrán, mediante ley orgánica y por motivos de interés nacional, entre otras cosas...",
+    "opciones": [
+      "Sustituir la iniciativa de las Corporaciones locales a que se refiere el artículo 143.2",
+      "Suprimir una Comunidad Autónoma ya constituida",
+      "Modificar unilateralmente cualquier Estatuto de Autonomía"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 144, letra c), CE. También pueden autorizar la constitución de una comunidad autónoma uniprovincial que no reúna las condiciones del art. 143.1 y autorizar o acordar un Estatuto para territorios no integrados en la organización provincial."
+  },
+  {
+    "id": "ce14-12",
+    "pregunta": "Según el artículo 145.1 CE, ¿qué se prohíbe expresamente?",
+    "opciones": [
+      "La federación de Comunidades Autónomas",
+      "Los convenios entre Comunidades Autónomas para la gestión de servicios propios",
+      "La creación de circunscripciones territoriales por agrupación de municipios limítrofes"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 145.1 CE: \"En ningún caso se admitirá la federación de Comunidades Autónomas\". Los convenios sí están previstos en el art. 145.2, con comunicación o autorización de las Cortes según el caso."
+  },
+  {
+    "id": "ce14-13",
+    "pregunta": "Según el artículo 147.1 CE, los Estatutos de Autonomía son...",
+    "opciones": [
+      "La norma institucional básica de cada Comunidad Autónoma, que el Estado reconocerá y amparará como parte integrante de su ordenamiento jurídico",
+      "Normas de rango reglamentario",
+      "Acuerdos políticos sin eficacia normativa directa"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 147.1 CE, literal."
+  },
+  {
+    "id": "ce14-14",
+    "pregunta": "De los siguientes contenidos, ¿cuál NO debe contener necesariamente un Estatuto de Autonomía según el artículo 147.2 CE?",
+    "opciones": [
+      "La denominación de la Comunidad que mejor corresponda a su identidad histórica y la delimitación de su territorio",
+      "La denominación, organización y sede de las instituciones autónomas propias",
+      "El régimen electoral general aplicable a sus elecciones"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 147.2 CE exige denominación, delimitación del territorio, instituciones propias y competencias asumidas con las bases para el traspaso de servicios. El régimen electoral general es competencia estatal reservada a ley orgánica (art. 81.1 CE)."
+  },
+  {
+    "id": "ce14-15",
+    "pregunta": "Según el artículo 147.3 CE, la reforma de los Estatutos requerirá en todo caso...",
+    "opciones": [
+      "La aprobación por las Cortes Generales mediante ley orgánica",
+      "La ratificación por el Tribunal Constitucional",
+      "La autorización del Consejo de Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 147.3 CE, literal, además de ajustarse al procedimiento establecido en el propio Estatuto."
+  },
+  {
+    "id": "ce14-16",
+    "pregunta": "Según el artículo 148.1 CE, entre las competencias que pueden asumir las Comunidades Autónomas figuran, en materia forestal y ambiental:",
+    "opciones": [
+      "Los montes y aprovechamientos forestales (8.ª) y la gestión en materia de protección del medio ambiente (9.ª)",
+      "La legislación básica sobre montes y vías pecuarias",
+      "El régimen de producción, comercio, tenencia y uso de armas y explosivos"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 148.1, reglas 8.ª y 9.ª, CE. La legislación básica sobre montes y vías pecuarias y el régimen de armas y explosivos son competencia exclusiva del Estado (art. 149.1, reglas 23.ª y 26.ª)."
+  },
+  {
+    "id": "ce14-17",
+    "pregunta": "De las siguientes, ¿cuál NO es una competencia que las Comunidades Autónomas puedan asumir conforme al artículo 148.1 CE?",
+    "opciones": [
+      "La pesca en aguas interiores, el marisqueo y la acuicultura, la caza y la pesca fluvial",
+      "La agricultura y ganadería, de acuerdo con la ordenación general de la economía",
+      "La pesca marítima"
+    ],
+    "correcta": 2,
+    "explicacion": "La pesca marítima es competencia exclusiva del Estado (art. 149.1.19.ª CE), sin perjuicio de las competencias que en la ordenación del sector se atribuyan a las Comunidades Autónomas."
+  },
+  {
+    "id": "ce14-18",
+    "pregunta": "Según el artículo 149.1.23.ª CE, corresponde al Estado la legislación básica sobre protección del medio ambiente...",
+    "opciones": [
+      "Sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección",
+      "Con exclusión de toda normativa autonómica en la materia",
+      "Únicamente en los espacios naturales de interés estatal"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 149.1.23.ª CE. El mismo precepto reserva al Estado la legislación básica sobre montes, aprovechamientos forestales y vías pecuarias."
+  },
+  {
+    "id": "ce14-19",
+    "pregunta": "Según el artículo 149.3 CE, ¿qué ocurre con las materias que no se hayan asumido por los Estatutos de Autonomía?",
+    "opciones": [
+      "La competencia corresponderá al Estado, cuyas normas prevalecerán en caso de conflicto en todo lo que no esté atribuido a la exclusiva competencia de las Comunidades Autónomas, siendo el derecho estatal supletorio del autonómico",
+      "Quedan sin titular competencial hasta una reforma estatutaria",
+      "Corresponden automáticamente a las Comunidades Autónomas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 149.3 CE, literal."
+  },
+  {
+    "id": "ce14-20",
+    "pregunta": "Según el artículo 148.2 CE, ¿cuándo podrán las Comunidades Autónomas ampliar sucesivamente sus competencias dentro del marco del artículo 149?",
+    "opciones": [
+      "Transcurridos cinco años y mediante la reforma de sus Estatutos",
+      "En cualquier momento, mediante acuerdo con el Gobierno",
+      "Transcurridos diez años, mediante ley orgánica"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 148.2 CE, literal."
+  }
+]

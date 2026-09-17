@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ce11-01",
+    "pregunta": "Según el artículo 108 CE, el Gobierno responde solidariamente en su gestión política ante:",
+    "opciones": [
+      "El Congreso de los Diputados",
+      "Las Cortes Generales en sesión conjunta",
+      "El Rey"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 108 CE, literal."
+  },
+  {
+    "id": "ce11-02",
+    "pregunta": "Según el artículo 109 CE, las Cámaras y sus Comisiones podrán recabar la información y ayuda que precisen...",
+    "opciones": [
+      "A través de los Presidentes de aquéllas, del Gobierno y sus Departamentos y de cualesquiera autoridades del Estado y de las Comunidades Autónomas",
+      "Únicamente del Gobierno de la Nación",
+      "Sólo mediante comisión de investigación"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 109 CE, literal."
+  },
+  {
+    "id": "ce11-03",
+    "pregunta": "Sobre el artículo 110 CE, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Las Cámaras y sus Comisiones pueden reclamar la presencia de los miembros del Gobierno",
+      "Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y a sus Comisiones y la facultad de hacerse oír en ellas",
+      "Los miembros del Gobierno no pueden solicitar que informen ante las Cámaras funcionarios de sus Departamentos"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 110.2 CE permite expresamente solicitar que informen funcionarios de sus Departamentos."
+  },
+  {
+    "id": "ce11-04",
+    "pregunta": "Según el artículo 111 CE, para el debate de interpelaciones y preguntas los Reglamentos establecerán:",
+    "opciones": [
+      "Un tiempo mínimo semanal",
+      "Una sesión mensual",
+      "Un turno trimestral"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 111.1 CE. Toda interpelación podrá dar lugar a una moción en la que la Cámara manifieste su posición (art. 111.2)."
+  },
+  {
+    "id": "ce11-05",
+    "pregunta": "Según el artículo 112 CE, ¿quién puede plantear la cuestión de confianza y ante qué Cámara?",
+    "opciones": [
+      "El Presidente del Gobierno, previa deliberación del Consejo de Ministros, ante el Congreso de los Diputados",
+      "El Gobierno en pleno, ante las Cortes Generales",
+      "El Presidente del Gobierno, ante el Senado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 112 CE. Versa sobre su programa o sobre una declaración de política general."
+  },
+  {
+    "id": "ce11-06",
+    "pregunta": "Según el artículo 112 CE, la confianza se entenderá otorgada cuando vote a favor de la misma:",
+    "opciones": [
+      "La mayoría simple de los Diputados",
+      "La mayoría absoluta de los Diputados",
+      "Dos tercios de los Diputados"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 112 CE, inciso final. Contrasta con la moción de censura, que exige mayoría absoluta (art. 113.1)."
+  },
+  {
+    "id": "ce11-07",
+    "pregunta": "Según el artículo 113.1 CE, la moción de censura debe adoptarse por:",
+    "opciones": [
+      "Mayoría absoluta del Congreso de los Diputados",
+      "Mayoría simple del Congreso",
+      "Mayoría absoluta de ambas Cámaras"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 113.1 CE, literal."
+  },
+  {
+    "id": "ce11-08",
+    "pregunta": "Según el artículo 113.2 CE, la moción de censura deberá ser propuesta al menos por...",
+    "opciones": [
+      "La décima parte de los Diputados, y habrá de incluir un candidato a la Presidencia del Gobierno",
+      "La quinta parte de los Diputados",
+      "Un grupo parlamentario con representación en ambas Cámaras"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 113.2 CE. El carácter constructivo de la moción (inclusión de candidato) es su rasgo característico."
+  },
+  {
+    "id": "ce11-09",
+    "pregunta": "Según el artículo 113.3 CE, la moción de censura no podrá ser votada hasta que transcurran...",
+    "opciones": [
+      "Cinco días desde su presentación, pudiendo presentarse mociones alternativas en los dos primeros días de ese plazo",
+      "Diez días desde su presentación",
+      "Cuarenta y ocho horas desde su presentación"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 113.3 CE, literal."
+  },
+  {
+    "id": "ce11-10",
+    "pregunta": "Según el artículo 113.4 CE, si la moción de censura no fuere aprobada por el Congreso, sus signatarios:",
+    "opciones": [
+      "No podrán presentar otra durante el mismo período de sesiones",
+      "Podrán presentar otra transcurridos treinta días",
+      "Quedan inhabilitados para presentar mociones durante toda la legislatura"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 113.4 CE, literal."
+  },
+  {
+    "id": "ce11-11",
+    "pregunta": "Según el artículo 114.2 CE, si el Congreso adopta una moción de censura:",
+    "opciones": [
+      "El Gobierno presentará su dimisión al Rey y el candidato incluido en ella se entenderá investido de la confianza de la Cámara, nombrándolo el Rey Presidente del Gobierno",
+      "Se convocan automáticamente elecciones generales",
+      "El Rey decide libremente entre disolver las Cámaras o nombrar al candidato"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 114.2 CE, literal."
+  },
+  {
+    "id": "ce11-12",
+    "pregunta": "Según el artículo 115.1 CE, ¿quién puede proponer la disolución del Congreso, del Senado o de las Cortes Generales?",
+    "opciones": [
+      "El Presidente del Gobierno, previa deliberación del Consejo de Ministros y bajo su exclusiva responsabilidad",
+      "El Rey, oído el Consejo de Estado",
+      "El Congreso, por mayoría absoluta"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 115.1 CE. La disolución la decreta el Rey y el decreto fija la fecha de las elecciones."
+  },
+  {
+    "id": "ce11-13",
+    "pregunta": "Sobre los límites a la disolución (art. 115 CE), señale la afirmación INCORRECTA:",
+    "opciones": [
+      "No podrá presentarse la propuesta cuando esté en trámite una moción de censura",
+      "No procederá nueva disolución antes de que transcurra un año desde la anterior, salvo lo dispuesto en el artículo 99.5",
+      "La disolución requiere la autorización previa del Senado"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 115 CE no exige autorización alguna del Senado: la propuesta es del Presidente del Gobierno bajo su exclusiva responsabilidad."
+  },
+  {
+    "id": "ce11-14",
+    "pregunta": "Según el artículo 116.1 CE, ¿qué norma regulará los estados de alarma, de excepción y de sitio?",
+    "opciones": [
+      "Una ley orgánica",
+      "Una ley ordinaria",
+      "Un decreto-ley"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 116.1 CE. Esa ley es la L.O. 4/1981, de 1 de junio."
+  },
+  {
+    "id": "ce11-15",
+    "pregunta": "Según el artículo 116.2 CE, el estado de ALARMA será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo máximo de:",
+    "opciones": [
+      "Quince días, dando cuenta al Congreso, sin cuya autorización no podrá prorrogarse",
+      "Treinta días prorrogables por otro plazo igual",
+      "Sesenta días"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 116.2 CE. Los treinta días prorrogables corresponden al estado de excepción (art. 116.3)."
+  },
+  {
+    "id": "ce11-16",
+    "pregunta": "Según el artículo 116.3 CE, el estado de EXCEPCIÓN será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros...",
+    "opciones": [
+      "Previa autorización del Congreso de los Diputados, con duración no superior a treinta días prorrogables por otro plazo igual",
+      "Dando cuenta al Congreso una vez declarado",
+      "Previa autorización de las Cortes Generales en sesión conjunta"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 116.3 CE. La autorización y proclamación deben determinar expresamente los efectos, el ámbito territorial y su duración."
+  },
+  {
+    "id": "ce11-17",
+    "pregunta": "Según el artículo 116.4 CE, el estado de SITIO será declarado por:",
+    "opciones": [
+      "La mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno",
+      "El Gobierno, dando cuenta al Congreso",
+      "El Rey, a propuesta del Presidente del Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 116.4 CE. El Congreso determinará su ámbito territorial, duración y condiciones."
+  },
+  {
+    "id": "ce11-18",
+    "pregunta": "Según el artículo 116.5 CE, mientras estén declarados los estados de alarma, excepción o sitio:",
+    "opciones": [
+      "No podrá procederse a la disolución del Congreso, quedando automáticamente convocadas las Cámaras si no estuvieren en período de sesiones",
+      "El Congreso queda disuelto automáticamente",
+      "Se suspende el funcionamiento de los demás poderes constitucionales"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 116.5 CE. El funcionamiento de las Cámaras y de los demás poderes constitucionales no puede interrumpirse durante la vigencia de estos estados."
+  },
+  {
+    "id": "ce11-19",
+    "pregunta": "Según el artículo 116.5 CE, si el Congreso estuviera disuelto o hubiera expirado su mandato cuando se produzca alguna de esas situaciones, sus competencias serán asumidas por:",
+    "opciones": [
+      "Su Diputación Permanente",
+      "El Senado",
+      "El Consejo de Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 116.5, párrafo final, CE, en relación con el art. 78.2 CE."
+  },
+  {
+    "id": "ce11-20",
+    "pregunta": "Según el artículo 116.6 CE, la declaración de los estados de alarma, de excepción y de sitio:",
+    "opciones": [
+      "No modificará el principio de responsabilidad del Gobierno y de sus agentes reconocidos en la Constitución y en las leyes",
+      "Exime de responsabilidad al Gobierno mientras dure su vigencia",
+      "Suspende la responsabilidad patrimonial de la Administración"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 116.6 CE, literal."
+  }
+]

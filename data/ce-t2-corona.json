@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ce7-01",
+    "pregunta": "Según el artículo 56.1 CE, el Rey es Jefe del Estado, símbolo de su unidad y permanencia, y además...",
+    "opciones": [
+      "Arbitra y modera el funcionamiento regular de las instituciones",
+      "Dirige la política interior y exterior del Estado",
+      "Ejerce la potestad legislativa en nombre del pueblo español"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 56.1 CE. Dirigir la política interior y exterior corresponde al Gobierno (art. 97 CE) y la potestad legislativa a las Cortes Generales (art. 66.2 CE)."
+  },
+  {
+    "id": "ce7-02",
+    "pregunta": "Según el artículo 56.2 CE, el título del Rey es el de...",
+    "opciones": [
+      "Rey de España, pudiendo utilizar los demás que correspondan a la Corona",
+      "Rey de las Españas",
+      "Rey de España y de las Indias"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 56.2 CE, literal."
+  },
+  {
+    "id": "ce7-03",
+    "pregunta": "Sobre la persona del Rey (art. 56.3 CE), señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Es inviolable y no está sujeta a responsabilidad",
+      "Sus actos estarán siempre refrendados en la forma establecida en el artículo 64",
+      "Sus actos son válidos aunque carezcan de refrendo, por su condición de Jefe del Estado"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 56.3 CE: los actos del Rey carecen de validez sin refrendo, salvo lo dispuesto en el art. 65.2 (nombramiento y relevo de los miembros civiles y militares de su Casa)."
+  },
+  {
+    "id": "ce7-04",
+    "pregunta": "Según el artículo 57.1 CE, ¿cuál es el orden de sucesión en el trono?",
+    "opciones": [
+      "Orden regular de primogenitura y representación; preferida la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer; y en el mismo sexo, la persona de más edad a la de menos",
+      "Libre designación por el Rey entre sus descendientes",
+      "Elección por las Cortes Generales entre los miembros de la Familia Real"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 57.1 CE, literal."
+  },
+  {
+    "id": "ce7-05",
+    "pregunta": "Según el artículo 57.2 CE, ¿desde cuándo tiene el Príncipe heredero la dignidad de Príncipe de Asturias?",
+    "opciones": [
+      "Desde su nacimiento o desde que se produzca el hecho que origine el llamamiento",
+      "Desde que alcanza la mayoría de edad",
+      "Desde que presta juramento ante las Cortes Generales"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 57.2 CE, literal."
+  },
+  {
+    "id": "ce7-06",
+    "pregunta": "Según el artículo 57.3 CE, extinguidas todas las líneas llamadas en Derecho, ¿quién provee a la sucesión en la Corona?",
+    "opciones": [
+      "Las Cortes Generales, en la forma que más convenga a los intereses de España",
+      "El Consejo de Ministros, mediante real decreto",
+      "El Tribunal Constitucional"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 57.3 CE, literal."
+  },
+  {
+    "id": "ce7-07",
+    "pregunta": "Según el artículo 57.4 CE, quienes teniendo derecho a la sucesión contrajeren matrimonio contra la expresa prohibición del Rey y de las Cortes Generales...",
+    "opciones": [
+      "Quedarán excluidas en la sucesión a la Corona por sí y sus descendientes",
+      "Perderán su lugar en el orden sucesorio, pero no sus descendientes",
+      "Necesitarán autorización posterior de las Cortes para conservar sus derechos"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 57.4 CE, literal: la exclusión alcanza también a los descendientes."
+  },
+  {
+    "id": "ce7-08",
+    "pregunta": "Según el artículo 57.5 CE, las abdicaciones y renuncias y cualquier duda de hecho o de derecho en el orden de sucesión a la Corona se resolverán por...",
+    "opciones": [
+      "Una ley orgánica",
+      "Una ley ordinaria",
+      "Acuerdo del Consejo de Ministros"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 57.5 CE, literal."
+  },
+  {
+    "id": "ce7-09",
+    "pregunta": "Según el artículo 58 CE, la Reina consorte o el consorte de la Reina...",
+    "opciones": [
+      "No podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia",
+      "Asumen las mismas funciones que el Rey en caso de ausencia",
+      "Ejercen la Jefatura del Estado en funciones durante los viajes oficiales"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 58 CE, literal."
+  },
+  {
+    "id": "ce7-10",
+    "pregunta": "Según el artículo 59.1 CE, cuando el Rey fuere menor de edad, ¿quién entra a ejercer inmediatamente la Regencia?",
+    "opciones": [
+      "El padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona",
+      "El Presidente del Gobierno",
+      "El Presidente del Congreso de los Diputados"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 59.1 CE, literal. La Regencia se ejerce durante todo el tiempo de la minoría de edad del Rey."
+  },
+  {
+    "id": "ce7-11",
+    "pregunta": "Según el artículo 59.2 CE, si el Rey se inhabilitare para el ejercicio de su autoridad y la imposibilidad fuere reconocida por las Cortes Generales, entrará a ejercer la Regencia...",
+    "opciones": [
+      "El Príncipe heredero de la Corona, si fuere mayor de edad",
+      "El Presidente del Gobierno, hasta nueva proclamación",
+      "Una comisión designada por el Consejo de Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 59.2 CE. Si el Príncipe heredero no fuera mayor de edad, se procede conforme al apartado 1 hasta que la alcance."
+  },
+  {
+    "id": "ce7-12",
+    "pregunta": "Según el artículo 59.3 CE, si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por las Cortes Generales y se compondrá de:",
+    "opciones": [
+      "Una, tres o cinco personas",
+      "Dos o cuatro personas",
+      "Siete personas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 59.3 CE, literal."
+  },
+  {
+    "id": "ce7-13",
+    "pregunta": "Según el artículo 59.4 CE, para ejercer la Regencia es preciso...",
+    "opciones": [
+      "Ser español y mayor de edad",
+      "Ser español de nacimiento y mayor de veinticinco años",
+      "Pertenecer a la Familia Real"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 59.4 CE, literal. La exigencia de ser español DE NACIMIENTO se refiere al tutor del Rey (art. 60.1 CE)."
+  },
+  {
+    "id": "ce7-14",
+    "pregunta": "Según el artículo 60.1 CE, ¿quién será tutor del Rey menor?",
+    "opciones": [
+      "La persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento; en su defecto, el padre o la madre mientras permanezcan viudos; y a falta de ambos, quien nombren las Cortes Generales",
+      "Siempre el Regente",
+      "Siempre el Presidente del Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 60.1 CE. No pueden acumularse los cargos de Regente y tutor salvo en el padre, madre o ascendientes directos del Rey."
+  },
+  {
+    "id": "ce7-15",
+    "pregunta": "Según el artículo 60.2 CE, el ejercicio de la tutela del Rey menor es incompatible con...",
+    "opciones": [
+      "Todo cargo o representación política",
+      "El ejercicio de profesiones liberales",
+      "La condición de militar en activo"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 60.2 CE, literal."
+  },
+  {
+    "id": "ce7-16",
+    "pregunta": "Según el artículo 61.1 CE, al ser proclamado ante las Cortes Generales, el Rey presta juramento de desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y...",
+    "opciones": [
+      "Respetar los derechos de los ciudadanos y de las Comunidades Autónomas",
+      "Defender la integridad territorial de España",
+      "Mantener la neutralidad política en todo caso"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 61.1 CE, literal. El Príncipe heredero al alcanzar la mayoría de edad y el Regente o Regentes prestan el mismo juramento, más el de fidelidad al Rey (art. 61.2)."
+  },
+  {
+    "id": "ce7-17",
+    "pregunta": "De las siguientes, ¿cuál NO es una función que el artículo 62 CE atribuye al Rey?",
+    "opciones": [
+      "Sancionar y promulgar las leyes",
+      "El mando supremo de las Fuerzas Armadas",
+      "Dirigir la Administración civil y militar y la defensa del Estado"
+    ],
+    "correcta": 2,
+    "explicacion": "Dirigir la Administración civil y militar y la defensa del Estado corresponde al Gobierno (art. 97 CE). El art. 62 CE atribuye al Rey, entre otras, sancionar y promulgar las leyes, convocar y disolver las Cortes, convocar referéndum, proponer y nombrar al Presidente del Gobierno, expedir los decretos acordados en Consejo de Ministros, el mando supremo de las Fuerzas Armadas, el derecho de gracia y el Alto Patronazgo de las Reales Academias."
+  },
+  {
+    "id": "ce7-18",
+    "pregunta": "Según el artículo 62.i) CE, el Rey ejerce el derecho de gracia con arreglo a la ley, que...",
+    "opciones": [
+      "No podrá autorizar indultos generales",
+      "Podrá autorizar indultos generales previa aprobación de las Cortes",
+      "Sólo permite indultos en delitos contra la Corona"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 62, letra i), CE, literal."
+  },
+  {
+    "id": "ce7-19",
+    "pregunta": "Según el artículo 63.3 CE, al Rey corresponde declarar la guerra y hacer la paz...",
+    "opciones": [
+      "Previa autorización de las Cortes Generales",
+      "A propuesta del Presidente del Gobierno, sin intervención de las Cortes",
+      "Por acuerdo del Consejo de Ministros ratificado por el Senado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 63.3 CE, literal."
+  },
+  {
+    "id": "ce7-20",
+    "pregunta": "Según el artículo 64 CE, ¿quién refrenda la propuesta y el nombramiento del Presidente del Gobierno y la disolución prevista en el artículo 99?",
+    "opciones": [
+      "El Presidente del Congreso",
+      "El Presidente del Gobierno saliente",
+      "El Presidente del Senado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 64.1 CE. Con carácter general los actos del Rey los refrendan el Presidente del Gobierno y, en su caso, los Ministros competentes; de esos actos responden quienes los refrendan (art. 64.2)."
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ce9-01",
+    "pregunta": "De las siguientes materias, ¿cuál NO es propia de ley orgánica según el artículo 81.1 CE?",
+    "opciones": [
+      "El desarrollo de los derechos fundamentales y de las libertades públicas",
+      "La aprobación de los Estatutos de Autonomía y el régimen electoral general",
+      "La aprobación de los Presupuestos Generales del Estado"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 81.1 CE. Los Presupuestos Generales del Estado se aprueban por ley ordinaria (arts. 66.2 y 134 CE)."
+  },
+  {
+    "id": "ce9-02",
+    "pregunta": "Según el artículo 81.2 CE, la aprobación, modificación o derogación de las leyes orgánicas exigirá:",
+    "opciones": [
+      "Mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto",
+      "Mayoría de dos tercios de ambas Cámaras",
+      "Mayoría simple del Congreso y del Senado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 81.2 CE, literal."
+  },
+  {
+    "id": "ce9-03",
+    "pregunta": "Según el artículo 82.2 CE, ¿mediante qué instrumento se otorga la delegación legislativa?",
+    "opciones": [
+      "Ley de bases cuando su objeto sea la formación de textos articulados, y ley ordinaria cuando se trate de refundir varios textos legales en uno solo",
+      "Siempre mediante ley orgánica",
+      "Mediante acuerdo del Consejo de Ministros"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 82.2 CE, literal."
+  },
+  {
+    "id": "ce9-04",
+    "pregunta": "Sobre la delegación legislativa (art. 82.3 CE), señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Debe otorgarse de forma expresa, para materia concreta y con fijación del plazo para su ejercicio",
+      "Se agota por el uso que de ella haga el Gobierno mediante la publicación de la norma correspondiente",
+      "Puede permitir la subdelegación a autoridades distintas del propio Gobierno"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 82.3 CE prohíbe expresamente la subdelegación, así como entender la delegación concedida de modo implícito o por tiempo indeterminado."
+  },
+  {
+    "id": "ce9-05",
+    "pregunta": "Según el artículo 83 CE, las leyes de bases NO podrán en ningún caso:",
+    "opciones": [
+      "Autorizar la modificación de la propia ley de bases ni facultar para dictar normas con carácter retroactivo",
+      "Delimitar el objeto y alcance de la delegación",
+      "Establecer fórmulas adicionales de control"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 83 CE, letras a) y b). Delimitar objeto y alcance es precisamente su función (art. 82.4) y las fórmulas adicionales de control las permite el art. 82.6."
+  },
+  {
+    "id": "ce9-06",
+    "pregunta": "Según el artículo 85 CE, las disposiciones del Gobierno que contengan legislación delegada reciben el título de:",
+    "opciones": [
+      "Decretos Legislativos",
+      "Decretos-leyes",
+      "Reales Decretos"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 85 CE, literal. Los Decretos-leyes son los del art. 86 CE, dictados por extraordinaria y urgente necesidad."
+  },
+  {
+    "id": "ce9-07",
+    "pregunta": "Según el artículo 86.1 CE, ¿en qué presupuesto puede el Gobierno dictar Decretos-leyes?",
+    "opciones": [
+      "En caso de extraordinaria y urgente necesidad",
+      "Cuando las Cortes estén disueltas",
+      "Cuando lo solicite la mayoría absoluta del Congreso"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 86.1 CE, literal."
+  },
+  {
+    "id": "ce9-08",
+    "pregunta": "De las siguientes materias, ¿cuál NO está vedada a los Decretos-leyes según el artículo 86.1 CE?",
+    "opciones": [
+      "El ordenamiento de las instituciones básicas del Estado",
+      "Los derechos, deberes y libertades de los ciudadanos regulados en el Título I",
+      "La regulación de aspectos técnicos de la actividad económica"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 86.1 CE veda a los Decretos-leyes afectar al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades del Título I, al régimen de las Comunidades Autónomas y al Derecho electoral general."
+  },
+  {
+    "id": "ce9-09",
+    "pregunta": "Según el artículo 86.2 CE, los Decretos-leyes deberán ser sometidos a debate y votación de totalidad al Congreso de los Diputados en el plazo de:",
+    "opciones": [
+      "Los treinta días siguientes a su promulgación",
+      "Los quince días siguientes a su promulgación",
+      "Los dos meses siguientes a su publicación"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 86.2 CE. El Congreso debe pronunciarse expresamente dentro de ese plazo sobre su convalidación o derogación."
+  },
+  {
+    "id": "ce9-10",
+    "pregunta": "Según el artículo 87.1 CE, ¿a quién corresponde la iniciativa legislativa?",
+    "opciones": [
+      "Al Gobierno, al Congreso y al Senado, de acuerdo con la Constitución y los Reglamentos de las Cámaras",
+      "Únicamente al Gobierno",
+      "Al Gobierno y al Rey"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 87.1 CE, literal."
+  },
+  {
+    "id": "ce9-11",
+    "pregunta": "Según el artículo 87.3 CE, ¿cuántas firmas acreditadas se exigen en todo caso para la iniciativa legislativa popular?",
+    "opciones": [
+      "No menos de 500.000",
+      "No menos de 100.000",
+      "No menos de 1.000.000"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 87.3 CE, literal."
+  },
+  {
+    "id": "ce9-12",
+    "pregunta": "De las siguientes materias, ¿en cuál NO procede la iniciativa legislativa popular (art. 87.3 CE)?",
+    "opciones": [
+      "Materias propias de ley orgánica, tributarias o de carácter internacional, y lo relativo a la prerrogativa de gracia",
+      "Materias de ordenación del territorio",
+      "Materias de medio ambiente"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 87.3, inciso final, CE, literal."
+  },
+  {
+    "id": "ce9-13",
+    "pregunta": "Según el artículo 87.2 CE, las Asambleas de las Comunidades Autónomas podrán remitir a la Mesa del Congreso una proposición de ley, delegando ante dicha Cámara un máximo de...",
+    "opciones": [
+      "Tres miembros de la Asamblea encargados de su defensa",
+      "Cinco miembros de la Asamblea",
+      "Un miembro de la Asamblea"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 87.2 CE, literal."
+  },
+  {
+    "id": "ce9-14",
+    "pregunta": "Según el artículo 88 CE, los proyectos de ley...",
+    "opciones": [
+      "Serán aprobados en Consejo de Ministros, que los someterá al Congreso acompañados de una exposición de motivos y de los antecedentes necesarios",
+      "Se presentan indistintamente ante el Congreso o el Senado",
+      "Requieren informe previo del Tribunal Constitucional"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 88 CE, literal."
+  },
+  {
+    "id": "ce9-15",
+    "pregunta": "Según el artículo 90.2 CE, ¿de qué plazo dispone el Senado para oponer su veto o introducir enmiendas a un proyecto aprobado por el Congreso?",
+    "opciones": [
+      "Dos meses desde la recepción del texto",
+      "Un mes desde la recepción del texto",
+      "Veinte días naturales en todo caso"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 90.2 CE. Ese plazo se reduce a 20 días naturales en los proyectos declarados urgentes por el Gobierno o por el Congreso (art. 90.3)."
+  },
+  {
+    "id": "ce9-16",
+    "pregunta": "Según el artículo 90.2 CE, el veto del Senado deberá ser aprobado por mayoría absoluta y podrá ser levantado por el Congreso...",
+    "opciones": [
+      "Ratificando por mayoría absoluta el texto inicial, o por mayoría simple una vez transcurridos dos meses desde la interposición del veto",
+      "Únicamente por mayoría de dos tercios",
+      "Únicamente por mayoría absoluta, sin alternativa temporal"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 90.2 CE, literal."
+  },
+  {
+    "id": "ce9-17",
+    "pregunta": "Según el artículo 91 CE, ¿en qué plazo sancionará el Rey las leyes aprobadas por las Cortes Generales?",
+    "opciones": [
+      "Quince días",
+      "Treinta días",
+      "Diez días"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 91 CE: las sancionará en el plazo de 15 días, las promulgará y ordenará su inmediata publicación."
+  },
+  {
+    "id": "ce9-18",
+    "pregunta": "Según el artículo 92 CE, el referéndum consultivo sobre decisiones políticas de especial trascendencia será convocado por:",
+    "opciones": [
+      "El Rey, mediante propuesta del Presidente del Gobierno previamente autorizada por el Congreso de los Diputados",
+      "El Presidente del Gobierno, con autorización del Senado",
+      "Las Cortes Generales en sesión conjunta"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 92.2 CE, literal."
+  },
+  {
+    "id": "ce9-19",
+    "pregunta": "Según el artículo 93 CE, ¿mediante qué norma se autoriza la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución?",
+    "opciones": [
+      "Ley orgánica",
+      "Ley ordinaria",
+      "Acuerdo del Consejo de Ministros ratificado por el Senado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 93 CE, literal. Fue la vía empleada para la integración de España en las Comunidades Europeas."
+  },
+  {
+    "id": "ce9-20",
+    "pregunta": "De los siguientes tratados, ¿cuál NO requiere previa autorización de las Cortes Generales conforme al artículo 94.1 CE?",
+    "opciones": [
+      "Los tratados de carácter político o militar",
+      "Los que impliquen obligaciones financieras para la Hacienda Pública",
+      "Los tratados de cooperación técnica que no modifiquen ley alguna ni exijan medidas legislativas"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 94.2 CE: de la conclusión de los restantes tratados o convenios el Congreso y el Senado sólo serán inmediatamente informados."
+  }
+]

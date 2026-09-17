@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ce10-01",
+    "pregunta": "Según el artículo 97 CE, ¿qué corresponde al Gobierno?",
+    "opciones": [
+      "Dirigir la política interior y exterior, la Administración civil y militar y la defensa del Estado, y ejercer la función ejecutiva y la potestad reglamentaria",
+      "Ejercer la potestad legislativa y la función ejecutiva",
+      "Arbitrar y moderar el funcionamiento regular de las instituciones"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 97 CE. La potestad legislativa corresponde a las Cortes (art. 66.2) y el arbitraje y moderación al Rey (art. 56.1)."
+  },
+  {
+    "id": "ce10-02",
+    "pregunta": "Según el artículo 98.1 CE, el Gobierno se compone del Presidente, de los Vicepresidentes en su caso, de los Ministros y...",
+    "opciones": [
+      "De los demás miembros que establezca la ley",
+      "De los Secretarios de Estado",
+      "De los Delegados del Gobierno en las Comunidades Autónomas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 98.1 CE, literal."
+  },
+  {
+    "id": "ce10-03",
+    "pregunta": "Sobre los miembros del Gobierno (art. 98.3 CE), señale la afirmación INCORRECTA:",
+    "opciones": [
+      "No podrán ejercer otras funciones representativas que las propias del mandato parlamentario",
+      "No podrán ejercer actividad profesional o mercantil alguna",
+      "Pueden desempeñar cualquier otra función pública siempre que no sea retribuida"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 98.3 CE prohíbe ejercer \"cualquier otra función pública que no derive de su cargo\", con independencia de que sea o no retribuida."
+  },
+  {
+    "id": "ce10-04",
+    "pregunta": "Según el artículo 99.1 CE, el Rey propone un candidato a la Presidencia del Gobierno...",
+    "opciones": [
+      "Previa consulta con los representantes designados por los grupos políticos con representación parlamentaria, y a través del Presidente del Congreso",
+      "A propuesta del grupo parlamentario más numeroso",
+      "Previa deliberación del Consejo de Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 99.1 CE, literal."
+  },
+  {
+    "id": "ce10-05",
+    "pregunta": "Según el artículo 99.3 CE, ¿qué mayoría se exige en la PRIMERA votación de investidura?",
+    "opciones": [
+      "Mayoría absoluta de los miembros del Congreso",
+      "Mayoría simple",
+      "Dos tercios del Congreso"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 99.3 CE. De no alcanzarse, se repite la votación cuarenta y ocho horas después y basta la mayoría simple."
+  },
+  {
+    "id": "ce10-06",
+    "pregunta": "Según el artículo 99.5 CE, si transcurrido el plazo de DOS MESES desde la primera votación de investidura ningún candidato hubiere obtenido la confianza del Congreso:",
+    "opciones": [
+      "El Rey disolverá ambas Cámaras y convocará nuevas elecciones, con el refrendo del Presidente del Congreso",
+      "Se nombrará Presidente al candidato más votado",
+      "El Gobierno en funciones continuará hasta la siguiente legislatura ordinaria"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 99.5 CE, literal."
+  },
+  {
+    "id": "ce10-07",
+    "pregunta": "Según el artículo 100 CE, los demás miembros del Gobierno son nombrados y separados...",
+    "opciones": [
+      "Por el Rey, a propuesta de su Presidente",
+      "Por el Presidente del Gobierno, dando cuenta al Rey",
+      "Por el Congreso de los Diputados"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 100 CE, literal."
+  },
+  {
+    "id": "ce10-08",
+    "pregunta": "De las siguientes, ¿cuál NO es causa de cese del Gobierno según el artículo 101.1 CE?",
+    "opciones": [
+      "La celebración de elecciones generales",
+      "La pérdida de la confianza parlamentaria en los casos previstos en la Constitución",
+      "La dimisión de un Vicepresidente del Gobierno"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 101.1 CE: el Gobierno cesa tras elecciones generales, por pérdida de la confianza parlamentaria, o por dimisión o fallecimiento de su PRESIDENTE."
+  },
+  {
+    "id": "ce10-09",
+    "pregunta": "Según el artículo 101.2 CE, el Gobierno cesante...",
+    "opciones": [
+      "Continuará en funciones hasta la toma de posesión del nuevo Gobierno",
+      "Cesa de forma inmediata y es sustituido por el Consejo de Estado",
+      "Continúa con plenitud de facultades hasta la investidura"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 101.2 CE, literal."
+  },
+  {
+    "id": "ce10-10",
+    "pregunta": "Según el artículo 102.1 CE, la responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible ante:",
+    "opciones": [
+      "La Sala de lo Penal del Tribunal Supremo",
+      "El Tribunal Constitucional",
+      "La Audiencia Nacional"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 102.1 CE, literal."
+  },
+  {
+    "id": "ce10-11",
+    "pregunta": "Según el artículo 102.2 CE, si la acusación fuere por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones, sólo podrá plantearse:",
+    "opciones": [
+      "Por iniciativa de la cuarta parte de los miembros del Congreso y con la aprobación de la mayoría absoluta del mismo",
+      "Por iniciativa del Fiscal General del Estado",
+      "Por acuerdo del Consejo General del Poder Judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 102.2 CE. Además, la prerrogativa real de gracia no es aplicable a ninguno de estos supuestos (art. 102.3)."
+  },
+  {
+    "id": "ce10-12",
+    "pregunta": "Según el artículo 103.1 CE, la Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de:",
+    "opciones": [
+      "Eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho",
+      "Eficiencia, economía, transparencia y participación",
+      "Legalidad, proporcionalidad, publicidad y buena fe"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 103.1 CE, literal. Es uno de los preceptos más preguntados en oposiciones."
+  },
+  {
+    "id": "ce10-13",
+    "pregunta": "Según el artículo 103.3 CE, el acceso a la función pública se regulará por ley de acuerdo con los principios de:",
+    "opciones": [
+      "Mérito y capacidad",
+      "Igualdad y antigüedad",
+      "Publicidad y concurrencia"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 103.3 CE. La ley regulará además el estatuto de los funcionarios, las peculiaridades de su derecho de sindicación, el sistema de incompatibilidades y las garantías de imparcialidad."
+  },
+  {
+    "id": "ce10-14",
+    "pregunta": "Según el artículo 104.1 CE, ¿cuál es la misión de las Fuerzas y Cuerpos de Seguridad?",
+    "opciones": [
+      "Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana, bajo la dependencia del Gobierno",
+      "Garantizar la soberanía e independencia de España y defender su integridad territorial",
+      "Velar por el cumplimiento de las resoluciones judiciales"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 104.1 CE. La segunda opción corresponde a las Fuerzas Armadas (art. 8.1 CE)."
+  },
+  {
+    "id": "ce10-15",
+    "pregunta": "Según el artículo 104.2 CE, ¿qué norma determinará las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad?",
+    "opciones": [
+      "Una ley orgánica",
+      "Un real decreto",
+      "El Reglamento de cada Cuerpo"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 104.2 CE, literal."
+  },
+  {
+    "id": "ce10-16",
+    "pregunta": "Según el artículo 105.b) CE, el acceso de los ciudadanos a los archivos y registros administrativos se regulará por ley, salvo en lo que afecte a:",
+    "opciones": [
+      "La seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas",
+      "Los intereses económicos de la Administración",
+      "Las relaciones con otras Administraciones públicas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 105, letra b), CE, literal."
+  },
+  {
+    "id": "ce10-17",
+    "pregunta": "De las siguientes materias, ¿cuál NO se remite a la ley en el artículo 105 CE?",
+    "opciones": [
+      "La audiencia de los ciudadanos en el procedimiento de elaboración de las disposiciones administrativas que les afecten",
+      "El procedimiento a través del cual deben producirse los actos administrativos",
+      "El régimen retributivo de los funcionarios públicos"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 105 CE remite a la ley las tres materias de sus letras a), b) y c). El estatuto de los funcionarios se remite a la ley en el art. 103.3 CE."
+  },
+  {
+    "id": "ce10-18",
+    "pregunta": "Según el artículo 106.1 CE, ¿qué controlan los Tribunales?",
+    "opciones": [
+      "La potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican",
+      "Únicamente los actos administrativos expresos",
+      "La oportunidad política de las decisiones del Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 106.1 CE, literal."
+  },
+  {
+    "id": "ce10-19",
+    "pregunta": "Según el artículo 106.2 CE, los particulares tendrán derecho a ser indemnizados por toda lesión que sufran en sus bienes y derechos, siempre que sea consecuencia del funcionamiento de los servicios públicos, salvo en los casos de:",
+    "opciones": [
+      "Fuerza mayor",
+      "Caso fortuito",
+      "Culpa concurrente de la víctima"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 106.2 CE menciona exclusivamente la fuerza mayor."
+  },
+  {
+    "id": "ce10-20",
+    "pregunta": "Según el artículo 107 CE, el Consejo de Estado es...",
+    "opciones": [
+      "El supremo órgano consultivo del Gobierno, cuya composición y competencia regulará una ley orgánica",
+      "Un órgano de control de la constitucionalidad de las leyes",
+      "El órgano de gobierno del Poder Judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 107 CE, literal."
+  }
+]

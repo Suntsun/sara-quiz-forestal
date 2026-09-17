@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ce8-01",
+    "pregunta": "Según el artículo 66 CE, las Cortes Generales representan al pueblo español y están formadas por...",
+    "opciones": [
+      "El Congreso de los Diputados y el Senado",
+      "El Congreso de los Diputados, el Senado y el Consejo de Estado",
+      "Las Asambleas legislativas de las Comunidades Autónomas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 66.1 CE. El art. 66.3 añade que las Cortes Generales son inviolables."
+  },
+  {
+    "id": "ce8-02",
+    "pregunta": "De las siguientes, ¿cuál NO es una función que el artículo 66.2 CE atribuya a las Cortes Generales?",
+    "opciones": [
+      "Ejercer la potestad legislativa del Estado",
+      "Aprobar los Presupuestos del Estado y controlar la acción del Gobierno",
+      "Dirigir la Administración civil y militar"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 66.2 CE. Dirigir la Administración civil y militar corresponde al Gobierno (art. 97 CE)."
+  },
+  {
+    "id": "ce8-03",
+    "pregunta": "Según el artículo 67 CE, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Nadie podrá ser miembro de las dos Cámaras simultáneamente",
+      "No puede acumularse el acta de una Asamblea de Comunidad Autónoma con la de Diputado al Congreso",
+      "Los miembros de las Cortes Generales están ligados por mandato imperativo de su grupo parlamentario"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 67.2 CE: \"Los miembros de las Cortes Generales no estarán ligados por mandato imperativo\"."
+  },
+  {
+    "id": "ce8-04",
+    "pregunta": "Según el artículo 68.1 CE, el Congreso se compone de:",
+    "opciones": [
+      "Un mínimo de 300 y un máximo de 400 Diputados",
+      "Exactamente 350 Diputados",
+      "Un mínimo de 200 y un máximo de 400 Diputados"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 68.1 CE. La cifra concreta de 350 la fija la ley electoral, no la Constitución."
+  },
+  {
+    "id": "ce8-05",
+    "pregunta": "Según el artículo 68.2 CE, la circunscripción electoral para el Congreso es...",
+    "opciones": [
+      "La provincia, estando Ceuta y Melilla representadas cada una por un Diputado",
+      "La Comunidad Autónoma",
+      "El municipio"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 68.2 CE. La elección se verifica en cada circunscripción atendiendo a criterios de representación proporcional (art. 68.3)."
+  },
+  {
+    "id": "ce8-06",
+    "pregunta": "Según el artículo 68.6 CE, las elecciones al Congreso tendrán lugar...",
+    "opciones": [
+      "Entre los treinta y sesenta días desde la terminación del mandato, debiendo convocarse el Congreso electo dentro de los veinticinco días siguientes a las elecciones",
+      "Dentro de los noventa días siguientes a la terminación del mandato",
+      "En la fecha que libremente determine el Rey"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 68.6 CE, literal."
+  },
+  {
+    "id": "ce8-07",
+    "pregunta": "Según el artículo 69 CE, ¿cuántos Senadores se eligen en cada provincia peninsular?",
+    "opciones": [
+      "Cuatro, por sufragio universal, libre, igual, directo y secreto",
+      "Tres",
+      "Uno por cada millón de habitantes"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 69.2 CE. El Senado es la Cámara de representación territorial (art. 69.1)."
+  },
+  {
+    "id": "ce8-08",
+    "pregunta": "Según el artículo 69.3 CE, en las provincias insulares corresponden TRES Senadores a cada una de las islas mayores. ¿Cuáles son?",
+    "opciones": [
+      "Gran Canaria, Mallorca y Tenerife",
+      "Mallorca, Menorca e Ibiza",
+      "Tenerife, La Palma y Lanzarote"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 69.3 CE. Corresponde uno a cada una de las siguientes islas o agrupaciones: Ibiza-Formentera, Menorca, Fuerteventura, Gomera, Hierro, Lanzarote y La Palma."
+  },
+  {
+    "id": "ce8-09",
+    "pregunta": "Según el artículo 69.5 CE, las Comunidades Autónomas designarán además...",
+    "opciones": [
+      "Un Senador y otro más por cada millón de habitantes de su respectivo territorio",
+      "Dos Senadores por Comunidad Autónoma",
+      "Un Senador por cada provincia de su territorio"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 69.5 CE. La designación corresponde a la Asamblea legislativa o, en su defecto, al órgano colegiado superior de la Comunidad Autónoma."
+  },
+  {
+    "id": "ce8-10",
+    "pregunta": "Según el artículo 69.4 CE, las poblaciones de Ceuta y Melilla elegirán cada una de ellas...",
+    "opciones": [
+      "Dos Senadores",
+      "Un Senador",
+      "Cuatro Senadores"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 69.4 CE. Nótese el contraste con el Congreso, donde cada una está representada por UN Diputado (art. 68.2)."
+  },
+  {
+    "id": "ce8-11",
+    "pregunta": "De las siguientes, ¿cuál NO figura entre las causas de inelegibilidad e incompatibilidad que el artículo 70.1 CE impone en todo caso?",
+    "opciones": [
+      "Los Magistrados, Jueces y Fiscales en activo",
+      "Los militares profesionales y miembros de las Fuerzas y Cuerpos de Seguridad y Policía en activo",
+      "Los miembros del Gobierno"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 70.1, letra b), CE excepciona expresamente a los miembros del Gobierno de la incompatibilidad de los altos cargos de la Administración del Estado."
+  },
+  {
+    "id": "ce8-12",
+    "pregunta": "Según el artículo 71 CE, los Diputados y Senadores gozan de INMUNIDAD durante el período de su mandato, lo que implica que:",
+    "opciones": [
+      "Sólo podrán ser detenidos en caso de flagrante delito y no podrán ser inculpados ni procesados sin la previa autorización de la Cámara respectiva",
+      "No pueden ser detenidos ni juzgados en ningún caso",
+      "Sólo responden ante el Tribunal Constitucional"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 71.2 CE. La inviolabilidad (art. 71.1) se refiere a las opiniones manifestadas en el ejercicio de sus funciones."
+  },
+  {
+    "id": "ce8-13",
+    "pregunta": "Según el artículo 71.3 CE, en las causas contra Diputados y Senadores es competente:",
+    "opciones": [
+      "La Sala de lo Penal del Tribunal Supremo",
+      "El Tribunal Constitucional",
+      "La Audiencia Nacional"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 71.3 CE, literal."
+  },
+  {
+    "id": "ce8-14",
+    "pregunta": "Según el artículo 72.1 CE, los Reglamentos de las Cámaras y su reforma serán sometidos a una votación final sobre su totalidad, que requerirá:",
+    "opciones": [
+      "La mayoría absoluta",
+      "La mayoría simple",
+      "Dos tercios de los miembros de la Cámara"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 72.1 CE, literal."
+  },
+  {
+    "id": "ce8-15",
+    "pregunta": "Según el artículo 73.1 CE, ¿cuáles son los dos períodos ordinarios de sesiones de las Cámaras?",
+    "opciones": [
+      "De septiembre a diciembre y de febrero a junio",
+      "De octubre a enero y de marzo a julio",
+      "De enero a junio y de septiembre a noviembre"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 73.1 CE, literal."
+  },
+  {
+    "id": "ce8-16",
+    "pregunta": "Según el artículo 73.2 CE, ¿a petición de quién pueden reunirse las Cámaras en sesiones extraordinarias?",
+    "opciones": [
+      "Del Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros de cualquiera de las Cámaras",
+      "Únicamente del Gobierno",
+      "Del Rey, a propuesta del Presidente del Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 73.2 CE. Deben convocarse sobre un orden del día determinado y se clausuran una vez agotado."
+  },
+  {
+    "id": "ce8-17",
+    "pregunta": "Según el artículo 75.3 CE, ¿qué materias quedan EXCEPTUADAS de la delegación en las Comisiones Legislativas Permanentes?",
+    "opciones": [
+      "La reforma constitucional, las cuestiones internacionales, las leyes orgánicas y de bases y los Presupuestos Generales del Estado",
+      "Únicamente la reforma constitucional",
+      "Únicamente las leyes orgánicas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 75.3 CE, literal."
+  },
+  {
+    "id": "ce8-18",
+    "pregunta": "Sobre las Comisiones de investigación (art. 76 CE), señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Pueden versar sobre cualquier asunto de interés público",
+      "Sus conclusiones no serán vinculantes para los Tribunales ni afectarán a las resoluciones judiciales",
+      "La comparecencia ante ellas es voluntaria"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 76.2 CE: \"Será obligatorio comparecer a requerimiento de las Cámaras\", y la ley regula las sanciones por incumplimiento."
+  },
+  {
+    "id": "ce8-19",
+    "pregunta": "Según el artículo 78.1 CE, en cada Cámara habrá una Diputación Permanente compuesta por...",
+    "opciones": [
+      "Un mínimo de 21 miembros, que representarán a los grupos parlamentarios en proporción a su importancia numérica",
+      "Exactamente 21 miembros elegidos por sorteo",
+      "Un máximo de 21 miembros designados por el Presidente de la Cámara"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 78.1 CE. Están presididas por el Presidente de la Cámara respectiva (art. 78.2)."
+  },
+  {
+    "id": "ce8-20",
+    "pregunta": "Según el artículo 79 CE, sobre la adopción de acuerdos en las Cámaras, señale la afirmación CORRECTA:",
+    "opciones": [
+      "Se exige asistencia de la mayoría de sus miembros y aprobación por la mayoría de los presentes, siendo el voto de Diputados y Senadores personal e indelegable",
+      "Basta con la presencia de una cuarta parte de los miembros",
+      "El voto puede delegarse en el portavoz del grupo parlamentario"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 79, apartados 1, 2 y 3, CE. Todo ello sin perjuicio de las mayorías especiales que establezcan la Constitución o las leyes orgánicas."
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ce16-01",
+    "pregunta": "Según el artículo 159.1 CE, ¿cómo se compone el Tribunal Constitucional?",
+    "opciones": [
+      "12 miembros nombrados por el Rey: cuatro a propuesta del Congreso por mayoría de tres quintos, cuatro del Senado con idéntica mayoría, dos del Gobierno y dos del Consejo General del Poder Judicial",
+      "20 miembros nombrados por el Rey por un período de cinco años",
+      "12 miembros elegidos exclusivamente por las Cortes Generales"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 159.1 CE. La composición de 20 miembros más el Presidente corresponde al Consejo General del Poder Judicial (art. 122.3 CE)."
+  },
+  {
+    "id": "ce16-02",
+    "pregunta": "Según el artículo 159.2 CE, los miembros del Tribunal Constitucional deberán ser nombrados entre juristas de reconocida competencia con más de...",
+    "opciones": [
+      "Quince años de ejercicio profesional",
+      "Diez años de ejercicio profesional",
+      "Veinte años de ejercicio profesional"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 159.2 CE. Pueden serlo Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados."
+  },
+  {
+    "id": "ce16-03",
+    "pregunta": "Según el artículo 159.3 CE, los miembros del Tribunal Constitucional serán designados por un período de...",
+    "opciones": [
+      "Nueve años, renovándose por terceras partes cada tres",
+      "Cinco años, renovándose íntegramente",
+      "Doce años, sin renovación parcial"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 159.3 CE, literal."
+  },
+  {
+    "id": "ce16-04",
+    "pregunta": "De las siguientes, ¿cuál NO figura entre las incompatibilidades de la condición de miembro del Tribunal Constitucional (art. 159.4 CE)?",
+    "opciones": [
+      "Todo mandato representativo y los cargos políticos o administrativos",
+      "El ejercicio de las carreras judicial y fiscal y cualquier actividad profesional o mercantil",
+      "La pertenencia, como simple afiliado, a una asociación profesional de juristas"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 159.4 CE enumera el mandato representativo, los cargos políticos o administrativos, las funciones directivas en partido político o sindicato y el empleo al servicio de los mismos, las carreras judicial y fiscal y cualquier actividad profesional o mercantil."
+  },
+  {
+    "id": "ce16-05",
+    "pregunta": "Según el artículo 159.5 CE, los miembros del Tribunal Constitucional serán...",
+    "opciones": [
+      "Independientes e inamovibles en el ejercicio de su mandato",
+      "Independientes, pero revocables por quien los propuso",
+      "Responsables políticamente ante las Cortes Generales"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 159.5 CE, literal."
+  },
+  {
+    "id": "ce16-06",
+    "pregunta": "Según el artículo 160 CE, el Presidente del Tribunal Constitucional será nombrado entre sus miembros por el Rey, a propuesta del mismo Tribunal en pleno, por un período de:",
+    "opciones": [
+      "Tres años",
+      "Cinco años",
+      "Nueve años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 160 CE, literal."
+  },
+  {
+    "id": "ce16-07",
+    "pregunta": "Según el artículo 161.1.b) CE, el recurso de amparo procede por violación de los derechos y libertades referidos en...",
+    "opciones": [
+      "El artículo 53.2 CE, es decir, el artículo 14 y la Sección 1.ª del Capítulo II del Título I (más la objeción de conciencia del art. 30)",
+      "Todo el Título I de la Constitución",
+      "Cualquier precepto constitucional"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 161.1, letra b), CE, en relación con el art. 53.2 CE."
+  },
+  {
+    "id": "ce16-08",
+    "pregunta": "De las siguientes, ¿cuál NO es competencia del Tribunal Constitucional según el artículo 161.1 CE?",
+    "opciones": [
+      "El recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley",
+      "Los conflictos de competencia entre el Estado y las Comunidades Autónomas o de éstas entre sí",
+      "El control de la legalidad de los reglamentos administrativos"
+    ],
+    "correcta": 2,
+    "explicacion": "El control de la potestad reglamentaria corresponde a los Tribunales ordinarios (art. 106.1 CE) y, respecto de las normas reglamentarias autonómicas, a la jurisdicción contencioso-administrativa (art. 153.c CE)."
+  },
+  {
+    "id": "ce16-09",
+    "pregunta": "Según el artículo 161.2 CE, cuando el Gobierno impugna ante el Tribunal Constitucional disposiciones y resoluciones de los órganos de las Comunidades Autónomas:",
+    "opciones": [
+      "La impugnación produce la suspensión de la disposición o resolución recurrida, debiendo el Tribunal ratificarla o levantarla en un plazo no superior a cinco meses",
+      "La impugnación no suspende la disposición recurrida",
+      "La suspensión se mantiene hasta la sentencia definitiva, sin plazo"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 161.2 CE, literal."
+  },
+  {
+    "id": "ce16-10",
+    "pregunta": "Según el artículo 162.1.a) CE, ¿quiénes están legitimados para interponer el recurso de inconstitucionalidad?",
+    "opciones": [
+      "El Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, sus Asambleas",
+      "Cualquier ciudadano que invoque un interés legítimo",
+      "Únicamente el Presidente del Gobierno y el Defensor del Pueblo"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 162.1, letra a), CE, literal."
+  },
+  {
+    "id": "ce16-11",
+    "pregunta": "Según el artículo 162.1.b) CE, están legitimados para interponer el recurso de AMPARO:",
+    "opciones": [
+      "Toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal",
+      "Únicamente las personas físicas afectadas",
+      "50 Diputados o 50 Senadores"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 162.1, letra b), CE, literal."
+  },
+  {
+    "id": "ce16-12",
+    "pregunta": "Según el artículo 163 CE, cuando un órgano judicial considere que una norma con rango de ley aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución:",
+    "opciones": [
+      "Planteará la cuestión ante el Tribunal Constitucional, en los supuestos, forma y con los efectos que establezca la ley, que en ningún caso serán suspensivos",
+      "Inaplicará directamente la norma",
+      "Elevará consulta al Consejo de Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 163 CE, literal."
+  },
+  {
+    "id": "ce16-13",
+    "pregunta": "Según el artículo 164.1 CE, las sentencias del Tribunal Constitucional...",
+    "opciones": [
+      "Se publican en el BOE con los votos particulares si los hubiere, tienen valor de cosa juzgada desde el día siguiente de su publicación y no cabe recurso alguno contra ellas",
+      "Pueden recurrirse ante el Tribunal Supremo",
+      "Producen efectos desde su notificación a las partes"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 164.1 CE, literal."
+  },
+  {
+    "id": "ce16-14",
+    "pregunta": "Según el artículo 164.2 CE, salvo que en el fallo se disponga otra cosa...",
+    "opciones": [
+      "Subsistirá la vigencia de la ley en la parte no afectada por la inconstitucionalidad",
+      "La ley queda íntegramente derogada",
+      "La ley se suspende hasta su nueva aprobación por las Cortes"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 164.2 CE, literal."
+  },
+  {
+    "id": "ce16-15",
+    "pregunta": "Según el artículo 166 CE, la iniciativa de reforma constitucional se ejercerá en los términos previstos en...",
+    "opciones": [
+      "Los apartados 1 y 2 del artículo 87, quedando por tanto excluida la iniciativa legislativa popular",
+      "El artículo 87 en su integridad, incluida la iniciativa popular",
+      "El artículo 92, sobre referéndum consultivo"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 166 CE: la remisión a los apartados 1 y 2 del art. 87 excluye la iniciativa popular del apartado 3."
+  },
+  {
+    "id": "ce16-16",
+    "pregunta": "Según el artículo 167.1 CE, los proyectos de reforma constitucional por el procedimiento ordinario deberán ser aprobados por una mayoría de...",
+    "opciones": [
+      "Tres quintos de cada una de las Cámaras",
+      "Mayoría absoluta de cada Cámara",
+      "Dos tercios de cada Cámara"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 167.1 CE. De no haber acuerdo, se crea una Comisión paritaria de Diputados y Senadores."
+  },
+  {
+    "id": "ce16-17",
+    "pregunta": "Según el artículo 167.2 CE, de no lograrse la aprobación por el procedimiento del apartado anterior, y siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso podrá aprobar la reforma por mayoría de:",
+    "opciones": [
+      "Dos tercios",
+      "Tres quintos",
+      "Mayoría absoluta"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 167.2 CE, literal."
+  },
+  {
+    "id": "ce16-18",
+    "pregunta": "Según el artículo 167.3 CE, la reforma aprobada por las Cortes Generales será sometida a referéndum de ratificación cuando lo soliciten, dentro de los quince días siguientes a su aprobación...",
+    "opciones": [
+      "Una décima parte de los miembros de cualquiera de las Cámaras",
+      "La mayoría absoluta del Congreso",
+      "500.000 electores"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 167.3 CE, literal. En el procedimiento ordinario el referéndum es facultativo."
+  },
+  {
+    "id": "ce16-19",
+    "pregunta": "Según el artículo 168.1 CE, el procedimiento agravado de reforma se aplica cuando se propusiere la revisión total de la Constitución o una parcial que afecte a...",
+    "opciones": [
+      "El Título Preliminar, al Capítulo segundo Sección primera del Título I, o al Título II",
+      "Cualquier precepto del Título I",
+      "El Título VIII, sobre organización territorial"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 168.1 CE, literal. Exige aprobación del principio por dos tercios de cada Cámara, disolución inmediata de las Cortes, ratificación por las nuevas Cámaras y aprobación del texto por dos tercios de ambas, más referéndum obligatorio."
+  },
+  {
+    "id": "ce16-20",
+    "pregunta": "Según el artículo 169 CE, no podrá iniciarse la reforma constitucional...",
+    "opciones": [
+      "En tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116",
+      "Durante el primer año de cada legislatura",
+      "Mientras esté en trámite una moción de censura"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 169 CE, literal: se refiere a los estados de alarma, excepción y sitio."
+  }
+]

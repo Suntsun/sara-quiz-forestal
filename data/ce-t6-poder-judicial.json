@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ce12-01",
+    "pregunta": "Según el artículo 117.1 CE, la justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial, que son:",
+    "opciones": [
+      "Independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley",
+      "Independientes, vitalicios e irresponsables",
+      "Autónomos y sometidos a las instrucciones del Consejo General del Poder Judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 117.1 CE, literal."
+  },
+  {
+    "id": "ce12-02",
+    "pregunta": "Según el artículo 117.2 CE, los Jueces y Magistrados no podrán ser separados, suspendidos, trasladados ni jubilados sino...",
+    "opciones": [
+      "Por alguna de las causas y con las garantías previstas en la ley",
+      "Por acuerdo del Ministerio de Justicia",
+      "Por decisión del Tribunal Supremo en cualquier caso"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 117.2 CE, literal: es la garantía de inamovilidad."
+  },
+  {
+    "id": "ce12-03",
+    "pregunta": "Según el artículo 117.3 CE, el ejercicio de la potestad jurisdiccional, juzgando y haciendo ejecutar lo juzgado, corresponde:",
+    "opciones": [
+      "Exclusivamente a los Juzgados y Tribunales determinados por las leyes",
+      "A los Juzgados y Tribunales y, subsidiariamente, a la Administración",
+      "Al Consejo General del Poder Judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 117.3 CE, literal."
+  },
+  {
+    "id": "ce12-04",
+    "pregunta": "Sobre el artículo 117 CE, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los Tribunales",
+      "Se prohíben los Tribunales de excepción",
+      "La jurisdicción militar puede extender su ámbito más allá del estrictamente castrense en tiempo de paz"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 117.5 CE: la ley regula el ejercicio de la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio."
+  },
+  {
+    "id": "ce12-05",
+    "pregunta": "Según el artículo 118 CE, es obligado cumplir las sentencias y demás resoluciones firmes de los Jueces y Tribunales, así como...",
+    "opciones": [
+      "Prestar la colaboración requerida por éstos en el curso del proceso y en la ejecución de lo resuelto",
+      "Sufragar las costas del procedimiento en todo caso",
+      "Publicar las sentencias en el Boletín Oficial del Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 118 CE, literal."
+  },
+  {
+    "id": "ce12-06",
+    "pregunta": "Según el artículo 119 CE, la justicia será gratuita cuando así lo disponga la ley y, en todo caso, respecto de quienes...",
+    "opciones": [
+      "Acrediten insuficiencia de recursos para litigar",
+      "Sean menores de edad",
+      "Actúen en procesos penales"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 119 CE, literal."
+  },
+  {
+    "id": "ce12-07",
+    "pregunta": "De las siguientes afirmaciones del artículo 120 CE, ¿cuál es INCORRECTA?",
+    "opciones": [
+      "Las actuaciones judiciales serán públicas, con las excepciones que prevean las leyes de procedimiento",
+      "El procedimiento será predominantemente escrito, sobre todo en materia criminal",
+      "Las sentencias serán siempre motivadas y se pronunciarán en audiencia pública"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 120.2 CE: \"El procedimiento será predominantemente ORAL, sobre todo en materia criminal\"."
+  },
+  {
+    "id": "ce12-08",
+    "pregunta": "Según el artículo 121 CE, los daños causados por error judicial y los derivados del funcionamiento anormal de la Administración de Justicia darán derecho a:",
+    "opciones": [
+      "Una indemnización a cargo del Estado, conforme a la ley",
+      "Una indemnización a cargo del juez responsable",
+      "La reapertura automática del proceso"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 121 CE, literal."
+  },
+  {
+    "id": "ce12-09",
+    "pregunta": "Según el artículo 122.2 CE, el órgano de gobierno del poder judicial es:",
+    "opciones": [
+      "El Consejo General del Poder Judicial",
+      "El Tribunal Supremo",
+      "El Ministerio de Justicia"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 122.2 CE, literal."
+  },
+  {
+    "id": "ce12-10",
+    "pregunta": "Según el artículo 122.3 CE, ¿cómo se integra el Consejo General del Poder Judicial?",
+    "opciones": [
+      "Por el Presidente del Tribunal Supremo, que lo preside, y 20 miembros nombrados por el Rey por un período de 5 años",
+      "Por 12 miembros nombrados por el Rey por un período de 4 años",
+      "Por 20 vocales elegidos exclusivamente por los Jueces y Magistrados"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 122.3 CE: de los 20, doce entre Jueces y Magistrados de todas las categorías, 4 a propuesta del Congreso y 4 a propuesta del Senado, elegidos en ambos casos por mayoría de tres quintos."
+  },
+  {
+    "id": "ce12-11",
+    "pregunta": "Según el artículo 122.3 CE, los 4 vocales propuestos por el Congreso y los 4 propuestos por el Senado se eligen por mayoría de...",
+    "opciones": [
+      "Tres quintos de sus miembros, entre abogados y otros juristas de reconocida competencia con más de quince años de ejercicio",
+      "Mayoría absoluta, entre Jueces y Magistrados",
+      "Dos tercios, entre catedráticos de Derecho"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 122.3 CE, literal."
+  },
+  {
+    "id": "ce12-12",
+    "pregunta": "Según el artículo 123.1 CE, el Tribunal Supremo es el órgano jurisdiccional superior en todos los órdenes...",
+    "opciones": [
+      "Salvo lo dispuesto en materia de garantías constitucionales",
+      "Sin excepción alguna",
+      "Salvo en el orden militar"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 123.1 CE. La salvedad se refiere al Tribunal Constitucional."
+  },
+  {
+    "id": "ce12-13",
+    "pregunta": "Según el artículo 123.2 CE, el Presidente del Tribunal Supremo será nombrado por el Rey...",
+    "opciones": [
+      "A propuesta del Consejo General del Poder Judicial, en la forma que determine la ley",
+      "A propuesta del Gobierno",
+      "A propuesta del Congreso por mayoría de tres quintos"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 123.2 CE, literal."
+  },
+  {
+    "id": "ce12-14",
+    "pregunta": "Según el artículo 124.1 CE, ¿cuál es la misión del Ministerio Fiscal?",
+    "opciones": [
+      "Promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley, velar por la independencia de los Tribunales y procurar ante éstos la satisfacción del interés social",
+      "Juzgar y hacer ejecutar lo juzgado",
+      "Gobernar el poder judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 124.1 CE, literal."
+  },
+  {
+    "id": "ce12-15",
+    "pregunta": "Según el artículo 124.2 CE, el Ministerio Fiscal ejerce sus funciones conforme a los principios de:",
+    "opciones": [
+      "Unidad de actuación y dependencia jerárquica, con sujeción en todo caso a los de legalidad e imparcialidad",
+      "Independencia e inamovilidad",
+      "Jerarquía, descentralización y desconcentración"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 124.2 CE, literal."
+  },
+  {
+    "id": "ce12-16",
+    "pregunta": "Según el artículo 124.4 CE, el Fiscal General del Estado será nombrado por el Rey...",
+    "opciones": [
+      "A propuesta del Gobierno, oído el Consejo General del Poder Judicial",
+      "A propuesta del Consejo General del Poder Judicial",
+      "A propuesta del Congreso de los Diputados"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 124.4 CE, literal."
+  },
+  {
+    "id": "ce12-17",
+    "pregunta": "Según el artículo 125 CE, los ciudadanos podrán participar en la Administración de Justicia mediante:",
+    "opciones": [
+      "La acción popular, la institución del Jurado en los procesos penales que la ley determine y los Tribunales consuetudinarios y tradicionales",
+      "Únicamente el Jurado",
+      "Únicamente la acción popular"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 125 CE, literal."
+  },
+  {
+    "id": "ce12-18",
+    "pregunta": "Según el artículo 126 CE, la policía judicial depende de los Jueces, de los Tribunales y del Ministerio Fiscal en sus funciones de...",
+    "opciones": [
+      "Averiguación del delito y descubrimiento y aseguramiento del delincuente, en los términos que la ley establezca",
+      "Mantenimiento del orden público",
+      "Protección de altas personalidades"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 126 CE, literal."
+  },
+  {
+    "id": "ce12-19",
+    "pregunta": "Según el artículo 127.1 CE, los Jueces, Magistrados y Fiscales, mientras se hallen en activo:",
+    "opciones": [
+      "No podrán desempeñar otros cargos públicos ni pertenecer a partidos políticos o sindicatos",
+      "Pueden pertenecer a sindicatos pero no a partidos políticos",
+      "Pueden desempeñar cargos públicos de libre designación"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 127.1 CE. La ley establecerá el sistema y modalidades de su asociación profesional."
+  },
+  {
+    "id": "ce12-20",
+    "pregunta": "Según el artículo 127.2 CE, el régimen de incompatibilidades de los miembros del poder judicial deberá asegurar:",
+    "opciones": [
+      "La total independencia de los mismos",
+      "Su dedicación exclusiva retribuida",
+      "La rotación periódica en los destinos"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 127.2 CE, literal."
+  }
+]

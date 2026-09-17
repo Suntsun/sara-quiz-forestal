@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ce15-01",
+    "pregunta": "Según el artículo 150.1 CE, las leyes marco permiten a las Cortes Generales, en materia de competencia estatal...",
+    "opciones": [
+      "Atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal",
+      "Transferir la titularidad de competencias exclusivas del Estado",
+      "Delegar la potestad reglamentaria en los Ayuntamientos"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 150.1 CE. En cada ley marco se establecerá la modalidad de control de las Cortes Generales sobre esas normas autonómicas."
+  },
+  {
+    "id": "ce15-02",
+    "pregunta": "Según el artículo 150.2 CE, ¿mediante qué norma puede el Estado transferir o delegar en las Comunidades Autónomas facultades de titularidad estatal susceptibles de transferencia o delegación?",
+    "opciones": [
+      "Ley orgánica",
+      "Ley ordinaria",
+      "Real decreto"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 150.2 CE. La ley preverá en cada caso la correspondiente transferencia de medios financieros y las formas de control que se reserve el Estado."
+  },
+  {
+    "id": "ce15-03",
+    "pregunta": "Según el artículo 150.3 CE, las leyes de armonización exigen que la necesidad sea apreciada por...",
+    "opciones": [
+      "Las Cortes Generales, por mayoría absoluta de cada Cámara",
+      "El Gobierno, previo dictamen del Consejo de Estado",
+      "El Tribunal Constitucional"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 150.3 CE. Permiten establecer los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas, aun en materias de su competencia, cuando lo exija el interés general."
+  },
+  {
+    "id": "ce15-04",
+    "pregunta": "Según el artículo 151.1 CE, para acceder a la autonomía por la vía reforzada se exige, además de la iniciativa de las Diputaciones u órganos interinsulares, el acuerdo de...",
+    "opciones": [
+      "Las tres cuartas partes de los municipios de cada una de las provincias afectadas que representen al menos la mayoría del censo electoral de cada una de ellas, con ratificación por referéndum",
+      "Las dos terceras partes de los municipios",
+      "La mayoría simple de los municipios afectados"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 151.1 CE. La ratificación exige el voto afirmativo de la mayoría absoluta de los electores de cada provincia."
+  },
+  {
+    "id": "ce15-05",
+    "pregunta": "En el procedimiento del artículo 151.2 CE, una vez aprobado el proyecto de Estatuto por la Asamblea de Parlamentarios, se remite a la Comisión Constitucional del Congreso, la cual dispone de un plazo de:",
+    "opciones": [
+      "Dos meses para examinarlo con el concurso de una delegación de la Asamblea proponente",
+      "Un mes",
+      "Seis meses"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 151.2, regla 2.ª, CE."
+  },
+  {
+    "id": "ce15-06",
+    "pregunta": "Según el artículo 151.3 CE, en los casos de las reglas 4.ª y 5.ª, la no aprobación del proyecto de Estatuto por una o varias provincias...",
+    "opciones": [
+      "No impedirá la constitución entre las restantes de la Comunidad Autónoma proyectada, en la forma que establezca la ley orgánica prevista en el apartado 1",
+      "Impide en todo caso la constitución de la Comunidad Autónoma",
+      "Obliga a repetir el referéndum en todo el ámbito territorial"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 151.3 CE, literal."
+  },
+  {
+    "id": "ce15-07",
+    "pregunta": "Según el artículo 152.1 CE, la organización institucional autonómica se basará en:",
+    "opciones": [
+      "Una Asamblea Legislativa elegida por sufragio universal con sistema de representación proporcional, un Consejo de Gobierno con funciones ejecutivas y administrativas, y un Presidente elegido por la Asamblea entre sus miembros y nombrado por el Rey",
+      "Un Parlamento unicameral y un Delegado del Gobierno",
+      "Una Asamblea y un Presidente designado por el Gobierno de la Nación"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 152.1 CE, literal."
+  },
+  {
+    "id": "ce15-08",
+    "pregunta": "Según el artículo 152.1 CE, ¿ante quién son políticamente responsables el Presidente y los miembros del Consejo de Gobierno autonómico?",
+    "opciones": [
+      "Ante la Asamblea Legislativa",
+      "Ante las Cortes Generales",
+      "Ante el Delegado del Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 152.1 CE, literal."
+  },
+  {
+    "id": "ce15-09",
+    "pregunta": "Según el artículo 152.1 CE, ¿qué órgano culmina la organización judicial en el ámbito territorial de la Comunidad Autónoma?",
+    "opciones": [
+      "Un Tribunal Superior de Justicia, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo",
+      "La Audiencia Provincial",
+      "El Tribunal Constitucional"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 152.1, párrafo segundo, CE."
+  },
+  {
+    "id": "ce15-10",
+    "pregunta": "Según el artículo 152.1 CE, al Presidente de la Comunidad Autónoma le corresponde la dirección del Consejo de Gobierno, la suprema representación de la respectiva Comunidad y...",
+    "opciones": [
+      "La representación ordinaria del Estado en aquélla",
+      "La jefatura de la Administración periférica del Estado",
+      "La presidencia del Tribunal Superior de Justicia"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 152.1 CE, literal. No confundir con el Delegado del Gobierno del art. 154 CE, que dirige la Administración del Estado en el territorio."
+  },
+  {
+    "id": "ce15-11",
+    "pregunta": "Según el artículo 152.2 CE, una vez sancionados y promulgados los Estatutos aprobados por la vía del artículo 151, sólo podrán ser modificados...",
+    "opciones": [
+      "Mediante los procedimientos en ellos establecidos y con referéndum entre los electores inscritos en los censos correspondientes",
+      "Por ley orgánica, sin referéndum",
+      "Por acuerdo de la Asamblea Legislativa por mayoría de dos tercios"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 152.2 CE, literal."
+  },
+  {
+    "id": "ce15-12",
+    "pregunta": "Según el artículo 153 CE, ¿a quién corresponde el control de la constitucionalidad de las disposiciones normativas con fuerza de ley de las Comunidades Autónomas?",
+    "opciones": [
+      "Al Tribunal Constitucional",
+      "Al Tribunal Supremo",
+      "Al Gobierno, previo dictamen del Consejo de Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 153, letra a), CE."
+  },
+  {
+    "id": "ce15-13",
+    "pregunta": "Según el artículo 153 CE, el control del ejercicio de funciones delegadas conforme al artículo 150.2 corresponde a:",
+    "opciones": [
+      "El Gobierno, previo dictamen del Consejo de Estado",
+      "La jurisdicción contencioso-administrativa",
+      "El Tribunal de Cuentas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 153, letra b), CE. La jurisdicción contencioso-administrativa controla la administración autónoma y sus normas reglamentarias, y el Tribunal de Cuentas el control económico y presupuestario."
+  },
+  {
+    "id": "ce15-14",
+    "pregunta": "Según el artículo 154 CE, ¿qué funciones tiene el Delegado nombrado por el Gobierno?",
+    "opciones": [
+      "Dirigir la Administración del Estado en el territorio de la Comunidad Autónoma y coordinarla, cuando proceda, con la administración propia de la Comunidad",
+      "Presidir el Consejo de Gobierno autonómico",
+      "Controlar la constitucionalidad de las leyes autonómicas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 154 CE, literal."
+  },
+  {
+    "id": "ce15-15",
+    "pregunta": "Según el artículo 155.1 CE, para adoptar las medidas necesarias frente a una Comunidad Autónoma que incumpla sus obligaciones o atente gravemente al interés general de España, el Gobierno necesita:",
+    "opciones": [
+      "Requerimiento previo al Presidente de la Comunidad Autónoma y, de no ser atendido, la aprobación por mayoría absoluta del Senado",
+      "La aprobación por mayoría absoluta del Congreso",
+      "Únicamente el dictamen favorable del Consejo de Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 155.1 CE, literal."
+  },
+  {
+    "id": "ce15-16",
+    "pregunta": "Según el artículo 155.2 CE, para la ejecución de esas medidas el Gobierno podrá...",
+    "opciones": [
+      "Dar instrucciones a todas las autoridades de las Comunidades Autónomas",
+      "Disolver la Asamblea Legislativa autonómica de forma automática",
+      "Suspender el Estatuto de Autonomía"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 155.2 CE, literal."
+  },
+  {
+    "id": "ce15-17",
+    "pregunta": "Según el artículo 156.1 CE, las Comunidades Autónomas gozarán de autonomía financiera con arreglo a los principios de:",
+    "opciones": [
+      "Coordinación con la Hacienda estatal y solidaridad entre todos los españoles",
+      "Suficiencia y corresponsabilidad fiscal",
+      "Estabilidad presupuestaria y sostenibilidad financiera"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 156.1 CE, literal."
+  },
+  {
+    "id": "ce15-18",
+    "pregunta": "De los siguientes, ¿cuál NO figura entre los recursos de las Comunidades Autónomas enumerados en el artículo 157.1 CE?",
+    "opciones": [
+      "Impuestos cedidos total o parcialmente por el Estado y recargos sobre impuestos estatales",
+      "Sus propios impuestos, tasas y contribuciones especiales",
+      "Los ingresos procedentes de la emisión de moneda"
+    ],
+    "correcta": 2,
+    "explicacion": "El sistema monetario es competencia exclusiva del Estado (art. 149.1.11.ª CE). El art. 157.1 CE enumera además transferencias del Fondo de Compensación interterritorial, rendimientos de su patrimonio e ingresos de derecho privado, y el producto de las operaciones de crédito."
+  },
+  {
+    "id": "ce15-19",
+    "pregunta": "Según el artículo 157.2 CE, las Comunidades Autónomas no podrán en ningún caso adoptar medidas tributarias...",
+    "opciones": [
+      "Sobre bienes situados fuera de su territorio o que supongan obstáculo para la libre circulación de mercancías o servicios",
+      "Sobre actividades económicas desarrolladas en su territorio",
+      "Que afecten a tributos cedidos por el Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 157.2 CE, literal."
+  },
+  {
+    "id": "ce15-20",
+    "pregunta": "Según el artículo 158.2 CE, ¿con qué finalidad se constituye el Fondo de Compensación?",
+    "opciones": [
+      "Corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad, con destino a gastos de inversión",
+      "Financiar el gasto corriente de las Comunidades Autónomas",
+      "Garantizar la estabilidad presupuestaria de las Entidades Locales"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 158.2 CE. Sus recursos serán distribuidos por las Cortes Generales entre las Comunidades Autónomas y provincias, en su caso."
+  }
+]
