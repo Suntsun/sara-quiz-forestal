@@ -1,0 +1,222 @@
+[
+  {
+    "id": "cp5-01",
+    "pregunta": "Según el artículo 341 CP, liberar energía nuclear o elementos radiactivos que pongan en peligro la vida o la salud de las personas o sus bienes, aunque no se produzca explosión, se sanciona con pena de PRISIÓN de:",
+    "opciones": [
+      "Quince a veinte años",
+      "Diez a veinte años",
+      "Cuatro a diez años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 341 CP: prisión de quince a veinte años e inhabilitación especial para empleo o cargo público, profesión u oficio de 10 a 20 años (esta última es la cifra que suele confundirse con la de prisión)."
+  },
+  {
+    "id": "cp5-02",
+    "pregunta": "En el artículo 341 CP, la inhabilitación especial para empleo o cargo público, profesión u oficio se impone por tiempo de:",
+    "opciones": [
+      "10 a 20 años",
+      "6 a 10 años",
+      "15 a 20 años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 341 CP. La inhabilitación de seis a diez años corresponde a los arts. 342 y 343.1 CP."
+  },
+  {
+    "id": "cp5-03",
+    "pregunta": "El artículo 342 CP castiga a quien, sin estar comprendido en el artículo anterior, perturbe el funcionamiento de una instalación nuclear o radiactiva o altere el desarrollo de actividades con materiales o equipos productores de radiaciones ionizantes, exigiendo que con ello se cree...",
+    "opciones": [
+      "Una situación de grave peligro para la vida o la salud de las personas",
+      "Un daño efectivo al medio ambiente",
+      "Una interrupción del suministro eléctrico"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 342 CP, literal. La pena es de prisión de cuatro a diez años e inhabilitación especial de seis a diez años."
+  },
+  {
+    "id": "cp5-04",
+    "pregunta": "Según el artículo 343.1 CP, la conducta de vertido, emisión o introducción en el aire, el suelo o las aguas de materiales o radiaciones ionizantes se castiga con prisión de seis a doce años cuando ponga en peligro la vida, integridad, salud o bienes de una o varias personas. ¿Se impone la misma pena en algún otro supuesto?",
+    "opciones": [
+      "Sí, cuando mediante esa conducta se ponga en peligro la calidad del aire, del suelo o de las aguas, o a animales o plantas",
+      "No, sólo protege a las personas",
+      "Sí, pero rebajada en un grado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 343.1, inciso final, CP, literal."
+  },
+  {
+    "id": "cp5-05",
+    "pregunta": "Según el artículo 343.2 CP, si con ocasión de esa conducta se produce además del riesgo un resultado lesivo constitutivo de delito, los jueces o tribunales:",
+    "opciones": [
+      "Apreciarán tan sólo la infracción más gravemente penada, aplicando la pena en su mitad superior",
+      "Castigarán separadamente ambos delitos",
+      "Impondrán siempre la pena superior en grado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 343.2 CP, literal. Compárese con el art. 346.3 CP (estragos), que sí ordena castigar separadamente."
+  },
+  {
+    "id": "cp5-06",
+    "pregunta": "Cuando una persona jurídica sea responsable de los delitos del artículo 343 CP, se le impondrá pena de multa de:",
+    "opciones": [
+      "Dos a cinco años",
+      "Uno a tres años",
+      "Seis meses a dos años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 343.3 CP."
+  },
+  {
+    "id": "cp5-07",
+    "pregunta": "Según el artículo 344 CP, los hechos previstos en los artículos anteriores cometidos por IMPRUDENCIA GRAVE se sancionan con:",
+    "opciones": [
+      "La pena inferior en grado, en sus respectivos supuestos",
+      "La pena en su mitad inferior",
+      "Una multa de seis a dieciocho meses"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 344 CP, literal."
+  },
+  {
+    "id": "cp5-08",
+    "pregunta": "De las siguientes conductas sobre materiales nucleares u otras sustancias radiactivas peligrosas, ¿cuál NO se enumera en el artículo 345.1 CP?",
+    "opciones": [
+      "Adquirir, poseer, traficar o facilitar",
+      "Tratar, transformar, utilizar, almacenar, transportar o eliminar",
+      "Producirlos sin la debida autorización"
+    ],
+    "correcta": 2,
+    "explicacion": "La producción sin autorización se tipifica separadamente en el art. 345.2 CP, castigada con la pena superior en grado."
+  },
+  {
+    "id": "cp5-09",
+    "pregunta": "¿Cuál es la pena de PRISIÓN del tipo básico del artículo 345.1 CP?",
+    "opciones": [
+      "Uno a cinco años",
+      "Seis a doce años",
+      "Cuatro a diez años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 345.1 CP: prisión de uno a cinco años, multa de seis a dieciocho meses e inhabilitación especial para profesión u oficio de uno a tres años."
+  },
+  {
+    "id": "cp5-10",
+    "pregunta": "Según el artículo 346.1 CP, el delito de estragos se castiga con prisión de diez a veinte años cuando...",
+    "opciones": [
+      "Los estragos comportaran necesariamente un peligro para la vida o integridad de las personas",
+      "Se hubieran causado daños superiores a 50.000 euros",
+      "La destrucción afectara a bienes de titularidad pública"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 346.1 CP, inciso final. Si no concurre tal peligro, la pena es de cuatro a ocho años de prisión (art. 346.2)."
+  },
+  {
+    "id": "cp5-11",
+    "pregunta": "Según el artículo 346.2 CP, cuando NO concurra el peligro para la vida o integridad de las personas, los estragos se castigan con pena de prisión de:",
+    "opciones": [
+      "Cuatro a ocho años",
+      "Diez a veinte años",
+      "Uno a cuatro años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 346.2 CP. La pena de uno a cuatro años corresponde a los estragos por imprudencia grave (art. 347 CP)."
+  },
+  {
+    "id": "cp5-12",
+    "pregunta": "Según el artículo 346.3 CP, si además del peligro se hubiere producido lesión para la vida, integridad física o salud de las personas:",
+    "opciones": [
+      "Los hechos se castigarán separadamente con la pena correspondiente al delito cometido",
+      "Se apreciará únicamente la infracción más gravemente penada",
+      "Se impondrá la pena en su mitad superior"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 346.3 CP, literal. Es la regla opuesta a la del art. 343.2 CP."
+  },
+  {
+    "id": "cp5-13",
+    "pregunta": "De los siguientes resultados, ¿cuál NO figura en la enumeración del artículo 346.1 CP sobre estragos?",
+    "opciones": [
+      "Levantamiento de los carriles de una vía férrea o voladura de puente",
+      "Perturbación o interrupción del suministro de agua, electricidad, hidrocarburos u otro recurso natural fundamental",
+      "Incendio de montes o masas forestales"
+    ],
+    "correcta": 2,
+    "explicacion": "El incendio de montes o masas forestales se tipifica en el art. 352 CP, dentro del Capítulo II (de los incendios), no en el delito de estragos."
+  },
+  {
+    "id": "cp5-14",
+    "pregunta": "Según el artículo 347 CP, quien por imprudencia grave provocare un delito de estragos será castigado con pena de prisión de:",
+    "opciones": [
+      "Uno a cuatro años",
+      "Seis meses a tres años",
+      "Cuatro a ocho años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 347 CP, literal."
+  },
+  {
+    "id": "cp5-15",
+    "pregunta": "El artículo 348.1 CP castiga contravenir las normas de seguridad en la fabricación, manipulación, transporte, tenencia o comercialización de explosivos y otras materias peligrosas, poniendo en concreto peligro la vida, la integridad física o la salud de las personas, o...",
+    "opciones": [
+      "El medio ambiente",
+      "El patrimonio histórico",
+      "La seguridad vial"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 348.1 CP, literal. Pena: prisión de seis meses a tres años, multa de doce a veinticuatro meses e inhabilitación especial de seis a doce años."
+  },
+  {
+    "id": "cp5-16",
+    "pregunta": "Según el artículo 348.1, párrafo segundo, CP, se imponen las mismas penas a quien, de forma ilegal...",
+    "opciones": [
+      "Produzca, importe, exporte, comercialice o utilice sustancias destructoras del ozono",
+      "Almacene residuos radiactivos",
+      "Emita gases de efecto invernadero sin autorización"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 348.1, párrafo segundo, CP, literal."
+  },
+  {
+    "id": "cp5-17",
+    "pregunta": "Según el artículo 348.2 CP, se castiga a los responsables de la vigilancia, control y utilización de explosivos que puedan causar estragos que, contraviniendo la normativa en materia de explosivos...",
+    "opciones": [
+      "Hayan facilitado su efectiva pérdida o sustracción",
+      "Hayan omitido el seguro obligatorio",
+      "No hayan renovado la autorización administrativa"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 348.2 CP, literal. La pena coincide con la del apartado 1."
+  },
+  {
+    "id": "cp5-18",
+    "pregunta": "Sobre el artículo 348 CP, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Cuando sea responsable una persona jurídica, la multa es de uno a tres años, salvo que el perjuicio acreditado fuese mayor, en cuyo caso será del doble al cuádruple de su montante",
+      "Las penas se imponen en su mitad superior cuando se trate de los directores, administradores o encargados de la sociedad, empresa, organización o explotación",
+      "La condición de director o administrador excluye la responsabilidad penal si se delegó la vigilancia"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 348.3 CP: la condición de director, administrador o encargado agrava la pena, imponiéndola en su mitad superior."
+  },
+  {
+    "id": "cp5-19",
+    "pregunta": "De las siguientes conductas de los responsables de fábricas, talleres, medios de transporte o depósitos de explosivos, ¿cuál NO se enumera en el artículo 348.4 CP?",
+    "opciones": [
+      "Obstaculizar la actividad inspectora de la Administración en materia de seguridad de explosivos",
+      "Desobedecer las órdenes expresas de la Administración encaminadas a subsanar anomalías graves de seguridad",
+      "Emplear mano de obra sin la formación preventiva obligatoria"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 348.4 CP enumera tres conductas: obstaculizar la inspección, falsear u ocultar información relevante sobre medidas de seguridad, y desobedecer órdenes expresas de subsanación."
+  },
+  {
+    "id": "cp5-20",
+    "pregunta": "El artículo 350 CP, sin perjuicio de lo dispuesto en el artículo 316, castiga con las penas del artículo 349 a quienes, en la apertura de pozos o excavaciones, construcción o demolición de edificios, presas, canalizaciones u obras análogas, o en su conservación o mantenimiento...",
+    "opciones": [
+      "Infrinjan las normas de seguridad cuya inobservancia pueda ocasionar resultados catastróficos, poniendo en concreto peligro la vida, la integridad física de las personas o el medio ambiente",
+      "Carezcan de proyecto técnico visado",
+      "Superen los plazos de ejecución autorizados"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 350 CP, literal. El art. 349 CP, al que se remite, castiga con prisión de seis meses a dos años, multa de seis a doce meses e inhabilitación especial de tres a seis años."
+  }
+]

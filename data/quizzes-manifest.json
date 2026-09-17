@@ -46,5 +46,41 @@
     "titulo": "Constitución — Garantías de los derechos y suspensión (arts. 53-55)",
     "categoria": "constitucion",
     "archivo": "data/ce-t1-garantias-suspension.json"
+  },
+  {
+    "id": "cp-ordenacion-territorio-patrimonio",
+    "titulo": "Código Penal — Ordenación del territorio, urbanismo y patrimonio histórico (arts. 319-324)",
+    "categoria": "codigo-penal",
+    "archivo": "data/cp-ordenacion-territorio-patrimonio.json"
+  },
+  {
+    "id": "cp-recursos-naturales-medio-ambiente",
+    "titulo": "Código Penal — Delitos contra los recursos naturales y el medio ambiente (arts. 325-331)",
+    "categoria": "codigo-penal",
+    "archivo": "data/cp-recursos-naturales-medio-ambiente.json"
+  },
+  {
+    "id": "cp-flora-y-fauna",
+    "titulo": "Código Penal — Delitos contra la flora y fauna: caza, pesca, veneno y hábitats (arts. 332-336)",
+    "categoria": "codigo-penal",
+    "archivo": "data/cp-flora-y-fauna.json"
+  },
+  {
+    "id": "cp-animales-disposiciones-comunes",
+    "titulo": "Código Penal — Delitos contra los animales y disposiciones comunes (arts. 338-340 quinquies)",
+    "categoria": "codigo-penal",
+    "archivo": "data/cp-animales-disposiciones-comunes.json"
+  },
+  {
+    "id": "cp-riesgo-catastrofico",
+    "titulo": "Código Penal — Delitos de riesgo catastrófico: energía nuclear, estragos y explosivos (arts. 341-350)",
+    "categoria": "codigo-penal",
+    "archivo": "data/cp-riesgo-catastrofico.json"
+  },
+  {
+    "id": "cp-incendios",
+    "titulo": "Código Penal — Delitos de incendio: forestales, no forestales y bienes propios (arts. 351-358 bis)",
+    "categoria": "codigo-penal",
+    "archivo": "data/cp-incendios.json"
   }
 ]

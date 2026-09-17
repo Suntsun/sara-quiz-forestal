@@ -1,0 +1,222 @@
+[
+  {
+    "id": "cp3-01",
+    "pregunta": "De las siguientes conductas sobre especies protegidas de FLORA silvestre, ¿cuál NO se menciona en el artículo 332.1 CP?",
+    "opciones": [
+      "Cortar, talar, arrancar o recolectar",
+      "Adquirir, poseer o destruir, o traficar con ellas, sus partes, derivados o propágulos",
+      "Comercializar semillas de especies no catalogadas"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 332.1 CP enumera cortar, talar, arrancar, recolectar, adquirir, poseer o destruir especies protegidas de flora silvestre, o traficar con ellas, sus partes, derivados o propágulos."
+  },
+  {
+    "id": "cp3-02",
+    "pregunta": "¿Cuál es la pena de PRISIÓN del tipo básico del artículo 332.1 CP (delitos contra la flora)?",
+    "opciones": [
+      "Seis meses a dos años, alternativa a multa de ocho a veinticuatro meses",
+      "Uno a tres años, acumulativa con multa",
+      "Cuatro meses a dos años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 332.1 CP: prisión de seis meses a dos años O multa de ocho a veinticuatro meses, e inhabilitación especial para profesión u oficio de seis meses a dos años. La de cuatro meses a dos años es la del art. 333 CP."
+  },
+  {
+    "id": "cp3-03",
+    "pregunta": "Según el párrafo segundo del artículo 332.1 CP, se impone la misma pena a quien, contraviniendo las leyes u otras disposiciones de carácter general...",
+    "opciones": [
+      "Destruya o altere gravemente el hábitat de esas especies protegidas de flora",
+      "Transite por zonas de reserva botánica",
+      "Incumpla las condiciones de una autorización de recolección"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 332.1, párrafo segundo, CP, literal."
+  },
+  {
+    "id": "cp3-04",
+    "pregunta": "Si los hechos del artículo 332 CP se cometen por IMPRUDENCIA GRAVE, la pena de prisión prevista es de:",
+    "opciones": [
+      "Tres meses a un año, o multa de cuatro a ocho meses",
+      "Seis meses a dos años",
+      "Un mes a seis meses"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 332.3 CP: prisión de tres meses a un año o multa de cuatro a ocho meses, e inhabilitación especial para profesión u oficio de 3 meses a 2 años."
+  },
+  {
+    "id": "cp3-05",
+    "pregunta": "En el artículo 333 CP (introducción o liberación de especies no autóctonas), la inhabilitación especial para profesión u oficio se impone...",
+    "opciones": [
+      "En todo caso, por tiempo de uno a tres años",
+      "Sólo si el daño es de notoria importancia",
+      "De forma potestativa, por tiempo de seis meses a dos años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 333 CP: \"y, en todo caso, inhabilitación especial para profesión u oficio por tiempo de uno a tres años\"."
+  },
+  {
+    "id": "cp3-06",
+    "pregunta": "El artículo 333 CP exige que la introducción o liberación de especies de flora o fauna no autóctona se realice...",
+    "opciones": [
+      "De modo que perjudique el equilibrio biológico, contraviniendo las leyes o disposiciones protectoras de las especies de flora o fauna",
+      "Con ánimo de lucro",
+      "En el interior de un espacio natural protegido"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 333 CP, literal."
+  },
+  {
+    "id": "cp3-07",
+    "pregunta": "Según el artículo 334.1 CP, ¿cuáles son las conductas típicas sobre especies protegidas de FAUNA silvestre?",
+    "opciones": [
+      "Cazar, pescar, adquirir, poseer o destruirlas; traficar con ellas, sus partes o derivados; o realizar actividades que impidan o dificulten su reproducción o migración",
+      "Únicamente cazarlas o pescarlas",
+      "Únicamente traficar con ejemplares vivos"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 334.1, letras a), b) y c), CP. El párrafo final añade la destrucción o alteración grave de su hábitat."
+  },
+  {
+    "id": "cp3-08",
+    "pregunta": "Además de prisión o multa, el artículo 334.1 CP impone EN TODO CASO inhabilitación especial para profesión u oficio e inhabilitación especial para el ejercicio del derecho de cazar o pescar por tiempo de:",
+    "opciones": [
+      "Dos a cuatro años",
+      "Uno a tres años",
+      "Dos a cinco años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 334.1 CP. La de uno a tres años corresponde al art. 336 CP y la de dos a cinco años a los arts. 335.1 y 335.3 CP."
+  },
+  {
+    "id": "cp3-09",
+    "pregunta": "Según el artículo 334.3 CP, si los hechos contra la fauna se cometen por imprudencia grave, la inhabilitación para el ejercicio del derecho de cazar o pescar será por tiempo de:",
+    "opciones": [
+      "Tres meses a dos años",
+      "Dos a cuatro años",
+      "Uno a tres años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 334.3 CP: prisión de tres meses a un año o multa de cuatro a ocho meses y, en todo caso, inhabilitación especial para profesión u oficio e inhabilitación para cazar o pescar de tres meses a dos años."
+  },
+  {
+    "id": "cp3-10",
+    "pregunta": "Sobre el artículo 334 CP, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "La pena se impone en su mitad superior si se trata de especies o subespecies catalogadas en peligro de extinción",
+      "Se castiga igualmente destruir o alterar gravemente el hábitat de las especies protegidas de fauna",
+      "La privación del derecho a la tenencia y porte de armas sólo procede si la caza se practicaba con licencia en vigor"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 334.4 CP impone la privación del derecho a la tenencia y porte de armas de 2 a 4 años cuando los hechos de las letras a) y c) se cometan utilizando armas, \"en actividades relacionadas o no con la caza\"."
+  },
+  {
+    "id": "cp3-11",
+    "pregunta": "El artículo 335.1 CP castiga a quien cace o pesque especies DISTINTAS de las protegidas del artículo anterior, cuando ello esté expresamente prohibido por las normas específicas sobre su caza o pesca, con la pena de:",
+    "opciones": [
+      "Multa de ocho a doce meses, inhabilitación especial para el ejercicio del derecho de cazar o pescar de dos a cinco años y privación del derecho a la tenencia y porte de armas por el mismo periodo",
+      "Prisión de seis meses a dos años",
+      "Multa de cuatro a ocho meses e inhabilitación de uno a tres años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 335.1 CP, literal. La multa de cuatro a ocho meses corresponde al art. 335.2."
+  },
+  {
+    "id": "cp3-12",
+    "pregunta": "¿Qué conducta tipifica el artículo 335.2 CP?",
+    "opciones": [
+      "Cazar, pescar o realizar actividades de marisqueo relevantes sobre especies distintas de las protegidas, en terrenos públicos o privados ajenos sometidos a régimen cinegético especial sin el debido permiso de su titular, o sometidos a concesión o autorización marisquera o acuícola sin el debido título administrativo habilitante",
+      "Cazar sin licencia en terrenos de aprovechamiento cinegético común",
+      "Pescar fuera de la temporada hábil en aguas continentales"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 335.2 CP, literal."
+  },
+  {
+    "id": "cp3-13",
+    "pregunta": "Según el artículo 335.2 CP, las penas allí previstas se imponen...",
+    "opciones": [
+      "Además de las que pudieran corresponder, en su caso, por la comisión del delito previsto en el apartado 1 del mismo artículo",
+      "En sustitución de las del apartado 1",
+      "Sólo si no concurre el supuesto del apartado 1"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 335.2, inciso final, CP, literal."
+  },
+  {
+    "id": "cp3-14",
+    "pregunta": "Según el artículo 335.3 CP, si las conductas anteriores producen graves daños al patrimonio cinegético de un terreno sometido a régimen cinegético especial o a la sostenibilidad de los recursos en zonas de concesión marisquera o acuícola, se impone pena de:",
+    "opciones": [
+      "Prisión de seis meses a dos años e inhabilitación para cazar, pescar y realizar actividades de marisqueo de dos a cinco años, con privación del derecho a la tenencia y porte de armas por el mismo periodo",
+      "Multa de ocho a doce meses",
+      "Prisión de dos a cinco años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 335.3 CP, literal. Es el único apartado del art. 335 que prevé pena de prisión."
+  },
+  {
+    "id": "cp3-15",
+    "pregunta": "Sobre la diferencia entre los artículos 334 y 335 CP, señale la afirmación CORRECTA:",
+    "opciones": [
+      "El art. 334 se aplica a especies PROTEGIDAS de fauna silvestre y el art. 335 a especies DISTINTAS de aquellas",
+      "Ambos se aplican indistintamente a cualquier especie",
+      "El art. 335 se reserva a las especies catalogadas en peligro de extinción"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 335.1 CP se refiere expresamente a quien \"cace o pesque especies distintas de las indicadas en el artículo anterior\"."
+  },
+  {
+    "id": "cp3-16",
+    "pregunta": "El artículo 336 CP castiga a quien, sin estar legalmente autorizado, emplee para la caza o pesca...",
+    "opciones": [
+      "Veneno, medios explosivos u otros instrumentos o artes de similar eficacia destructiva o no selectiva para la fauna",
+      "Cualquier arma de fuego semiautomática",
+      "Reclamos vivos de especies cinegéticas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 336 CP, literal."
+  },
+  {
+    "id": "cp3-17",
+    "pregunta": "En el artículo 336 CP, la inhabilitación especial para el ejercicio del derecho a cazar o pescar y la privación del derecho a la tenencia y porte de armas se imponen por tiempo de:",
+    "opciones": [
+      "Uno a tres años",
+      "Dos a cuatro años",
+      "Dos a cinco años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 336 CP: \"por tiempo de 1 a 3 años, con la privación del derecho para la tenencia y porte de armas por el mismo periodo\"."
+  },
+  {
+    "id": "cp3-18",
+    "pregunta": "Según el artículo 336 CP, si el daño causado fuera de notoria importancia:",
+    "opciones": [
+      "Se impondrá la pena de prisión antes mencionada en su mitad superior",
+      "Se impondrá la pena superior en grado",
+      "Se sustituirá la multa por prisión de dos a cinco años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 336, inciso final, CP, literal."
+  },
+  {
+    "id": "cp3-19",
+    "pregunta": "En el texto vigente del Código Penal empleado en este temario, los artículos 337 y 337 bis (maltrato y abandono de animales):",
+    "opciones": [
+      "Fueron suprimidos por la Ley Orgánica 3/2023, de 28 de marzo, de modificación del Código Penal en materia de maltrato animal",
+      "Siguen vigentes dentro del Capítulo IV, sobre delitos contra la flora y fauna",
+      "Fueron trasladados sin cambios al Capítulo V de disposiciones comunes"
+    ],
+    "correcta": 0,
+    "explicacion": "El texto fuente indica expresamente que ambos artículos quedaron suprimidos por la L.O. 3/2023, que introdujo el nuevo Título XVI bis, \"De los delitos contra los animales\"."
+  },
+  {
+    "id": "cp3-20",
+    "pregunta": "Tanto en el artículo 332 (flora) como en el artículo 334 (fauna) CP, ¿qué efecto produce que se trate de especies o subespecies catalogadas EN PELIGRO DE EXTINCIÓN?",
+    "opciones": [
+      "La pena se impone en su mitad superior",
+      "La pena se eleva en un grado",
+      "Se sustituye la multa por prisión obligatoria"
+    ],
+    "correcta": 0,
+    "explicacion": "Arts. 332.2 y 334.2 CP, en idénticos términos: \"La pena se impondrá en su mitad superior\"."
+  }
+]

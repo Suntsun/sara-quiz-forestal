@@ -1,0 +1,222 @@
+[
+  {
+    "id": "cp4-01",
+    "pregunta": "El artículo 340 bis.1 CP castiga a quien, fuera de las actividades legalmente reguladas, cause a un animal doméstico, amansado, domesticado o que viva bajo control humano...",
+    "opciones": [
+      "Lesión que requiera tratamiento veterinario para el restablecimiento de su salud",
+      "Cualquier molestia o incomodidad",
+      "Únicamente la muerte"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 340 bis.1 CP, literal. La pena es prisión de tres a dieciocho meses o multa de seis a doce meses, más inhabilitación especial de uno a tres años."
+  },
+  {
+    "id": "cp4-02",
+    "pregunta": "Si las lesiones del artículo 340 bis.1 CP se causan a un animal VERTEBRADO no comprendido entre los domésticos o bajo control humano, la pena es de:",
+    "opciones": [
+      "Prisión de tres a doce meses o multa de tres a seis meses",
+      "Prisión de tres a dieciocho meses o multa de seis a doce meses",
+      "Multa de uno a dos meses"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 340 bis.1, párrafo segundo, CP. La primera opción errónea corresponde al párrafo primero (animales bajo control humano)."
+  },
+  {
+    "id": "cp4-03",
+    "pregunta": "Según el artículo 340 bis.1 CP, si el delito se hubiera cometido utilizando armas de fuego, el juez o tribunal podrá imponer motivadamente la privación del derecho a la tenencia y porte de armas por tiempo de:",
+    "opciones": [
+      "Uno a cuatro años",
+      "Dos a cinco años",
+      "Dos a cuatro años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 340 bis.1, párrafo tercero, CP. Los dos a cinco años corresponden al supuesto de muerte del animal (art. 340 bis.3)."
+  },
+  {
+    "id": "cp4-04",
+    "pregunta": "De las siguientes, ¿cuál NO es una circunstancia agravante del artículo 340 bis.2 CP?",
+    "opciones": [
+      "Ejecutar el hecho con ensañamiento",
+      "Realizar el hecho por su propietario o por quien tenga confiado el cuidado del animal",
+      "Cometer el hecho en un espacio natural protegido"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 340 bis.2 CP enumera nueve circunstancias (armas o medios peligrosos, ensañamiento, pérdida o inutilidad de sentido/órgano/miembro principal, autoría del propietario o cuidador, presencia de menor o persona especialmente vulnerable, ánimo de lucro, finalidad de coaccionar a la pareja o expareja, evento público o difusión por TIC, y uso de veneno o medios de eficacia no selectiva). El espacio natural protegido no figura entre ellas."
+  },
+  {
+    "id": "cp4-05",
+    "pregunta": "Cuando concurre alguna de las circunstancias agravantes del artículo 340 bis.2 CP, las penas se imponen:",
+    "opciones": [
+      "En su mitad superior",
+      "En grado superior",
+      "Con un incremento de la multa en un tercio"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 340 bis.2 CP, encabezamiento, literal."
+  },
+  {
+    "id": "cp4-06",
+    "pregunta": "Entre las agravantes del artículo 340 bis.2 CP figura ejecutar el hecho...",
+    "opciones": [
+      "En presencia de un menor de edad o de una persona especialmente vulnerable",
+      "Durante la temporada hábil de caza",
+      "En día festivo"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 340 bis.2, letra e), CP."
+  },
+  {
+    "id": "cp4-07",
+    "pregunta": "El artículo 340 bis.2 CP agrava la pena cuando el hecho se comete para coaccionar, intimidar, acosar o producir menoscabo psíquico a...",
+    "opciones": [
+      "Quien sea o haya sido cónyuge, o persona ligada al autor por análoga relación de afectividad, aun sin convivencia",
+      "Cualquier vecino del autor",
+      "Un agente de la autoridad"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 340 bis.2, letra g), CP, literal."
+  },
+  {
+    "id": "cp4-08",
+    "pregunta": "Según el artículo 340 bis.3 CP, causar la MUERTE de un animal doméstico, amansado, domesticado o que viva bajo control humano se castiga con pena de prisión de:",
+    "opciones": [
+      "Doce a veinticuatro meses, además de inhabilitación especial de dos a cuatro años",
+      "Tres a dieciocho meses",
+      "Seis a dieciocho meses o multa de dieciocho a veinticuatro meses"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 340 bis.3, párrafo primero, CP. La tercera opción corresponde a la muerte de un vertebrado no incluido en esa categoría."
+  },
+  {
+    "id": "cp4-09",
+    "pregunta": "Cuando se cause la muerte de un animal VERTEBRADO no comprendido entre los domésticos o bajo control humano, el artículo 340 bis.3 CP prevé:",
+    "opciones": [
+      "Prisión de seis a dieciocho meses o multa de dieciocho a veinticuatro meses, además de inhabilitación especial de dos a cuatro años",
+      "Prisión de doce a veinticuatro meses",
+      "Multa de uno a seis meses"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 340 bis.3, párrafo segundo, CP, literal."
+  },
+  {
+    "id": "cp4-10",
+    "pregunta": "Si el delito con resultado de muerte del animal se hubiera cometido utilizando armas de fuego, el artículo 340 bis.3 CP permite imponer motivadamente la privación del derecho a tenencia y porte de armas por tiempo de:",
+    "opciones": [
+      "Dos a cinco años",
+      "Uno a cuatro años",
+      "Uno a tres años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 340 bis.3, párrafo tercero, CP. El plazo de uno a cuatro años corresponde al supuesto de lesiones del art. 340 bis.1."
+  },
+  {
+    "id": "cp4-11",
+    "pregunta": "Según el artículo 340 bis.4 CP, si las lesiones producidas no requiriesen tratamiento veterinario o se hubiere maltratado gravemente al animal sin causarle lesiones, se impone:",
+    "opciones": [
+      "Multa de uno a dos meses o trabajos en beneficio de la comunidad de uno a treinta días, más inhabilitación especial de tres meses a un año",
+      "Prisión de tres a doce meses",
+      "Multa de uno a seis meses o trabajos en beneficio de la comunidad de treinta y uno a noventa días"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 340 bis.4 CP, literal. La tercera opción corresponde al abandono del art. 340 ter."
+  },
+  {
+    "id": "cp4-12",
+    "pregunta": "¿Qué conducta tipifica el artículo 340 ter CP?",
+    "opciones": [
+      "Abandonar a un animal vertebrado que se encuentre bajo su responsabilidad en condiciones en que pueda peligrar su vida o integridad",
+      "Ceder un animal a un tercero sin comunicarlo al registro",
+      "No vacunar a un animal doméstico"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 340 ter CP, literal. Pena: multa de uno a seis meses o trabajos en beneficio de la comunidad de treinta y uno a noventa días, más inhabilitación especial de uno a tres años."
+  },
+  {
+    "id": "cp4-13",
+    "pregunta": "Según el artículo 340 quater.1 CP, si una persona jurídica es responsable de un delito contra los animales y el delito cometido por la persona física tiene prevista pena de prisión SUPERIOR a dos años, se le impondrá multa de:",
+    "opciones": [
+      "Uno a tres años",
+      "Seis meses a dos años",
+      "Tres a dieciocho meses"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 340 quater.1, letra a), CP. La letra b) prevé multa de seis meses a dos años en el resto de los casos."
+  },
+  {
+    "id": "cp4-14",
+    "pregunta": "El artículo 340 quinquies CP permite a los jueces o tribunales adoptar motivadamente cualquier medida cautelar necesaria para la protección de los bienes tutelados en el Título, incluyendo:",
+    "opciones": [
+      "Cambios provisionales sobre la titularidad y cuidado del animal",
+      "El decomiso definitivo de todos los bienes del autor",
+      "La clausura del domicilio del infractor"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 340 quinquies, párrafo primero, CP, literal."
+  },
+  {
+    "id": "cp4-15",
+    "pregunta": "Según el artículo 338 CP, cuando las conductas definidas en el Título XVI afecten a algún espacio natural protegido:",
+    "opciones": [
+      "Se impondrán las penas superiores en grado a las respectivamente previstas",
+      "Se impondrán las penas en su mitad superior",
+      "Se aplicará únicamente una multa adicional"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 338 CP, literal. Es una regla de agravación general para todo el Título XVI."
+  },
+  {
+    "id": "cp4-16",
+    "pregunta": "Sobre el ámbito de aplicación del artículo 338 CP, señale la afirmación CORRECTA:",
+    "opciones": [
+      "Se aplica a las conductas definidas en todo el Título XVI, no sólo a las del Capítulo de medio ambiente",
+      "Se aplica exclusivamente a los delitos de incendios forestales",
+      "Se aplica exclusivamente a los delitos contra la flora y fauna"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 338 CP se refiere a \"las conductas definidas en este Título\", es decir, todo el Título XVI (ordenación del territorio, patrimonio histórico, medio ambiente y flora y fauna)."
+  },
+  {
+    "id": "cp4-17",
+    "pregunta": "Según el artículo 339 CP, ¿qué deben ordenar los jueces o tribunales?",
+    "opciones": [
+      "La adopción, a cargo del autor del hecho, de las medidas necesarias encaminadas a restaurar el equilibrio ecológico perturbado, así como cualquier otra medida cautelar necesaria para la protección de los bienes tutelados en el Título",
+      "El pago de una fianza equivalente al daño causado",
+      "La publicación de la sentencia en el boletín oficial"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 339 CP, literal."
+  },
+  {
+    "id": "cp4-18",
+    "pregunta": "Respecto al artículo 339 CP, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Las medidas de restauración corren a cargo del autor del hecho",
+      "Se trata de una facultad potestativa que el tribunal puede no ejercer",
+      "Comprende también cualquier otra medida cautelar necesaria para la protección de los bienes tutelados"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 339 CP emplea una fórmula imperativa: \"Los jueces o tribunales ordenarán la adopción...\"."
+  },
+  {
+    "id": "cp4-19",
+    "pregunta": "Según el artículo 340 CP, si el culpable hubiera procedido VOLUNTARIAMENTE a reparar el daño causado, los Jueces y Tribunales le impondrán:",
+    "opciones": [
+      "La pena inferior en grado a las respectivamente previstas",
+      "La pena en su mitad inferior",
+      "La exención completa de la pena"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 340 CP, literal. Es la contrapartida atenuatoria del art. 338 CP."
+  },
+  {
+    "id": "cp4-20",
+    "pregunta": "Comparando los artículos 338 y 340 CP, señale la afirmación CORRECTA:",
+    "opciones": [
+      "El art. 338 agrava en un grado por afectar a espacio natural protegido y el art. 340 atenúa en un grado por reparación voluntaria del daño",
+      "Ambos preceptos agravan la pena",
+      "El art. 340 sólo se aplica a los delitos contra la flora y fauna"
+    ],
+    "correcta": 0,
+    "explicacion": "Arts. 338 y 340 CP. Ambos se refieren a los hechos tipificados en el Título XVI."
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "cp1-01",
+    "pregunta": "El artículo 319.1 CP se refiere a obras de urbanización, construcción o edificación no autorizables realizadas en determinados suelos. ¿Cuáles?",
+    "opciones": [
+      "Suelos destinados a viales, zonas verdes, bienes de dominio público o lugares con valor paisajístico, ecológico, artístico, histórico o cultural reconocido legal o administrativamente, o considerados de especial protección",
+      "Cualquier suelo no urbanizable del término municipal",
+      "Únicamente los terrenos declarados Parque Nacional"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 319.1 CP, literal. El suelo no urbanizable sin más está en el art. 319.2, con pena menor."
+  },
+  {
+    "id": "cp1-02",
+    "pregunta": "¿Quiénes son los sujetos activos del delito del artículo 319.1 CP?",
+    "opciones": [
+      "Los promotores, constructores o técnicos directores",
+      "Cualquier persona que ejecute materialmente la obra",
+      "Únicamente el propietario del terreno"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 319.1 CP, literal: \"a los promotores, constructores o técnicos directores\"."
+  },
+  {
+    "id": "cp1-03",
+    "pregunta": "En el artículo 319.1 CP, la multa es de doce a veinticuatro meses, salvo que el beneficio obtenido por el delito fuese superior a la cantidad resultante, en cuyo caso será...",
+    "opciones": [
+      "Del tanto al triplo del montante de dicho beneficio",
+      "Del doble al cuádruple del montante de dicho beneficio",
+      "Del tanto al duplo del montante de dicho beneficio"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 319.1 CP. Ojo: el \"doble al cuádruple\" es la regla del art. 319.4 para personas jurídicas."
+  },
+  {
+    "id": "cp1-04",
+    "pregunta": "Además de prisión y multa, el artículo 319.1 CP impone inhabilitación especial para profesión u oficio por tiempo de...",
+    "opciones": [
+      "Uno a cuatro años",
+      "Uno a cinco años",
+      "Dos a seis años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 319.1 CP: inhabilitación especial de uno a cuatro años. La de uno a cinco años corresponde al art. 321 CP (patrimonio histórico)."
+  },
+  {
+    "id": "cp1-05",
+    "pregunta": "Según el artículo 319.2 CP, las obras no autorizables en SUELO NO URBANIZABLE se castigan con pena de PRISIÓN de:",
+    "opciones": [
+      "Uno a tres años",
+      "Un año y seis meses a cuatro años",
+      "Seis meses a dos años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 319.2 CP: prisión de uno a tres años. La de 1 año y 6 meses a 4 años corresponde al art. 319.1 (suelos especialmente protegidos)."
+  },
+  {
+    "id": "cp1-06",
+    "pregunta": "Comparando los apartados 1 y 2 del artículo 319 CP, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "El apartado 1 castiga más gravemente que el apartado 2 en cuanto a la pena de prisión",
+      "Ambos apartados prevén la misma inhabilitación especial para profesión u oficio, de uno a cuatro años",
+      "El apartado 2 no exige que los sujetos sean promotores, constructores o técnicos directores"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 319.2 CP se refiere igualmente \"a los promotores, constructores o técnicos directores\". La diferencia entre ambos apartados está en el tipo de suelo y en la pena de prisión."
+  },
+  {
+    "id": "cp1-07",
+    "pregunta": "Según el artículo 319.3 CP, para ordenar la demolición de la obra a cargo del autor, los jueces o tribunales deben...",
+    "opciones": [
+      "Hacerlo motivadamente, valorando las circunstancias y oída la Administración competente",
+      "Contar con el consentimiento previo del Ayuntamiento",
+      "Esperar a que la obra sea declarada ilegal en vía contencioso-administrativa"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 319.3 CP. La demolición se acuerda motivadamente, sin perjuicio de las indemnizaciones debidas a terceros de buena fe."
+  },
+  {
+    "id": "cp1-08",
+    "pregunta": "Respecto al decomiso en el artículo 319.3 CP, señale la afirmación CORRECTA:",
+    "opciones": [
+      "Sólo procede si las ganancias se conservan en su forma original",
+      "En todo caso se dispondrá el decomiso de las ganancias provenientes del delito, cualesquiera que sean las transformaciones que hubieren podido experimentar",
+      "El decomiso es potestativo para el tribunal"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 319.3 CP, inciso final, literal."
+  },
+  {
+    "id": "cp1-09",
+    "pregunta": "Cuando en los supuestos del artículo 319 CP fuere responsable una persona jurídica conforme al artículo 31 bis, se le impondrá pena de multa de...",
+    "opciones": [
+      "Uno a tres años, salvo que el beneficio obtenido fuese superior, en cuyo caso será del doble al cuádruple de dicho beneficio",
+      "Doce a veinticuatro meses en todo caso",
+      "Seis meses a dos años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 319.4 CP. Además, atendidas las reglas del art. 66 bis, podrán imponerse las penas de las letras b) a g) del art. 33.7."
+  },
+  {
+    "id": "cp1-10",
+    "pregunta": "El artículo 320.1 CP castiga a la autoridad o funcionario público que, a sabiendas de su injusticia, informe favorablemente instrumentos de planeamiento o licencias contrarias a la normativa urbanística. ¿Con qué penas, además de la establecida en el artículo 404 CP?",
+    "opciones": [
+      "Prisión de un año y seis meses a cuatro años y multa de doce a veinticuatro meses",
+      "Prisión de seis meses a dos años y multa de seis a doce meses",
+      "Únicamente multa de doce a veinticuatro meses"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 320.1 CP, literal. La pena del art. 404 es la de la prevaricación administrativa."
+  },
+  {
+    "id": "cp1-11",
+    "pregunta": "De las siguientes conductas, ¿cuál NO está expresamente tipificada en el artículo 320.1 CP?",
+    "opciones": [
+      "Silenciar, con motivo de inspecciones, la infracción de las normas de ordenación territorial o urbanística",
+      "Omitir la realización de inspecciones de carácter obligatorio",
+      "Retrasar injustificadamente la tramitación de un expediente de licencia"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 320.1 CP enumera informar favorablemente a sabiendas de su injusticia, silenciar la infracción con motivo de inspecciones y omitir inspecciones obligatorias. El retraso en la tramitación no aparece."
+  },
+  {
+    "id": "cp1-12",
+    "pregunta": "Según el artículo 320.2 CP, se castiga con las mismas penas a la autoridad o funcionario público que, a sabiendas de su injusticia...",
+    "opciones": [
+      "Por sí mismo o como miembro de un organismo colegiado haya resuelto o votado a favor de la aprobación de esos instrumentos o de la concesión de las licencias",
+      "Se haya abstenido en la votación del organismo colegiado",
+      "Haya asesorado verbalmente al promotor"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 320.2 CP, literal."
+  },
+  {
+    "id": "cp1-13",
+    "pregunta": "¿Cuál es la conducta típica del artículo 321 CP?",
+    "opciones": [
+      "Derribar o alterar gravemente edificios singularmente protegidos por su interés histórico, artístico, cultural o monumental",
+      "Causar cualquier daño en un bien de valor cultural",
+      "Expoliar yacimientos arqueológicos"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 321 CP, literal. Los daños en bienes de valor histórico y el expolio de yacimientos se tipifican en el art. 323 CP."
+  },
+  {
+    "id": "cp1-14",
+    "pregunta": "En el artículo 321 CP, la inhabilitación especial para profesión u oficio se impone...",
+    "opciones": [
+      "En todo caso, por tiempo de uno a cinco años",
+      "Sólo si concurre ánimo de lucro, por tiempo de uno a tres años",
+      "De forma potestativa para el tribunal"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 321 CP: \"y, en todo caso, inhabilitación especial para profesión u oficio por tiempo de uno a cinco años\"."
+  },
+  {
+    "id": "cp1-15",
+    "pregunta": "El párrafo segundo del artículo 321 CP permite a los Jueces o Tribunales ordenar, motivadamente y a cargo del autor del hecho...",
+    "opciones": [
+      "La reconstrucción o restauración de la obra, sin perjuicio de las indemnizaciones debidas a terceros de buena fe",
+      "La demolición completa del inmueble",
+      "El ingreso del valor del edificio en el Tesoro Público"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 321, párrafo segundo, CP, literal. La demolición es la medida del art. 319.3, referida a obras ilegales."
+  },
+  {
+    "id": "cp1-16",
+    "pregunta": "El artículo 322.1 CP castiga a la autoridad o funcionario público que, a sabiendas de su injusticia, informe favorablemente proyectos de derribo o alteración de edificios singularmente protegidos. Además de la pena del artículo 404 CP, se le impone:",
+    "opciones": [
+      "Prisión de 6 meses a 2 años o multa de 12 a 24 meses",
+      "Prisión de 1 año y 6 meses a 4 años y multa de 12 a 24 meses",
+      "Únicamente inhabilitación especial de uno a cinco años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 322.1 CP. Nótese que aquí prisión y multa son alternativas (\"o\"), a diferencia del art. 320.1, donde son acumulativas (\"y\")."
+  },
+  {
+    "id": "cp1-17",
+    "pregunta": "Según el artículo 323.1 CP, causar daños en bienes de valor histórico, artístico, científico, cultural o monumental, o en yacimientos arqueológicos terrestres o subacuáticos, se castiga con:",
+    "opciones": [
+      "Prisión de seis meses a tres años o multa de doce a veinticuatro meses",
+      "Prisión de uno a tres años y multa de doce a veinticuatro meses",
+      "Multa de tres a dieciocho meses"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 323.1 CP. La multa de 3 a 18 meses corresponde al art. 324 CP (imprudencia grave)."
+  },
+  {
+    "id": "cp1-18",
+    "pregunta": "Según el artículo 323.1 CP, los actos de EXPOLIO se castigan con la misma pena cuando recaen sobre...",
+    "opciones": [
+      "Los yacimientos arqueológicos, terrestres o subacuáticos",
+      "Cualquier bien de valor cultural",
+      "Los archivos, registros y museos"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 323.1 CP, inciso final: \"Con la misma pena se castigarán los actos de expolio en estos últimos\", es decir, en los yacimientos arqueológicos."
+  },
+  {
+    "id": "cp1-19",
+    "pregunta": "Sobre el artículo 323 CP, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Si los daños son de especial gravedad o afectan a bienes de valor especialmente relevante, podrá imponerse la pena superior en grado",
+      "Los jueces o tribunales podrán ordenar, a cargo del autor del daño, medidas encaminadas a restaurar en lo posible el bien dañado",
+      "La agravación por daños de especial gravedad es de aplicación obligatoria para el tribunal"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 323.2 CP emplea la fórmula potestativa \"podrá imponerse la pena superior en grado\"."
+  },
+  {
+    "id": "cp1-20",
+    "pregunta": "El artículo 324 CP castiga los daños causados por IMPRUDENCIA GRAVE, en cuantía superior a 400 euros, en archivos, museos, bibliotecas o bienes de valor cultural. ¿Cuál es la pena prevista?",
+    "opciones": [
+      "Multa de tres a 18 meses, atendiendo a la importancia de los daños",
+      "Prisión de seis meses a tres años",
+      "Prisión de uno a tres años o multa de doce a veinticuatro meses"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 324 CP, literal. Es la única pena prevista: no hay prisión en este tipo imprudente."
+  }
+]

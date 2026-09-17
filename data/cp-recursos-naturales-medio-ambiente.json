@@ -1,0 +1,222 @@
+[
+  {
+    "id": "cp2-01",
+    "pregunta": "El tipo básico del delito ambiental (art. 325.1 CP) exige que la conducta se realice...",
+    "opciones": [
+      "Contraviniendo las leyes u otras disposiciones de carácter general protectoras del medio ambiente",
+      "Con ánimo de lucro",
+      "Careciendo de licencia municipal de actividad"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 325.1 CP: es una ley penal en blanco que remite a la normativa administrativa protectora del medio ambiente."
+  },
+  {
+    "id": "cp2-02",
+    "pregunta": "De las siguientes, ¿cuál NO figura entre las conductas enumeradas en el artículo 325.1 CP?",
+    "opciones": [
+      "Ruidos y vibraciones",
+      "Aterramientos e inyecciones",
+      "Talas de arbolado en monte público"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 325.1 CP enumera emisiones, vertidos, radiaciones, extracciones o excavaciones, aterramientos, ruidos, vibraciones, inyecciones o depósitos, así como captaciones de aguas. Las talas no aparecen en este precepto."
+  },
+  {
+    "id": "cp2-03",
+    "pregunta": "Según el artículo 325.1 CP, ¿sobre qué medios pueden recaer las conductas contaminantes?",
+    "opciones": [
+      "La atmósfera, el suelo, el subsuelo o las aguas terrestres, subterráneas o marítimas, incluido el alta mar, con incidencia incluso en los espacios transfronterizos",
+      "Únicamente el suelo y las aguas continentales españolas",
+      "Exclusivamente los espacios naturales protegidos"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 325.1 CP, literal."
+  },
+  {
+    "id": "cp2-04",
+    "pregunta": "En el tipo básico del artículo 325.1 CP, ¿cuál es la pena de MULTA prevista (al margen de la prisión y la inhabilitación)?",
+    "opciones": [
+      "Multa de 10 a 14 meses",
+      "Multa de 8 a 24 meses",
+      "Multa de 12 a 24 meses"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 325.1 CP: prisión de 6 meses a 2 años, multa de 10 a 14 meses e inhabilitación especial de uno a dos años. La multa de 8 a 24 meses corresponde al tipo agravado del art. 325.2."
+  },
+  {
+    "id": "cp2-05",
+    "pregunta": "Cuando las conductas puedan perjudicar gravemente el equilibrio de los sistemas naturales (art. 325.2 CP), la INHABILITACIÓN especial para profesión u oficio es por tiempo de:",
+    "opciones": [
+      "Uno a tres años",
+      "Uno a dos años",
+      "Dos a cinco años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 325.2 CP: inhabilitación de uno a tres años. La de uno a dos años es la del tipo básico (325.1); \"dos a cinco años\" es la pena de prisión de este mismo apartado, no la inhabilitación."
+  },
+  {
+    "id": "cp2-06",
+    "pregunta": "Según el artículo 325.2, párrafo segundo, CP, si se hubiera creado un riesgo de grave perjuicio para la salud de las personas:",
+    "opciones": [
+      "Se impondrá la pena de prisión en su mitad superior, pudiéndose llegar hasta la superior en grado",
+      "Se impondrá siempre la pena superior en grado",
+      "Se aplicará únicamente una agravación de la multa"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 325.2, párrafo segundo, CP, literal."
+  },
+  {
+    "id": "cp2-07",
+    "pregunta": "El artículo 326.1 CP castiga las conductas relativas a residuos. ¿Cuáles menciona expresamente?",
+    "opciones": [
+      "Recoger, transportar, valorizar, transformar, eliminar o aprovechar residuos, o no controlar o vigilar adecuadamente tales actividades",
+      "Únicamente el vertido incontrolado de residuos peligrosos",
+      "Exclusivamente el almacenamiento de residuos sin autorización"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 326.1 CP, literal."
+  },
+  {
+    "id": "cp2-08",
+    "pregunta": "¿Qué penas prevé el artículo 326.1 CP para los delitos relativos a residuos?",
+    "opciones": [
+      "Las previstas en el artículo anterior (art. 325), en sus respectivos supuestos",
+      "Una pena autónoma de prisión de uno a cinco años",
+      "Únicamente multa e inhabilitación"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 326.1 CP se remite en bloque a las penas del art. 325 CP según el supuesto concreto."
+  },
+  {
+    "id": "cp2-09",
+    "pregunta": "Según el artículo 326.2 CP, trasladar una cantidad no desdeñable de residuos en alguno de los supuestos del Derecho de la Unión Europea sobre traslados de residuos se castiga con:",
+    "opciones": [
+      "Prisión de tres meses a un año, o multa de seis a dieciocho meses e inhabilitación especial para profesión u oficio de tres meses a un año",
+      "Prisión de seis meses a dos años y multa de diez a catorce meses",
+      "Prisión de dos a cinco años"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 326.2 CP, literal. Se aplica fuera del supuesto del apartado 1, y comprende tanto un traslado como varios vinculados entre sí."
+  },
+  {
+    "id": "cp2-10",
+    "pregunta": "¿Qué conducta tipifica el artículo 326 bis CP?",
+    "opciones": [
+      "Llevar a cabo, contraviniendo las leyes u otras disposiciones generales, la explotación de instalaciones en las que se realice una actividad peligrosa o en las que se almacenen o utilicen sustancias o preparados peligrosos",
+      "El traslado transfronterizo de residuos",
+      "La extracción ilegal de aguas subterráneas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 326 bis CP, castigado con las penas del art. 325 en sus respectivos supuestos."
+  },
+  {
+    "id": "cp2-11",
+    "pregunta": "Cuando concurre alguna de las circunstancias del artículo 327 CP, los hechos se castigan con:",
+    "opciones": [
+      "La pena superior en grado, sin perjuicio de las que puedan corresponder con arreglo a otros preceptos del Código",
+      "La pena en su mitad superior",
+      "Una multa adicional del tanto al triplo del beneficio"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 327 CP, encabezamiento, literal."
+  },
+  {
+    "id": "cp2-12",
+    "pregunta": "Entre las circunstancias del artículo 327 CP figura que la industria o actividad...",
+    "opciones": [
+      "Funcione clandestinamente, sin haber obtenido la preceptiva autorización o aprobación administrativa de sus instalaciones",
+      "Carezca de seguro de responsabilidad civil",
+      "Se ubique a menos de 500 metros de un núcleo urbano"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 327, letra a), CP."
+  },
+  {
+    "id": "cp2-13",
+    "pregunta": "De las siguientes, ¿cuál NO es una de las circunstancias agravantes enumeradas en el artículo 327 CP?",
+    "opciones": [
+      "Que se haya obstaculizado la actividad inspectora de la Administración",
+      "Que se haya falseado u ocultado información sobre los aspectos ambientales",
+      "Que los hechos se cometan en el interior de un espacio natural protegido"
+    ],
+    "correcta": 2,
+    "explicacion": "El daño grave en espacio natural protegido constituye el tipo autónomo del art. 330 CP, no una circunstancia del art. 327, que enumera: clandestinidad, desobediencia de órdenes de corrección o suspensión, falseamiento u ocultación de información ambiental, obstaculización de la inspección, riesgo de deterioro irreversible o catastrófico y extracción ilegal de aguas en período de restricciones."
+  },
+  {
+    "id": "cp2-14",
+    "pregunta": "Según el artículo 327 CP, es circunstancia de agravación que se produzca una extracción ilegal de aguas...",
+    "opciones": [
+      "En período de restricciones",
+      "En cauces de dominio público hidráulico",
+      "Destinada a regadío intensivo"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 327, letra f), CP, literal."
+  },
+  {
+    "id": "cp2-15",
+    "pregunta": "El artículo 327, letra e), CP agrava la pena cuando se haya producido...",
+    "opciones": [
+      "Un riesgo de deterioro irreversible o catastrófico",
+      "Un daño económico superior a 50.000 euros",
+      "La muerte de especies catalogadas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 327, letra e), CP, literal."
+  },
+  {
+    "id": "cp2-16",
+    "pregunta": "Según el artículo 328 CP, si una persona jurídica es responsable de un delito de este Capítulo y el delito cometido por la persona física tiene prevista pena de MÁS de dos años de privación de libertad, se le impondrá:",
+    "opciones": [
+      "Multa de uno a tres años, o del doble al cuádruple del perjuicio causado cuando la cantidad resultante fuese más elevada",
+      "Multa de seis meses a dos años, o del doble al triple del perjuicio causado",
+      "Multa de doce a veinticuatro meses en todo caso"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 328, letra a), CP. La letra b) reserva la multa de seis meses a dos años para el resto de los casos."
+  },
+  {
+    "id": "cp2-17",
+    "pregunta": "En el resto de los casos no comprendidos en la letra a) del artículo 328 CP, la pena de multa para la persona jurídica es de:",
+    "opciones": [
+      "Seis meses a dos años, o del doble al triple del perjuicio causado si la cantidad resultante fuese más elevada",
+      "Uno a tres años, o del doble al cuádruple del perjuicio causado",
+      "Tres a dieciocho meses"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 328, letra b), CP."
+  },
+  {
+    "id": "cp2-18",
+    "pregunta": "El artículo 329.1 CP castiga a la autoridad o funcionario público que, a sabiendas, informe favorablemente la concesión de licencias manifiestamente ilegales para industrias o actividades contaminantes. Además de la pena del artículo 404 CP, se le impone:",
+    "opciones": [
+      "Prisión de seis meses a tres años y multa de ocho a veinticuatro meses",
+      "Prisión de un año y seis meses a cuatro años y multa de doce a veinticuatro meses",
+      "Prisión de seis meses a dos años o multa de doce a veinticuatro meses"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 329.1 CP. No confundir con el art. 320.1 (urbanismo) ni con el art. 322.1 (patrimonio histórico), que llevan penas distintas."
+  },
+  {
+    "id": "cp2-19",
+    "pregunta": "Sobre el artículo 329 CP, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Castiga también silenciar, con motivo de sus inspecciones, la infracción de leyes o disposiciones de carácter general",
+      "Castiga igualmente haber omitido la realización de inspecciones de carácter obligatorio",
+      "Exige en todo caso que el funcionario haya obtenido un beneficio económico"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 329 CP no exige beneficio económico alguno: basta actuar \"a sabiendas\". El apartado 2 castiga con las mismas penas a quien haya resuelto o votado a favor de la concesión a sabiendas de su injusticia."
+  },
+  {
+    "id": "cp2-20",
+    "pregunta": "¿Cuál es la conducta típica del artículo 330 CP?",
+    "opciones": [
+      "Dañar gravemente, en un espacio natural protegido, alguno de los elementos que hayan servido para calificarlo",
+      "Acceder sin autorización a un espacio natural protegido",
+      "Realizar cualquier actividad económica en un espacio natural protegido"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 330 CP, literal. Se castiga con prisión de uno a cuatro años y multa de doce a veinticuatro meses."
+  }
+]
