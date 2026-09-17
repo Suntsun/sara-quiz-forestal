@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ce6-01",
+    "pregunta": "Según el artículo 53.1 CE, los derechos y libertades reconocidos en el Capítulo segundo del Título I...",
+    "opciones": [
+      "Vinculan a todos los poderes públicos",
+      "Vinculan únicamente al poder legislativo",
+      "Vinculan solo en la medida en que los desarrollen las leyes"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 53.1 CE, literal."
+  },
+  {
+    "id": "ce6-02",
+    "pregunta": "Conforme al artículo 53.1 CE, el ejercicio de esos derechos y libertades sólo podrá regularse...",
+    "opciones": [
+      "Por ley, que en todo caso deberá respetar su contenido esencial",
+      "Por reglamento, previo dictamen del Consejo de Estado",
+      "Por ley orgánica aprobada por dos tercios del Congreso"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 53.1 CE: \"Sólo por ley, que en todo caso deberá respetar su contenido esencial\"."
+  },
+  {
+    "id": "ce6-03",
+    "pregunta": "Sobre el artículo 53.1 CE, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Exige respetar el contenido esencial de los derechos al regular su ejercicio",
+      "Remite su tutela a lo previsto en el artículo 161.1.a) CE",
+      "Permite que un reglamento limite el ejercicio de esos derechos si concurre urgencia"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 53.1 CE reserva a la ley la regulación del ejercicio de esos derechos; no cabe hacerlo por reglamento."
+  },
+  {
+    "id": "ce6-04",
+    "pregunta": "Según el artículo 53.2 CE, ¿qué derechos pueden tutelarse ante los Tribunales ordinarios por el procedimiento preferente y sumario y, en su caso, mediante recurso de amparo?",
+    "opciones": [
+      "Los reconocidos en el artículo 14 y en la Sección primera del Capítulo segundo",
+      "Todos los del Título I, sin excepción",
+      "Únicamente los del Capítulo tercero"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 53.2 CE, literal."
+  },
+  {
+    "id": "ce6-05",
+    "pregunta": "El procedimiento ante los Tribunales ordinarios previsto en el artículo 53.2 CE se basa en los principios de...",
+    "opciones": [
+      "Preferencia y sumariedad",
+      "Oralidad e inmediación",
+      "Contradicción y doble instancia"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 53.2 CE, literal."
+  },
+  {
+    "id": "ce6-06",
+    "pregunta": "Según el artículo 53.2 CE, el recurso de amparo ante el Tribunal Constitucional será aplicable además a...",
+    "opciones": [
+      "La objeción de conciencia reconocida en el artículo 30",
+      "El derecho a la propiedad privada del artículo 33",
+      "El derecho a la protección de la salud del artículo 43"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 53.2 CE, párrafo final: \"Este último recurso será aplicable a la objeción de conciencia reconocida en el artículo 30\"."
+  },
+  {
+    "id": "ce6-07",
+    "pregunta": "De los siguientes derechos, ¿cuál NO está amparado por la vía preferente y sumaria ni por el recurso de amparo del artículo 53.2 CE?",
+    "opciones": [
+      "La igualdad ante la ley del artículo 14",
+      "La libertad de expresión del artículo 20",
+      "El derecho a disfrutar de un medio ambiente adecuado del artículo 45"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 45 pertenece al Capítulo III (principios rectores), fuera del ámbito del art. 53.2, que abarca el art. 14 y la Sección 1 del Capítulo II."
+  },
+  {
+    "id": "ce6-08",
+    "pregunta": "Según el artículo 53.3 CE, el reconocimiento, respeto y protección de los principios del Capítulo tercero informarán...",
+    "opciones": [
+      "La legislación positiva, la práctica judicial y la actuación de los poderes públicos",
+      "Exclusivamente la actividad del Gobierno",
+      "Únicamente la legislación de las Comunidades Autónomas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 53.3 CE, literal."
+  },
+  {
+    "id": "ce6-09",
+    "pregunta": "Conforme al artículo 53.3 CE, los principios rectores del Capítulo tercero sólo podrán ser alegados ante la Jurisdicción ordinaria...",
+    "opciones": [
+      "De acuerdo con lo que dispongan las leyes que los desarrollen",
+      "Directamente y sin necesidad de desarrollo legal",
+      "Mediante recurso de amparo constitucional"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 53.3 CE, literal."
+  },
+  {
+    "id": "ce6-10",
+    "pregunta": "Sobre el artículo 53 CE en su conjunto, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "El apartado 1 se refiere a los derechos del Capítulo segundo",
+      "El apartado 2 incluye el artículo 14 en la tutela reforzada",
+      "El apartado 3 permite el recurso de amparo respecto de los principios rectores"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 53.3 CE remite exclusivamente a la Jurisdicción ordinaria, de acuerdo con las leyes de desarrollo; no habilita el amparo."
+  },
+  {
+    "id": "ce6-11",
+    "pregunta": "Según el artículo 54 CE, ¿qué norma regulará la institución del Defensor del Pueblo?",
+    "opciones": [
+      "Una ley orgánica",
+      "Una ley ordinaria",
+      "El Reglamento del Congreso de los Diputados"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 54 CE: \"Una ley orgánica regulará la institución del Defensor del Pueblo\"."
+  },
+  {
+    "id": "ce6-12",
+    "pregunta": "El artículo 54 CE configura al Defensor del Pueblo como...",
+    "opciones": [
+      "Alto comisionado de las Cortes Generales",
+      "Órgano consultivo del Gobierno",
+      "Órgano auxiliar del Tribunal Constitucional"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 54 CE, literal."
+  },
+  {
+    "id": "ce6-13",
+    "pregunta": "Según el artículo 54 CE, ¿quién designa al Defensor del Pueblo?",
+    "opciones": [
+      "Las Cortes Generales",
+      "El Rey, a propuesta del Gobierno",
+      "El Consejo General del Poder Judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 54 CE: \"designado por éstas\", esto es, por las Cortes Generales."
+  },
+  {
+    "id": "ce6-14",
+    "pregunta": "Conforme al artículo 54 CE, para la defensa de los derechos comprendidos en el Título I el Defensor del Pueblo podrá...",
+    "opciones": [
+      "Supervisar la actividad de la Administración, dando cuenta a las Cortes Generales",
+      "Anular los actos administrativos que vulneren derechos",
+      "Imponer sanciones a las autoridades infractoras"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 54 CE, literal: supervisa y da cuenta; no anula ni sanciona."
+  },
+  {
+    "id": "ce6-15",
+    "pregunta": "Sobre el Defensor del Pueblo (art. 54 CE), señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Defiende los derechos comprendidos en el Título I",
+      "Da cuenta de su actividad a las Cortes Generales",
+      "Depende orgánicamente del Ministerio de Justicia"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 54 CE: es alto comisionado de las Cortes Generales, designado por ellas y ante ellas rinde cuentas."
+  },
+  {
+    "id": "ce6-16",
+    "pregunta": "Según el artículo 55.1 CE, la suspensión general de los derechos que enumera procede cuando se acuerde la declaración del estado de...",
+    "opciones": [
+      "Alarma, excepción o sitio",
+      "Excepción o de sitio",
+      "Sitio, únicamente"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 55.1 CE menciona exclusivamente el estado de excepción y el de sitio; el estado de alarma no habilita esta suspensión."
+  },
+  {
+    "id": "ce6-17",
+    "pregunta": "De los siguientes derechos, ¿cuál NO figura entre los suspendibles del artículo 55.1 CE?",
+    "opciones": [
+      "El derecho de reunión del artículo 21",
+      "El derecho a la huelga del artículo 28.2",
+      "La libertad ideológica y religiosa del artículo 16"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 55.1 CE enumera los arts. 17; 18.2 y 3; 19; 20.1.a) y d) y 20.5; 21; 28.2; y 37.2. El art. 16 no aparece."
+  },
+  {
+    "id": "ce6-18",
+    "pregunta": "El artículo 55.1 CE establece una excepción expresa: el apartado 3 del artículo 17 (información al detenido y asistencia de abogado) no podrá suspenderse en el supuesto de declaración del estado de...",
+    "opciones": [
+      "Excepción",
+      "Sitio",
+      "Alarma"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 55.1, inciso final: \"Se exceptúa de lo establecido anteriormente el apartado 3 del artículo 17 para el supuesto de declaración de estado de excepción\"."
+  },
+  {
+    "id": "ce6-19",
+    "pregunta": "Según el artículo 55.2 CE, la suspensión individual de derechos para personas determinadas en relación con investigaciones sobre bandas armadas o elementos terroristas exige:",
+    "opciones": [
+      "Una ley orgánica, con la necesaria intervención judicial y el adecuado control parlamentario",
+      "Un acuerdo del Consejo de Ministros ratificado por el Congreso",
+      "Una resolución del Ministerio del Interior motivada"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 55.2 CE, literal. Los derechos afectados son los arts. 17.2 y 18, apartados 2 y 3."
+  },
+  {
+    "id": "ce6-20",
+    "pregunta": "Conforme al artículo 55.2 CE, la utilización injustificada o abusiva de las facultades reconocidas en dicha ley orgánica producirá:",
+    "opciones": [
+      "Responsabilidad penal, como violación de los derechos y libertades reconocidos por las leyes",
+      "Únicamente responsabilidad disciplinaria",
+      "La nulidad del procedimiento, sin más consecuencias"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 55.2, párrafo final, CE, literal."
+  }
+]

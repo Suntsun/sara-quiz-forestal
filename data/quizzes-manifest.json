@@ -6,9 +6,45 @@
     "archivo": "data/cp-delitos-ambientales-incendios.json"
   },
   {
-    "id": "ejemplo-constitucion-titulo-preliminar",
-    "titulo": "[EJEMPLO] Constitución - Título Preliminar",
+    "id": "ce-titulo-preliminar",
+    "titulo": "Constitución — Título Preliminar (arts. 1-9)",
     "categoria": "constitucion",
-    "archivo": "data/ejemplo-constitucion-titulo-preliminar.json"
+    "archivo": "data/ce-titulo-preliminar.json"
+  },
+  {
+    "id": "ce-t1-cap1-espanoles-extranjeros",
+    "titulo": "Constitución — Título I: pórtico, españoles y extranjeros e igualdad (arts. 10-14)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t1-cap1-espanoles-extranjeros.json"
+  },
+  {
+    "id": "ce-t1-derechos-fundamentales-1",
+    "titulo": "Constitución — Derechos fundamentales y libertades públicas I (arts. 15-22)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t1-derechos-fundamentales-1.json"
+  },
+  {
+    "id": "ce-t1-derechos-fundamentales-2",
+    "titulo": "Constitución — Derechos fundamentales y libertades públicas II (arts. 23-29)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t1-derechos-fundamentales-2.json"
+  },
+  {
+    "id": "ce-t1-derechos-deberes-ciudadanos",
+    "titulo": "Constitución — Derechos y deberes de los ciudadanos (arts. 30-38)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t1-derechos-deberes-ciudadanos.json"
+  },
+  {
+    "id": "ce-t1-principios-rectores",
+    "titulo": "Constitución — Principios rectores de la política social y económica (arts. 39-52, incluye art. 45 medio ambiente)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t1-principios-rectores.json"
+  },
+  {
+    "id": "ce-t1-garantias-suspension",
+    "titulo": "Constitución — Garantías de los derechos y suspensión (arts. 53-55)",
+    "categoria": "constitucion",
+    "archivo": "data/ce-t1-garantias-suspension.json"
   }
 ]

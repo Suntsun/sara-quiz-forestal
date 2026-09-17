@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ce2-01",
+    "pregunta": "Según el artículo 15 CE, ¿qué derechos se reconocen a todos?",
+    "opciones": [
+      "El derecho a la vida y a la integridad física y moral",
+      "El derecho a la vida, la salud y la integridad patrimonial",
+      "El derecho a la vida y a la libertad de circulación"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 15 CE: \"Todos tienen derecho a la vida y a la integridad física y moral, sin que, en ningún caso, puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes\"."
+  },
+  {
+    "id": "ce2-02",
+    "pregunta": "El artículo 15 CE declara abolida la pena de muerte, ¿con qué salvedad?",
+    "opciones": [
+      "Sin salvedad alguna",
+      "Salvo en los delitos de terrorismo",
+      "Salvo lo que puedan disponer las leyes penales militares para tiempos de guerra"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 15 CE, literal: la única salvedad son las leyes penales militares para tiempos de guerra."
+  },
+  {
+    "id": "ce2-03",
+    "pregunta": "Según el artículo 16.1 CE, ¿cuál es el único límite a las manifestaciones de la libertad ideológica, religiosa y de culto?",
+    "opciones": [
+      "El necesario para el mantenimiento del orden público protegido por la ley",
+      "El respeto a las creencias mayoritarias de la sociedad española",
+      "La autorización previa de la autoridad gubernativa"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 16.1 CE: \"sin más limitación, en sus manifestaciones, que la necesaria para el mantenimiento del orden público protegido por la ley\"."
+  },
+  {
+    "id": "ce2-04",
+    "pregunta": "¿Qué establece el artículo 16.2 CE?",
+    "opciones": [
+      "Que toda persona debe declarar su religión en el Registro Civil",
+      "Que nadie podrá ser obligado a declarar sobre su ideología, religión o creencias",
+      "Que la ideología solo puede declararse ante autoridad judicial"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 16.2 CE, literal."
+  },
+  {
+    "id": "ce2-05",
+    "pregunta": "Sobre las confesiones religiosas, el artículo 16.3 CE dispone que:",
+    "opciones": [
+      "La Iglesia Católica tiene carácter estatal",
+      "Ninguna confesión tendrá carácter estatal, y los poderes públicos mantendrán relaciones de cooperación con la Iglesia Católica y las demás confesiones",
+      "El Estado es aconfesional y no puede mantener relación alguna con ninguna confesión"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 16.3 CE: ninguna confesión tendrá carácter estatal, pero sí se mantienen \"las consiguientes relaciones de cooperación con la Iglesia Católica y las demás confesiones\"."
+  },
+  {
+    "id": "ce2-06",
+    "pregunta": "Según el artículo 17.2 CE, ¿cuál es el plazo máximo de la detención preventiva?",
+    "opciones": [
+      "Cuarenta y ocho horas",
+      "Setenta y dos horas",
+      "Cinco días"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 17.2 CE: la detención no durará más del tiempo estrictamente necesario y, en todo caso, en el plazo máximo de setenta y dos horas el detenido será puesto en libertad o a disposición de la autoridad judicial."
+  },
+  {
+    "id": "ce2-07",
+    "pregunta": "Sobre los derechos del detenido (art. 17.3 CE), señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Debe ser informado de forma inmediata y de modo comprensible de sus derechos y de las razones de su detención",
+      "Está obligado a declarar ante la policía sobre los hechos que se le imputan",
+      "Se le garantiza la asistencia de abogado en las diligencias policiales y judiciales"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 17.3 CE: el detenido \"no podrá ser obligado a declarar\"."
+  },
+  {
+    "id": "ce2-08",
+    "pregunta": "Según el artículo 17.4 CE, el procedimiento de \"habeas corpus\" y el plazo máximo de duración de la prisión provisional se determinarán:",
+    "opciones": [
+      "Por ley",
+      "Por resolución judicial en cada caso",
+      "Por reglamento del Ministerio del Interior"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 17.4 CE: \"La ley regulará un procedimiento de habeas corpus... Asimismo, por ley se determinará el plazo máximo de duración de la prisión provisional\"."
+  },
+  {
+    "id": "ce2-09",
+    "pregunta": "¿Qué derechos garantiza expresamente el artículo 18.1 CE?",
+    "opciones": [
+      "El derecho al honor, a la intimidad personal y familiar y a la propia imagen",
+      "El derecho al honor, al domicilio y al secreto de las comunicaciones",
+      "El derecho a la intimidad y a la protección de datos personales"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 18.1 CE, literal. El domicilio y el secreto de las comunicaciones se regulan en los apartados 2 y 3."
+  },
+  {
+    "id": "ce2-10",
+    "pregunta": "Según el artículo 18.2 CE, ¿en qué supuestos puede practicarse una entrada o registro en un domicilio?",
+    "opciones": [
+      "Únicamente con resolución judicial",
+      "Con consentimiento del titular o resolución judicial, salvo en caso de flagrante delito",
+      "Con autorización del delegado del Gobierno en casos de urgencia"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 18.2 CE: \"Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito\"."
+  },
+  {
+    "id": "ce2-11",
+    "pregunta": "El artículo 18.3 CE garantiza el secreto de las comunicaciones y, en especial, de las...",
+    "opciones": [
+      "Postales, telegráficas y telefónicas, salvo resolución judicial",
+      "Telefónicas y electrónicas, sin excepción alguna",
+      "Postales y electrónicas, salvo autorización administrativa"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 18.3 CE, literal. La única excepción prevista es la resolución judicial."
+  },
+  {
+    "id": "ce2-12",
+    "pregunta": "¿Qué dispone el artículo 18.4 CE?",
+    "opciones": [
+      "Que se prohíbe el tratamiento informatizado de datos personales",
+      "Que la ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos",
+      "Que los ficheros informáticos requieren autorización judicial previa"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 18.4 CE, literal."
+  },
+  {
+    "id": "ce2-13",
+    "pregunta": "El derecho a elegir libremente residencia y a circular por el territorio nacional (art. 19 CE) se reconoce a...",
+    "opciones": [
+      "Los españoles",
+      "Todas las personas que se hallen en territorio español",
+      "Los españoles y los ciudadanos de la Unión Europea"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 19 CE comienza: \"Los españoles tienen derecho a elegir libremente su residencia y a circular por el territorio nacional\"."
+  },
+  {
+    "id": "ce2-14",
+    "pregunta": "Según el artículo 19 CE, el derecho a entrar y salir libremente de España...",
+    "opciones": [
+      "No podrá ser limitado por motivos políticos o ideológicos",
+      "Puede limitarse por motivos de orden público mediante acuerdo del Gobierno",
+      "Solo se reconoce a quienes carezcan de antecedentes penales"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 19 CE, párrafo final: \"Este derecho no podrá ser limitado por motivos políticos o ideológicos\"."
+  },
+  {
+    "id": "ce2-15",
+    "pregunta": "De los siguientes, ¿cuál NO es uno de los derechos reconocidos y protegidos en el artículo 20.1 CE?",
+    "opciones": [
+      "La libertad de cátedra",
+      "El derecho a comunicar o recibir libremente información veraz",
+      "El derecho de petición individual y colectiva"
+    ],
+    "correcta": 2,
+    "explicacion": "El derecho de petición se reconoce en el art. 29 CE. El art. 20.1 enumera: expresión y difusión de pensamientos, ideas y opiniones; producción y creación literaria, artística, científica y técnica; libertad de cátedra; y comunicar o recibir información veraz."
+  },
+  {
+    "id": "ce2-16",
+    "pregunta": "Según el artículo 20.2 CE, el ejercicio de las libertades de expresión e información...",
+    "opciones": [
+      "Puede someterse a censura previa en tiempo de guerra",
+      "No puede restringirse mediante ningún tipo de censura previa",
+      "Requiere inscripción previa en un registro de medios"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 20.2 CE, literal."
+  },
+  {
+    "id": "ce2-17",
+    "pregunta": "Conforme al artículo 20.5 CE, el secuestro de publicaciones, grabaciones y otros medios de información sólo podrá acordarse:",
+    "opciones": [
+      "En virtud de resolución judicial",
+      "Por acuerdo del Consejo de Ministros",
+      "Por el delegado del Gobierno en la Comunidad Autónoma"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 20.5 CE, literal."
+  },
+  {
+    "id": "ce2-18",
+    "pregunta": "Según el artículo 21 CE, el derecho de reunión pacífica y sin armas:",
+    "opciones": [
+      "Necesita autorización previa de la autoridad gubernativa",
+      "No necesitará autorización previa; en lugares de tránsito público y manifestaciones se dará comunicación previa a la autoridad",
+      "Solo puede ejercerse en recintos cerrados"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 21.1 y 21.2 CE: no se exige autorización, sino comunicación previa en los casos de reuniones en lugares de tránsito público y manifestaciones."
+  },
+  {
+    "id": "ce2-19",
+    "pregunta": "Según el artículo 21.2 CE, la autoridad sólo podrá prohibir las reuniones en lugares de tránsito público y las manifestaciones cuando:",
+    "opciones": [
+      "Existan razones fundadas de alteración del orden público, con peligro para personas o bienes",
+      "Coincidan con un proceso electoral",
+      "Los organizadores no pertenezcan a una asociación inscrita"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 21.2 CE, literal."
+  },
+  {
+    "id": "ce2-20",
+    "pregunta": "Sobre el derecho de asociación (art. 22 CE), señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Las asociaciones deben inscribirse en un registro a los solos efectos de publicidad",
+      "Sólo podrán ser disueltas o suspendidas en sus actividades en virtud de resolución judicial motivada",
+      "La autoridad gubernativa puede suspender cautelarmente sus actividades por razones de orden público"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 22.4 CE: la disolución o suspensión exige siempre resolución judicial motivada. Además, el art. 22.5 prohíbe las asociaciones secretas y las de carácter paramilitar."
+  }
+]

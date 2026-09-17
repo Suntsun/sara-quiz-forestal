@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ce5-01",
+    "pregunta": "Según el artículo 45.1 CE, en relación con el medio ambiente todos tienen...",
+    "opciones": [
+      "El derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo",
+      "Únicamente el derecho a disfrutar de un medio ambiente adecuado",
+      "Únicamente el deber de conservar el medio ambiente"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 45.1 CE, literal: la Constitución configura el medio ambiente como derecho Y deber."
+  },
+  {
+    "id": "ce5-02",
+    "pregunta": "El artículo 45.2 CE encomienda a los poderes públicos velar por la utilización racional de todos los recursos naturales con el fin de...",
+    "opciones": [
+      "Proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad colectiva",
+      "Garantizar el crecimiento económico sostenido",
+      "Asegurar el abastecimiento energético nacional"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 45.2 CE, literal."
+  },
+  {
+    "id": "ce5-03",
+    "pregunta": "Según el artículo 45.3 CE, para quienes violen lo dispuesto sobre utilización racional de los recursos naturales se establecerán, en los términos que la ley fije...",
+    "opciones": [
+      "Sanciones penales o, en su caso, administrativas, así como la obligación de reparar el daño causado",
+      "Únicamente sanciones administrativas",
+      "Únicamente la obligación de reparar el daño causado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 45.3 CE, literal. Es el fundamento constitucional de los delitos ambientales del Código Penal."
+  },
+  {
+    "id": "ce5-04",
+    "pregunta": "Sobre el artículo 45 CE, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Menciona expresamente la indispensable solidaridad colectiva",
+      "Prevé la obligación de reparar el daño causado",
+      "Reconoce el medio ambiente como derecho fundamental susceptible de recurso de amparo"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 45 se ubica en el Capítulo III (principios rectores), no en la Sección 1 del Capítulo II; conforme al art. 53.2 CE el recurso de amparo se reserva al art. 14 y a la Sección 1 del Capítulo II."
+  },
+  {
+    "id": "ce5-05",
+    "pregunta": "Según el artículo 39.1 CE, los poderes públicos aseguran la protección de la familia en los ámbitos...",
+    "opciones": [
+      "Social, económica y jurídica",
+      "Social y sanitaria",
+      "Económica y fiscal"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 39.1 CE: \"protección social, económica y jurídica de la familia\"."
+  },
+  {
+    "id": "ce5-06",
+    "pregunta": "El artículo 39.2 CE establece que los hijos son iguales ante la ley...",
+    "opciones": [
+      "Con independencia de su filiación",
+      "Siempre que hayan sido reconocidos judicialmente",
+      "Salvo en materia sucesoria"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 39.2 CE: protección integral de los hijos, iguales ante la ley con independencia de su filiación, y de las madres, cualquiera que sea su estado civil."
+  },
+  {
+    "id": "ce5-07",
+    "pregunta": "Según el artículo 40.1 CE, ¿qué política realizarán de manera especial los poderes públicos?",
+    "opciones": [
+      "Una política orientada al pleno empleo",
+      "Una política de contención del gasto público",
+      "Una política de redistribución exclusivamente fiscal"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 40.1 CE, párrafo final: \"De manera especial realizarán una política orientada al pleno empleo\"."
+  },
+  {
+    "id": "ce5-08",
+    "pregunta": "De los siguientes, ¿cuál NO se cita en el artículo 40.2 CE entre los medios para garantizar el descanso necesario?",
+    "opciones": [
+      "La limitación de la jornada laboral",
+      "Las vacaciones periódicas retribuidas",
+      "La reducción obligatoria de la edad de jubilación"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 40.2 CE cita la limitación de la jornada laboral, las vacaciones periódicas retribuidas y la promoción de centros adecuados."
+  },
+  {
+    "id": "ce5-09",
+    "pregunta": "Según el artículo 41 CE, el régimen público de Seguridad Social debe garantizar la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de...",
+    "opciones": [
+      "Desempleo",
+      "Enfermedad grave",
+      "Jubilación anticipada"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 41 CE: \"especialmente en caso de desempleo\". Añade que la asistencia y prestaciones complementarias serán libres."
+  },
+  {
+    "id": "ce5-10",
+    "pregunta": "El artículo 42 CE dispone que el Estado velará especialmente por la salvaguardia de los derechos económicos y sociales de los trabajadores españoles en el extranjero y...",
+    "opciones": [
+      "Orientará su política hacia su retorno",
+      "Les garantizará el voto por correo",
+      "Les reconocerá una pensión no contributiva"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 42 CE, literal."
+  },
+  {
+    "id": "ce5-11",
+    "pregunta": "Según el artículo 43 CE, ¿qué derecho se reconoce en su apartado 1?",
+    "opciones": [
+      "El derecho a la protección de la salud",
+      "El derecho a la asistencia sanitaria gratuita y universal",
+      "El derecho a elegir libremente médico y centro hospitalario"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 43.1 CE: \"Se reconoce el derecho a la protección de la salud\"."
+  },
+  {
+    "id": "ce5-12",
+    "pregunta": "El artículo 44 CE encomienda a los poderes públicos promover...",
+    "opciones": [
+      "El acceso a la cultura, al que todos tienen derecho, y la ciencia y la investigación científica y técnica en beneficio del interés general",
+      "Exclusivamente el acceso a la cultura",
+      "La cultura y el deporte de alto rendimiento"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 44, apartados 1 y 2, CE."
+  },
+  {
+    "id": "ce5-13",
+    "pregunta": "Según el artículo 46 CE, los poderes públicos garantizarán la conservación y promoverán el enriquecimiento del patrimonio histórico, cultural y artístico de los pueblos de España...",
+    "opciones": [
+      "Cualquiera que sea su régimen jurídico y su titularidad",
+      "Únicamente cuando sea de titularidad pública",
+      "Salvo el que pertenezca a la Iglesia Católica"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 46 CE, literal. Añade: \"La ley penal sancionará los atentados contra este patrimonio\"."
+  },
+  {
+    "id": "ce5-14",
+    "pregunta": "El artículo 47 CE, sobre el derecho a disfrutar de una vivienda digna y adecuada, encomienda a los poderes públicos regular la utilización del suelo de acuerdo con el interés general para...",
+    "opciones": [
+      "Impedir la especulación",
+      "Fomentar la construcción de viviendas libres",
+      "Garantizar el equilibrio territorial entre Comunidades Autónomas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 47 CE, literal. Añade que la comunidad participará en las plusvalías que genere la acción urbanística de los entes públicos."
+  },
+  {
+    "id": "ce5-15",
+    "pregunta": "Según el artículo 47 CE, ¿quién participará en las plusvalías que genere la acción urbanística de los entes públicos?",
+    "opciones": [
+      "La comunidad",
+      "Los propietarios del suelo afectado",
+      "Las empresas promotoras adjudicatarias"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 47, párrafo segundo, CE: \"La comunidad participará en las plusvalías que genere la acción urbanística de los entes públicos\"."
+  },
+  {
+    "id": "ce5-16",
+    "pregunta": "El artículo 48 CE se refiere a la promoción de las condiciones para la participación libre y eficaz de...",
+    "opciones": [
+      "La juventud en el desarrollo político, social, económico y cultural",
+      "Las asociaciones vecinales en la vida municipal",
+      "Los sindicatos en la vida económica"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 48 CE, literal."
+  },
+  {
+    "id": "ce5-17",
+    "pregunta": "Según el artículo 50 CE, los poderes públicos garantizarán la suficiencia económica a los ciudadanos durante la tercera edad mediante...",
+    "opciones": [
+      "Pensiones adecuadas y periódicamente actualizadas",
+      "Un subsidio único de carácter asistencial",
+      "Deducciones fiscales a las familias que los atiendan"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 50 CE, literal. Añade la promoción del bienestar mediante un sistema de servicios sociales que atienda salud, vivienda, cultura y ocio."
+  },
+  {
+    "id": "ce5-18",
+    "pregunta": "Sobre la defensa de los consumidores y usuarios (art. 51 CE), señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Los poderes públicos protegerán su seguridad, su salud y sus legítimos intereses económicos mediante procedimientos eficaces",
+      "Los poderes públicos fomentarán sus organizaciones y las oirán en las cuestiones que puedan afectarles",
+      "La Constitución excluye expresamente cualquier regulación legal del comercio interior"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 51.3 CE: \"la ley regulará el comercio interior y el régimen de autorización de productos comerciales\"."
+  },
+  {
+    "id": "ce5-19",
+    "pregunta": "Según el artículo 52 CE, la estructura interna y el funcionamiento de las organizaciones profesionales que contribuyan a la defensa de los intereses económicos que les sean propios deberán ser...",
+    "opciones": [
+      "Democráticos",
+      "Aprobados por la Administración competente",
+      "Fijados por convenio colectivo"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 52 CE, literal. Misma exigencia que los arts. 6, 7 y 36 CE."
+  },
+  {
+    "id": "ce5-20",
+    "pregunta": "El artículo 49 CE encomienda a los poderes públicos una política de previsión, tratamiento, rehabilitación e integración de los disminuidos físicos, sensoriales y psíquicos, a los que...",
+    "opciones": [
+      "Prestarán la atención especializada que requieran y ampararán especialmente para el disfrute de los derechos que este Título otorga a todos los ciudadanos",
+      "Reconocerán una pensión mínima garantizada con independencia de su renta",
+      "Concederán prioridad absoluta en el acceso al empleo público"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 49 CE, literal (redacción del texto fuente empleado)."
+  }
+]

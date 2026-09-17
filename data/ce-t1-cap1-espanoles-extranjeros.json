@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ce1-01",
+    "pregunta": "Según el artículo 10.1 CE, ¿qué elementos son fundamento del orden político y de la paz social?",
+    "opciones": [
+      "La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás",
+      "La libertad, la justicia, la igualdad y el pluralismo político",
+      "La unidad de la Nación, la solidaridad y el derecho a la autonomía"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 10.1 CE. Las otras dos opciones corresponden a los arts. 1.1 (valores superiores) y 2 CE."
+  },
+  {
+    "id": "ce1-02",
+    "pregunta": "De los siguientes, ¿cuál NO figura en el artículo 10.1 CE como fundamento del orden político y de la paz social?",
+    "opciones": [
+      "El libre desarrollo de la personalidad",
+      "El pluralismo político",
+      "El respeto a la ley y a los derechos de los demás"
+    ],
+    "correcta": 1,
+    "explicacion": "El pluralismo político es un valor superior del ordenamiento (art. 1.1 CE), no uno de los fundamentos enumerados en el art. 10.1."
+  },
+  {
+    "id": "ce1-03",
+    "pregunta": "El artículo 10.2 CE dispone que las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con...",
+    "opciones": [
+      "La jurisprudencia del Tribunal Constitucional",
+      "La Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España",
+      "Los Estatutos de Autonomía y la legislación básica del Estado"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 10.2 CE, literal."
+  },
+  {
+    "id": "ce1-04",
+    "pregunta": "Respecto al artículo 10.2 CE, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Menciona expresamente la Declaración Universal de Derechos Humanos",
+      "Exige que los tratados y acuerdos internacionales invocados hayan sido ratificados por España",
+      "Obliga a interpretar conforme a cualquier tratado internacional, esté o no ratificado por España"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 10.2 CE exige que los tratados y acuerdos sobre esas materias estén \"ratificados por España\"."
+  },
+  {
+    "id": "ce1-05",
+    "pregunta": "Según el artículo 11.1 CE, la nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por...",
+    "opciones": [
+      "La ley",
+      "Un tratado internacional",
+      "Una ley orgánica aprobada por mayoría absoluta"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 11.1 CE: \"de acuerdo con lo establecido por la ley\". El precepto no exige ley orgánica."
+  },
+  {
+    "id": "ce1-06",
+    "pregunta": "¿Qué establece el artículo 11.2 CE?",
+    "opciones": [
+      "Ningún español podrá ser privado de su nacionalidad en ningún caso",
+      "Ningún español de origen podrá ser privado de su nacionalidad",
+      "La nacionalidad solo se pierde por sentencia judicial firme"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 11.2 CE: la garantía se refiere expresamente al español DE ORIGEN."
+  },
+  {
+    "id": "ce1-07",
+    "pregunta": "Sobre la nacionalidad en el artículo 11 CE, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Se adquiere, conserva y pierde de acuerdo con lo establecido por la ley",
+      "Ningún español de origen podrá ser privado de su nacionalidad",
+      "El Estado solo puede concertar tratados de doble nacionalidad con países de la Unión Europea"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 11.3 CE: los tratados de doble nacionalidad se conciertan con los países iberoamericanos o con aquellos que hayan tenido o tengan una particular vinculación con España."
+  },
+  {
+    "id": "ce1-08",
+    "pregunta": "Según el artículo 11.3 CE, ¿con qué países podrá el Estado concertar tratados de doble nacionalidad?",
+    "opciones": [
+      "Con los países iberoamericanos o con aquellos que hayan tenido o tengan una particular vinculación con España",
+      "Únicamente con los países iberoamericanos",
+      "Con cualquier Estado que lo solicite por vía diplomática"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 11.3 CE, literal."
+  },
+  {
+    "id": "ce1-09",
+    "pregunta": "Respecto a la naturalización de españoles en los países del artículo 11.3 CE, señale la afirmación CORRECTA:",
+    "opciones": [
+      "Solo pueden naturalizarse si ese país reconoce a sus ciudadanos un derecho recíproco",
+      "Podrán naturalizarse sin perder su nacionalidad de origen, aun cuando esos países no reconozcan un derecho recíproco",
+      "La naturalización implica en todo caso la pérdida de la nacionalidad española"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 11.3 CE: \"aun cuando no reconozcan a sus ciudadanos un derecho recíproco, podrán naturalizarse los españoles sin perder su nacionalidad de origen\"."
+  },
+  {
+    "id": "ce1-10",
+    "pregunta": "Según el artículo 12 CE, los españoles son mayores de edad a los...",
+    "opciones": [
+      "Veintiún años",
+      "Dieciocho años",
+      "Dieciséis años"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 12 CE: \"Los españoles son mayores de edad a los dieciocho años\"."
+  },
+  {
+    "id": "ce1-11",
+    "pregunta": "Sobre los derechos de los extranjeros en España (art. 13.1 CE), señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Gozarán de las libertades públicas que garantiza el Título I",
+      "Gozarán de esas libertades en los términos que establezcan los tratados y la ley",
+      "Gozarán de esas libertades en idénticos términos que los españoles, sin excepción alguna"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 13.1 CE remite a \"los términos que establezcan los tratados y la ley\", y el art. 13.2 introduce además una excepción expresa respecto del art. 23."
+  },
+  {
+    "id": "ce1-12",
+    "pregunta": "Según el artículo 13.2 CE, ¿quiénes son titulares de los derechos reconocidos en el artículo 23 (participación y acceso a cargos públicos)?",
+    "opciones": [
+      "Solamente los españoles, salvo lo que pueda establecerse por tratado o ley, atendiendo a criterios de reciprocidad, para el sufragio activo y pasivo en las elecciones municipales",
+      "Todos los residentes legales en España",
+      "Todos los ciudadanos de la Unión Europea en cualquier tipo de elección"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 13.2 CE, literal."
+  },
+  {
+    "id": "ce1-13",
+    "pregunta": "La excepción del artículo 13.2 CE sobre el derecho de sufragio activo y pasivo de los extranjeros se refiere a las elecciones...",
+    "opciones": [
+      "Generales",
+      "Autonómicas",
+      "Municipales"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 13.2 CE menciona exclusivamente \"las elecciones municipales\"."
+  },
+  {
+    "id": "ce1-14",
+    "pregunta": "Según la nota de vigencia que acompaña al artículo 13.2 CE, este apartado fue redactado conforme a la Reforma Constitucional de...",
+    "opciones": [
+      "27 de agosto de 1992",
+      "27 de septiembre de 2011",
+      "6 de diciembre de 1978"
+    ],
+    "correcta": 0,
+    "explicacion": "El texto recoge: \"Número 2 del artículo 13 redactado conforme Reforma Constitucional de 27 de agosto de 1992 (B.O.E. 28 agosto). Vigencia: 28 agosto 1992\"."
+  },
+  {
+    "id": "ce1-15",
+    "pregunta": "Según el artículo 13.3 CE, la extradición sólo se concederá...",
+    "opciones": [
+      "En cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad",
+      "Por acuerdo del Consejo de Ministros, oído el Consejo de Estado",
+      "Cuando lo solicite un Estado miembro de la Unión Europea"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 13.3 CE, literal."
+  },
+  {
+    "id": "ce1-16",
+    "pregunta": "Sobre la extradición en el artículo 13.3 CE, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Quedan excluidos de la extradición los delitos políticos",
+      "Los actos de terrorismo se consideran delitos políticos a estos efectos",
+      "Se atiende al principio de reciprocidad"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 13.3 CE: quedan excluidos los delitos políticos, \"no considerándose como tales los actos de terrorismo\"."
+  },
+  {
+    "id": "ce1-17",
+    "pregunta": "Respecto al derecho de asilo (art. 13.4 CE), señale la afirmación CORRECTA:",
+    "opciones": [
+      "La Constitución reconoce directamente el derecho de asilo a todo extranjero que lo solicite",
+      "La ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de asilo en España",
+      "El asilo se concede por decisión del Rey, a propuesta del Gobierno"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 13.4 CE, literal: la remisión es a la ley, e incluye expresamente a los apátridas."
+  },
+  {
+    "id": "ce1-18",
+    "pregunta": "El artículo 14 CE proclama que los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de...",
+    "opciones": [
+      "Nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social",
+      "Nacimiento, lengua, edad, ideología o territorio de residencia",
+      "Raza, sexo y religión, únicamente"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 14 CE, literal."
+  },
+  {
+    "id": "ce1-19",
+    "pregunta": "De las siguientes causas de discriminación, ¿cuál NO se cita expresamente en el artículo 14 CE?",
+    "opciones": [
+      "La opinión",
+      "La edad",
+      "La religión"
+    ],
+    "correcta": 1,
+    "explicacion": "El art. 14 CE cita nacimiento, raza, sexo, religión y opinión; la edad quedaría comprendida, en su caso, en la cláusula abierta \"cualquier otra condición o circunstancia personal o social\", pero no se menciona expresamente."
+  },
+  {
+    "id": "ce1-20",
+    "pregunta": "¿En qué ubicación sistemática de la Constitución se encuentra el artículo 14 (igualdad ante la ley)?",
+    "opciones": [
+      "En el Título Preliminar",
+      "Al inicio del Capítulo II del Título I, antes de la Sección 1",
+      "En el Capítulo I del Título I, sobre los españoles y los extranjeros"
+    ],
+    "correcta": 1,
+    "explicacion": "El art. 14 abre el Capítulo II (\"Derechos y libertades\") del Título I, con anterioridad a la Sección 1 (arts. 15 y ss.). El Capítulo I comprende los arts. 11 a 13."
+  }
+]

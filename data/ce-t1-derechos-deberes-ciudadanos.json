@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ce4-01",
+    "pregunta": "Según el artículo 30.1 CE, defender a España es para los españoles...",
+    "opciones": [
+      "Un derecho y un deber",
+      "Únicamente un deber",
+      "Únicamente un derecho"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 30.1 CE: \"Los españoles tienen el derecho y el deber de defender a España\"."
+  },
+  {
+    "id": "ce4-02",
+    "pregunta": "Según el artículo 30.2 CE, la ley regulará, con las debidas garantías, la objeción de conciencia y las demás causas de exención del servicio militar obligatorio, pudiendo imponer en su caso...",
+    "opciones": [
+      "Una sanción económica",
+      "Una prestación social sustitutoria",
+      "La pérdida temporal de derechos civiles"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 30.2 CE, literal."
+  },
+  {
+    "id": "ce4-03",
+    "pregunta": "El artículo 30.3 CE prevé que podrá establecerse un servicio civil para...",
+    "opciones": [
+      "El cumplimiento de fines de interés general",
+      "La sustitución del servicio militar en tiempo de guerra",
+      "La colaboración con las Fuerzas Armadas en maniobras"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 30.3 CE, literal."
+  },
+  {
+    "id": "ce4-04",
+    "pregunta": "Según el artículo 30.4 CE, ¿en qué casos podrán regularse mediante ley los deberes de los ciudadanos?",
+    "opciones": [
+      "En los casos de grave riesgo, catástrofe o calamidad pública",
+      "Únicamente en caso de guerra declarada",
+      "En los casos de crisis económica grave"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 30.4 CE, literal. Es el fundamento constitucional de los deberes ciudadanos en emergencias como los incendios forestales."
+  },
+  {
+    "id": "ce4-05",
+    "pregunta": "Según el artículo 31.1 CE, el sistema tributario justo estará inspirado en los principios de...",
+    "opciones": [
+      "Igualdad y progresividad, sin que en ningún caso tenga alcance confiscatorio",
+      "Proporcionalidad y solidaridad territorial",
+      "Suficiencia y neutralidad fiscal"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 31.1 CE, literal."
+  },
+  {
+    "id": "ce4-06",
+    "pregunta": "Sobre el artículo 31 CE, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica",
+      "El gasto público realizará una asignación equitativa de los recursos públicos, con criterios de eficiencia y economía",
+      "Podrán establecerse prestaciones personales o patrimoniales de carácter público mediante simple acuerdo administrativo"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 31.3 CE: \"Sólo podrán establecerse prestaciones personales o patrimoniales de carácter público con arreglo a la ley\"."
+  },
+  {
+    "id": "ce4-07",
+    "pregunta": "El artículo 32.1 CE establece que el hombre y la mujer tienen derecho a contraer matrimonio...",
+    "opciones": [
+      "Con plena igualdad jurídica",
+      "En las formas que determine cada Comunidad Autónoma",
+      "Previa autorización judicial cuando sean menores de edad"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 32.1 CE, literal."
+  },
+  {
+    "id": "ce4-08",
+    "pregunta": "De las siguientes materias, ¿cuál NO se remite expresamente a la ley en el artículo 32.2 CE?",
+    "opciones": [
+      "Las causas de separación y disolución del matrimonio y sus efectos",
+      "La edad y capacidad para contraer matrimonio",
+      "El régimen fiscal aplicable a los cónyuges"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 32.2 CE remite a la ley las formas de matrimonio, la edad y capacidad para contraerlo, los derechos y deberes de los cónyuges, y las causas de separación y disolución y sus efectos."
+  },
+  {
+    "id": "ce4-09",
+    "pregunta": "¿Qué derechos reconoce el artículo 33.1 CE?",
+    "opciones": [
+      "El derecho a la propiedad privada y a la herencia",
+      "El derecho a la propiedad privada y a la libertad de empresa",
+      "El derecho a la herencia y al patrimonio familiar protegido"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 33.1 CE, literal. La libertad de empresa se reconoce en el art. 38 CE."
+  },
+  {
+    "id": "ce4-10",
+    "pregunta": "Según el artículo 33.2 CE, ¿qué delimita el contenido del derecho a la propiedad privada y a la herencia?",
+    "opciones": [
+      "Su función social, de acuerdo con las leyes",
+      "La capacidad económica de su titular",
+      "El interés general apreciado por la Administración en cada caso"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 33.2 CE: \"La función social de estos derechos delimitará su contenido, de acuerdo con las leyes\"."
+  },
+  {
+    "id": "ce4-11",
+    "pregunta": "Sobre la privación de bienes y derechos (art. 33.3 CE), señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Exige causa justificada de utilidad pública o interés social",
+      "Exige la correspondiente indemnización",
+      "Puede acordarse sin indemnización cuando lo exija el interés general"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 33.3 CE: la privación requiere causa justificada de utilidad pública o interés social, la correspondiente indemnización y conformidad con lo dispuesto por las leyes."
+  },
+  {
+    "id": "ce4-12",
+    "pregunta": "El artículo 34.1 CE reconoce el derecho de fundación...",
+    "opciones": [
+      "Para fines de interés general, con arreglo a la ley",
+      "Para cualquier fin lícito, sin necesidad de ley",
+      "Únicamente a las personas jurídicas de derecho público"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 34.1 CE, literal."
+  },
+  {
+    "id": "ce4-13",
+    "pregunta": "Según el artículo 34.2 CE, a las fundaciones les resulta aplicable también lo dispuesto en...",
+    "opciones": [
+      "Los apartados 2 y 4 del artículo 22",
+      "El artículo 22 en su integridad",
+      "Los apartados 1 y 3 del artículo 22"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 34.2 CE: son ilegales las que persigan fines o utilicen medios tipificados como delito (22.2) y sólo pueden ser disueltas o suspendidas por resolución judicial motivada (22.4)."
+  },
+  {
+    "id": "ce4-14",
+    "pregunta": "Según el artículo 35.1 CE, trabajar es para todos los españoles...",
+    "opciones": [
+      "Un deber y un derecho",
+      "Únicamente un derecho",
+      "Un derecho de configuración legal sin contenido de deber"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 35.1 CE: \"Todos los españoles tienen el deber de trabajar y el derecho al trabajo...\"."
+  },
+  {
+    "id": "ce4-15",
+    "pregunta": "De los siguientes contenidos, ¿cuál NO se enumera en el artículo 35.1 CE?",
+    "opciones": [
+      "La libre elección de profesión u oficio",
+      "La promoción a través del trabajo",
+      "La estabilidad en el empleo y la prohibición del despido sin causa"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 35.1 CE enumera: derecho al trabajo, libre elección de profesión u oficio, promoción a través del trabajo y remuneración suficiente, sin discriminación por razón de sexo."
+  },
+  {
+    "id": "ce4-16",
+    "pregunta": "Según el artículo 35.2 CE, la ley regulará...",
+    "opciones": [
+      "Un estatuto de los trabajadores",
+      "Un estatuto básico del empleado público",
+      "Un régimen general de la Seguridad Social"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 35.2 CE, literal."
+  },
+  {
+    "id": "ce4-17",
+    "pregunta": "Sobre los Colegios Profesionales (art. 36 CE), señale la afirmación CORRECTA:",
+    "opciones": [
+      "Su estructura interna y funcionamiento deberán ser democráticos",
+      "Su régimen jurídico se remite íntegramente a sus propios estatutos",
+      "Están integrados en la Administración General del Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 36 CE: la ley regulará las peculiaridades de su régimen jurídico y del ejercicio de las profesiones tituladas, y su estructura interna y funcionamiento deberán ser democráticos."
+  },
+  {
+    "id": "ce4-18",
+    "pregunta": "Según el artículo 37.1 CE, la ley garantizará el derecho a la negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como...",
+    "opciones": [
+      "La fuerza vinculante de los convenios",
+      "La intervención arbitral de la Administración laboral",
+      "La primacía del convenio de empresa sobre el sectorial"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 37.1 CE, literal."
+  },
+  {
+    "id": "ce4-19",
+    "pregunta": "El artículo 37.2 CE reconoce el derecho a adoptar medidas de conflicto colectivo a...",
+    "opciones": [
+      "Los trabajadores y empresarios",
+      "Únicamente a los trabajadores",
+      "Únicamente a los sindicatos más representativos"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 37.2 CE: \"Se reconoce el derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo\"."
+  },
+  {
+    "id": "ce4-20",
+    "pregunta": "Según el artículo 38 CE, la libertad de empresa se reconoce...",
+    "opciones": [
+      "En el marco de la economía de mercado, garantizando los poderes públicos su ejercicio y la defensa de la productividad",
+      "Sin limitación alguna derivada de la planificación económica",
+      "Únicamente respecto de las pequeñas y medianas empresas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 38 CE: los poderes públicos garantizan y protegen su ejercicio y la defensa de la productividad, de acuerdo con las exigencias de la economía general y, en su caso, de la planificación."
+  }
+]

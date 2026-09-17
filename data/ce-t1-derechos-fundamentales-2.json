@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ce3-01",
+    "pregunta": "Según el artículo 23.1 CE, los ciudadanos tienen derecho a participar en los asuntos públicos...",
+    "opciones": [
+      "Directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal",
+      "Únicamente por medio de representantes elegidos en las elecciones generales",
+      "Directamente, mediante referéndum convocado por las Cortes Generales"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 23.1 CE, literal."
+  },
+  {
+    "id": "ce3-02",
+    "pregunta": "El artículo 23.2 CE reconoce el derecho a acceder en condiciones de igualdad a las funciones y cargos públicos...",
+    "opciones": [
+      "Sin más requisito que la nacionalidad española",
+      "Con los requisitos que señalen las leyes",
+      "Con los requisitos que fije la Administración convocante en cada caso"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 23.2 CE: \"con los requisitos que señalen las leyes\"."
+  },
+  {
+    "id": "ce3-03",
+    "pregunta": "Según el artículo 24.1 CE, ¿quiénes tienen derecho a obtener la tutela efectiva de los jueces y tribunales?",
+    "opciones": [
+      "Todos los españoles",
+      "Todas las personas",
+      "Todos los residentes legales en España"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 24.1 CE: \"Todas las personas tienen derecho a obtener la tutela efectiva de los jueces y tribunales en el ejercicio de sus derechos e intereses legítimos, sin que, en ningún caso, pueda producirse indefensión\"."
+  },
+  {
+    "id": "ce3-04",
+    "pregunta": "De las siguientes garantías procesales, ¿cuál NO se enumera expresamente en el artículo 24.2 CE?",
+    "opciones": [
+      "El derecho al Juez ordinario predeterminado por la ley",
+      "El derecho a la presunción de inocencia",
+      "El derecho a la doble instancia penal"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 24.2 CE enumera: Juez ordinario predeterminado por la ley, defensa y asistencia de letrado, ser informado de la acusación, proceso público sin dilaciones indebidas y con todas las garantías, medios de prueba pertinentes, no declarar contra sí mismo, no confesarse culpable y presunción de inocencia. La doble instancia no se menciona."
+  },
+  {
+    "id": "ce3-05",
+    "pregunta": "Según el artículo 24.2 CE, ¿en qué casos regulará la ley que no se esté obligado a declarar sobre hechos presuntamente delictivos?",
+    "opciones": [
+      "Por razón de parentesco o de secreto profesional",
+      "Por razón de edad o de discapacidad",
+      "Por razón de residencia en el extranjero"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 24.2, párrafo final, CE, literal."
+  },
+  {
+    "id": "ce3-06",
+    "pregunta": "El artículo 25.1 CE establece que nadie puede ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan delito, falta o infracción administrativa...",
+    "opciones": [
+      "Según la legislación vigente en aquel momento",
+      "Según la legislación vigente en el momento de dictarse la resolución",
+      "Salvo que exista jurisprudencia consolidada al respecto"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 25.1 CE, literal: rige la legislación vigente en el momento de producirse la acción u omisión."
+  },
+  {
+    "id": "ce3-07",
+    "pregunta": "Según el artículo 25.2 CE, las penas privativas de libertad y las medidas de seguridad estarán orientadas hacia...",
+    "opciones": [
+      "La retribución proporcionada del daño causado",
+      "La reeducación y reinserción social, y no podrán consistir en trabajos forzados",
+      "La prevención general, admitiéndose el trabajo forzado en delitos graves"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 25.2 CE, literal."
+  },
+  {
+    "id": "ce3-08",
+    "pregunta": "Sobre el condenado a pena de prisión que la estuviere cumpliendo (art. 25.2 CE), señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Gozará de los derechos fundamentales de este Capítulo, salvo los expresamente limitados por el fallo condenatorio, el sentido de la pena y la ley penitenciaria",
+      "Tendrá derecho en todo caso a un trabajo remunerado y a los beneficios correspondientes de la Seguridad Social",
+      "Queda privado de todos los derechos fundamentales mientras dure el cumplimiento"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 25.2 CE: conserva los derechos fundamentales del Capítulo, salvo los expresamente limitados, y tiene además derecho al acceso a la cultura y al desarrollo integral de su personalidad."
+  },
+  {
+    "id": "ce3-09",
+    "pregunta": "Según el artículo 25.3 CE, la Administración civil...",
+    "opciones": [
+      "Podrá imponer sanciones privativas de libertad en casos de infracción muy grave",
+      "No podrá imponer sanciones que, directa o subsidiariamente, impliquen privación de libertad",
+      "Podrá imponer arrestos sustitutorios en caso de impago de multa"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 25.3 CE, literal."
+  },
+  {
+    "id": "ce3-10",
+    "pregunta": "¿Qué prohíbe el artículo 26 CE?",
+    "opciones": [
+      "Los Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales",
+      "Los tribunales de excepción de cualquier clase",
+      "Los tribunales consuetudinarios y tradicionales"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 26 CE, literal. La prohibición se ciñe a la Administración civil y a las organizaciones profesionales."
+  },
+  {
+    "id": "ce3-11",
+    "pregunta": "El artículo 27.1 CE reconoce:",
+    "opciones": [
+      "El derecho a la educación y la libertad de enseñanza",
+      "El derecho a la educación gratuita en todos los niveles",
+      "La libertad de enseñanza únicamente en los centros privados"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 27.1 CE: \"Todos tienen el derecho a la educación. Se reconoce la libertad de enseñanza\"."
+  },
+  {
+    "id": "ce3-12",
+    "pregunta": "Según el artículo 27.2 CE, la educación tendrá por objeto...",
+    "opciones": [
+      "La capacitación profesional de los alumnos para el mercado de trabajo",
+      "El pleno desarrollo de la personalidad humana en el respeto a los principios democráticos de convivencia y a los derechos y libertades fundamentales",
+      "La transmisión de los valores culturales propios de cada Comunidad Autónoma"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 27.2 CE, literal."
+  },
+  {
+    "id": "ce3-13",
+    "pregunta": "Sobre la enseñanza básica, el artículo 27.4 CE dispone que es:",
+    "opciones": [
+      "Obligatoria y gratuita",
+      "Gratuita, pero no obligatoria",
+      "Obligatoria, y gratuita solo en centros públicos"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 27.4 CE: \"La enseñanza básica es obligatoria y gratuita\"."
+  },
+  {
+    "id": "ce3-14",
+    "pregunta": "Sobre el artículo 27 CE, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "Los poderes públicos garantizan el derecho de los padres a que sus hijos reciban la formación religiosa y moral acorde con sus convicciones",
+      "Se reconoce a las personas físicas y jurídicas la libertad de creación de centros docentes, dentro del respeto a los principios constitucionales",
+      "Las Universidades carecen de autonomía y dependen orgánicamente del Ministerio competente"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 27.10 CE: \"Se reconoce la autonomía de las Universidades, en los términos que la ley establezca\". Los otros dos enunciados son los apartados 3 y 6."
+  },
+  {
+    "id": "ce3-15",
+    "pregunta": "Según el artículo 27.7 CE, ¿quiénes intervendrán en el control y gestión de todos los centros sostenidos por la Administración con fondos públicos?",
+    "opciones": [
+      "Únicamente los profesores y el equipo directivo",
+      "Los profesores, los padres y, en su caso, los alumnos, en los términos que la ley establezca",
+      "Los inspectores designados por la Administración educativa"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 27.7 CE, literal."
+  },
+  {
+    "id": "ce3-16",
+    "pregunta": "Sobre la libertad sindical del artículo 28.1 CE, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "La ley podrá limitar o exceptuar su ejercicio a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar",
+      "Comprende el derecho a fundar sindicatos y a afiliarse al de su elección",
+      "Todo trabajador está obligado a afiliarse a un sindicato representativo de su sector"
+    ],
+    "correcta": 2,
+    "explicacion": "Art. 28.1 CE, párrafo final: \"Nadie podrá ser obligado a afiliarse a un sindicato\"."
+  },
+  {
+    "id": "ce3-17",
+    "pregunta": "Según el artículo 28.1 CE, ¿respecto de qué colectivo regulará la ley las peculiaridades del ejercicio del derecho de sindicación?",
+    "opciones": [
+      "Los funcionarios públicos",
+      "Los trabajadores autónomos",
+      "El personal laboral de las empresas públicas"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 28.1 CE: la ley \"regulará las peculiaridades de su ejercicio para los funcionarios públicos\"."
+  },
+  {
+    "id": "ce3-18",
+    "pregunta": "El artículo 28.2 CE reconoce el derecho a la huelga de los trabajadores para la defensa de sus intereses, y añade que la ley que regule su ejercicio...",
+    "opciones": [
+      "Establecerá las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad",
+      "Fijará un preaviso mínimo de quince días en todo caso",
+      "Podrá prohibirla en los sectores considerados estratégicos"
+    ],
+    "correcta": 0,
+    "explicacion": "Art. 28.2 CE, literal."
+  },
+  {
+    "id": "ce3-19",
+    "pregunta": "Según el artículo 29.1 CE, el derecho de petición individual y colectiva corresponde a...",
+    "opciones": [
+      "Todas las personas, sean o no españolas",
+      "Todos los españoles, por escrito, en la forma y con los efectos que determine la ley",
+      "Únicamente a las asociaciones legalmente constituidas"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 29.1 CE, literal: el titular es \"todos los españoles\" y la forma exigida es por escrito."
+  },
+  {
+    "id": "ce3-20",
+    "pregunta": "Sobre el derecho de petición de los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar (art. 29.2 CE), señale la afirmación CORRECTA:",
+    "opciones": [
+      "No pueden ejercer este derecho en ningún caso",
+      "Podrán ejercerlo sólo individualmente y con arreglo a lo dispuesto en su legislación específica",
+      "Podrán ejercerlo individual y colectivamente, como el resto de los españoles"
+    ],
+    "correcta": 1,
+    "explicacion": "Art. 29.2 CE, literal: sólo individualmente y conforme a su legislación específica."
+  }
+]
